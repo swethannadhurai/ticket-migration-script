@@ -228,8 +228,12 @@ async function main() {
 
       let needsCvn = false;
       let needsInt = false;
+      const deletedIds = new Set();
+      let hasCvnNote = false;  // did we find ANY live note matching CVN?
+      let hasIntNote = false;  // did we find ANY live note matching INT?
 
       for (const convo of convos) {
+        if (deletedIds.has(convo.id)) continue; // already deleted this run
         const isPrivate = convo.private === true;
         const bodyText = convo.body_text || stripHtml(convo.body) || '';
 
@@ -240,6 +244,7 @@ async function main() {
 
         // ── CVN check ──────────────────────────────────────────────────────────
         if (containsCvn) {
+          hasCvnNote = true;
           // BAD if: private, combined with INT, OR source has >1 block (needs splitting into separate notes)
           const isBad = isPrivate || containsInt || cvnBlocks.length > 1;
           if (isBad) {
@@ -247,6 +252,7 @@ async function main() {
             console.log(`  🔄 Note ${convo.id} is BAD — ${reason}. Deleting...`);
             try {
               await apiDeleteNote(ticketId, convo.id);
+              deletedIds.add(convo.id);
               needsCvn = true;
               if (containsInt) needsInt = true;
             } catch (e) { log('error', `Delete failed: ${e.message}`); }
@@ -257,12 +263,14 @@ async function main() {
 
         // ── INT check ──────────────────────────────────────────────────────────
         if (containsInt && !(containsCvn && isPrivate)) {
+          hasIntNote = true;
           const isBad = !isPrivate || containsCvn || intBlocks.length > 1;
           if (isBad) {
             const reason = !isPrivate ? 'wrong visibility (public)' : containsCvn ? 'combined with Customer Visible Notes' : `needs splitting (${intBlocks.length} blocks in source)`;
             console.log(`  🔄 Note ${convo.id} is BAD — ${reason}. Deleting...`);
             try {
               await apiDeleteNote(ticketId, convo.id);
+              deletedIds.add(convo.id);
               needsInt = true;
             } catch (e) { log('error', `Delete failed: ${e.message}`); }
           } else {
@@ -270,6 +278,10 @@ async function main() {
           }
         }
       }
+
+      // Also create notes that are completely missing from the live ticket
+      if (cvnText && !hasCvnNote) { needsCvn = true; log('info', `  ℹ️  CVN notes are missing entirely — will create.`); }
+      if (intText && !hasIntNote) { needsInt = true; log('info', `  ℹ️  INT notes are missing entirely — will create.`); }
 
       // ── Recreate: one separate note per block, oldest first ─────────────────
       if (needsCvn && cvnBlocks.length > 0) {

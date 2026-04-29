@@ -43,7 +43,7 @@ const REQUIRED_TAGS = ['prod_migration', 'migrated'];
 
 // 🔴 EDIT THIS LINE: To test specific tickets in Prod, add their IDs here (e.g. ['622', '624']).
 // Leave it completely empty `[]` to process ALL tickets.
-const TEST_TICKET_IDS = ['1330'];
+const TEST_TICKET_IDS = ['1448'];
 
 const RATE_LIMIT_MS = 1300;   // ~45 req/min (Freshdesk limit: 50/min)
 const PROGRESS_FILE = path.join(__dirname, 'progress.json');
@@ -549,8 +549,12 @@ async function main() {
 
         let needsCvn = false;
         let needsInt = false;
+        const deletedIds = new Set();
+        let hasCvnNote = false;  // did we find ANY live note matching CVN?
+        let hasIntNote = false;  // did we find ANY live note matching INT?
 
         for (const liveNote of liveNotes) {
+          if (deletedIds.has(liveNote.id)) continue; // already deleted this run
           const isPrivateNote = liveNote.private === true;
           const bodyText = liveNote.body_text || stripHtml(liveNote.body) || '';
 
@@ -561,11 +565,13 @@ async function main() {
 
           // CVN: BAD if private, combined with INT, or source has >1 block (needs splitting)
           if (containsCvn) {
+            hasCvnNote = true;
             const isBad = isPrivateNote || containsInt || cvnBlocks.length > 1;
             if (isBad) {
               const reason = isPrivateNote ? 'wrong visibility (private)' : containsInt ? 'combined with Internal Notes' : `needs splitting (${cvnBlocks.length} blocks)`;
               console.log(`  🔄 Note ${liveNote.id} is BAD — ${reason}. Deleting...`);
               await apiDeleteConversation(liveNote.id);
+              deletedIds.add(liveNote.id);
               stats.noteDeleted++;
               needsCvn = true;
               if (containsInt) needsInt = true;
@@ -576,11 +582,13 @@ async function main() {
 
           // INT: BAD if public, combined with CVN, or source has >1 block (needs splitting)
           if (containsInt && !(containsCvn && isPrivateNote)) {
+            hasIntNote = true;
             const isBad = !isPrivateNote || containsCvn || intBlocks.length > 1;
             if (isBad) {
               const reason = !isPrivateNote ? 'wrong visibility (public)' : containsCvn ? 'combined with Customer Visible Notes' : `needs splitting (${intBlocks.length} blocks)`;
               console.log(`  🔄 Note ${liveNote.id} is BAD — ${reason}. Deleting...`);
               await apiDeleteConversation(liveNote.id);
+              deletedIds.add(liveNote.id);
               stats.noteDeleted++;
               needsInt = true;
             } else {
@@ -588,6 +596,10 @@ async function main() {
             }
           }
         }
+
+        // Also create notes that are completely missing from the live ticket
+        if (cvnText && !hasCvnNote) { needsCvn = true; log('info', `  ℹ️  CVN notes are missing entirely — will create.`); }
+        if (intText && !hasIntNote) { needsInt = true; log('info', `  ℹ️  INT notes are missing entirely — will create.`); }
 
         // Recreate: one separate note per block, oldest first
         if (needsCvn && cvnBlocks.length > 0) {
