@@ -1,0 +1,202 @@
+[
+  {
+    "time": "2026-04-29T08:46:51.344Z",
+    "level": "info",
+    "msg": "── Step 1: Loading Excel source data ──"
+  },
+  {
+    "time": "2026-04-29T08:46:51.345Z",
+    "level": "info",
+    "msg": "Loading Excel: Service Request.xlsx"
+  },
+  {
+    "time": "2026-04-29T08:46:53.369Z",
+    "level": "info",
+    "msg": "  Using sheet: \"MIG - OpenInprogress Onhold - S\""
+  },
+  {
+    "time": "2026-04-29T08:46:53.420Z",
+    "level": "info",
+    "msg": "  Rows loaded: 386"
+  },
+  {
+    "time": "2026-04-29T08:46:53.421Z",
+    "level": "info",
+    "msg": "Loading Excel: Customerservice_case.xlsx"
+  },
+  {
+    "time": "2026-04-29T08:47:04.385Z",
+    "level": "info",
+    "msg": "  Using sheet: \"MIG -NewInProgressSolutionAnnou\""
+  },
+  {
+    "time": "2026-04-29T08:47:04.454Z",
+    "level": "info",
+    "msg": "  Rows loaded: 476"
+  },
+  {
+    "time": "2026-04-29T08:47:04.454Z",
+    "level": "info",
+    "msg": "Loading Excel: Master Ticket (All Status).xlsx"
+  },
+  {
+    "time": "2026-04-29T08:47:06.546Z",
+    "level": "info",
+    "msg": "  Using sheet: \"Master Ticket \""
+  },
+  {
+    "time": "2026-04-29T08:47:07.080Z",
+    "level": "info",
+    "msg": "  Rows loaded: 3733"
+  },
+  {
+    "time": "2026-04-29T08:47:07.081Z",
+    "level": "info",
+    "msg": "Total Excel rows: 4595"
+  },
+  {
+    "time": "2026-04-29T08:47:07.088Z",
+    "level": "info",
+    "msg": "Excel lookup built: 8866 keys"
+  },
+  {
+    "time": "2026-04-29T08:47:07.088Z",
+    "level": "info",
+    "msg": "\n── Step 2: Parsing XML ticket exports ──"
+  },
+  {
+    "time": "2026-04-29T08:47:07.089Z",
+    "level": "info",
+    "msg": "XML files: Tickets0.xml, Tickets1.xml, Tickets2.xml, Tickets3.xml, Tickets4.xml, Tickets5.xml, Tickets6.xml"
+  },
+  {
+    "time": "2026-04-29T08:47:07.089Z",
+    "level": "info",
+    "msg": "Parsing XML: Tickets0.xml"
+  },
+  {
+    "time": "2026-04-29T08:47:07.665Z",
+    "level": "info",
+    "msg": "  Tickets0.xml: 300 total → 272 migrated"
+  },
+  {
+    "time": "2026-04-29T08:47:07.665Z",
+    "level": "info",
+    "msg": "Parsing XML: Tickets1.xml"
+  },
+  {
+    "time": "2026-04-29T08:47:08.216Z",
+    "level": "info",
+    "msg": "  Tickets1.xml: 300 total → 299 migrated"
+  },
+  {
+    "time": "2026-04-29T08:47:08.216Z",
+    "level": "info",
+    "msg": "Parsing XML: Tickets2.xml"
+  },
+  {
+    "time": "2026-04-29T08:47:08.750Z",
+    "level": "info",
+    "msg": "  Tickets2.xml: 300 total → 238 migrated"
+  },
+  {
+    "time": "2026-04-29T08:47:08.750Z",
+    "level": "info",
+    "msg": "Parsing XML: Tickets3.xml"
+  },
+  {
+    "time": "2026-04-29T08:47:09.297Z",
+    "level": "info",
+    "msg": "  Tickets3.xml: 300 total → 0 migrated"
+  },
+  {
+    "time": "2026-04-29T08:47:09.298Z",
+    "level": "info",
+    "msg": "Parsing XML: Tickets4.xml"
+  },
+  {
+    "time": "2026-04-29T08:47:09.811Z",
+    "level": "info",
+    "msg": "  Tickets4.xml: 300 total → 0 migrated"
+  },
+  {
+    "time": "2026-04-29T08:47:09.811Z",
+    "level": "info",
+    "msg": "Parsing XML: Tickets5.xml"
+  },
+  {
+    "time": "2026-04-29T08:47:10.267Z",
+    "level": "info",
+    "msg": "  Tickets5.xml: 300 total → 0 migrated"
+  },
+  {
+    "time": "2026-04-29T08:47:10.268Z",
+    "level": "info",
+    "msg": "Parsing XML: Tickets6.xml"
+  },
+  {
+    "time": "2026-04-29T08:47:10.484Z",
+    "level": "info",
+    "msg": "  Tickets6.xml: 140 total → 0 migrated"
+  },
+  {
+    "time": "2026-04-29T08:47:10.485Z",
+    "level": "warn",
+    "msg": "TEST_TICKET_IDS filter is ON. Found 1 matches out of 1 requested IDs."
+  },
+  {
+    "time": "2026-04-29T08:47:10.485Z",
+    "level": "info",
+    "msg": "\nTotal migrated tickets to process: 1"
+  },
+  {
+    "time": "2026-04-29T08:47:10.486Z",
+    "level": "info",
+    "msg": "\n── Step 3: Processing tickets ──"
+  },
+  {
+    "time": "2026-04-29T08:47:10.486Z",
+    "level": "info",
+    "msg": "Processing ticket #1330",
+    "subject": "Medical Tourism Changes in XML Generation",
+    "externalRef": "RITM0134876"
+  },
+  {
+    "time": "2026-04-29T08:47:10.486Z",
+    "level": "info",
+    "msg": "  Matched Excel row: RITM0134876"
+  },
+  {
+    "time": "2026-04-29T08:47:10.487Z",
+    "level": "dry",
+    "msg": "[DRY] Update ticket #1330",
+    "customFields": {
+      "cf_original_ticket_creation_date": "2023-08-29T10:34:00.000Z"
+    }
+  },
+  {
+    "time": "2026-04-29T08:47:12.653Z",
+    "level": "dry",
+    "msg": "[DRY] Delete conversation 159028250978"
+  },
+  {
+    "time": "2026-04-29T08:47:12.654Z",
+    "level": "dry",
+    "msg": "[DRY] Delete conversation 159028250978"
+  },
+  {
+    "time": "2026-04-29T08:47:12.654Z",
+    "level": "dry",
+    "msg": "[DRY] Create PUBLIC note on ticket #1330"
+  },
+  {
+    "time": "2026-04-29T08:47:12.655Z",
+    "level": "dry",
+    "msg": "[DRY] Create PUBLIC note on ticket #1330"
+  },
+  {
+    "time": "2026-04-29T08:47:12.655Z",
+    "level": "dry",
+    "msg": "[DRY] Create PRIVATE note on ticket #1330"
+  }
+]

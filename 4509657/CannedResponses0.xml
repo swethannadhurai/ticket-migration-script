@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<admin-canned-responses-folders type="array">
+  <admin-canned-responses-folder>
+    <id type="integer">159000287281</id>
+    <name>General</name>
+    <is-default type="boolean">true</is-default>
+    <account-id type="integer">4509657</account-id>
+    <created-at type="dateTime">2025-09-06T06:24:49+08:00</created-at>
+    <updated-at type="dateTime">2025-09-06T06:24:49+08:00</updated-at>
+    <folder-type type="integer">200</folder-type>
+    <deleted type="boolean">false</deleted>
+    <all-canned-responses type="array">
+      <all-canned-response type="Admin::CannedResponses::Response">
+        <id type="integer">159000420969</id>
+        <title>Appointment Confirmation</title>
+        <content>Dear {ticket.requester.firstname},  Thank you for scheduling an appointment with {{helpdesk_name}} on [Appointment Date] at [Appointment Time]. Your appointment has been successfully confirmed.  If you need to reschedule or cancel, please contact us at least 24 hours in advance. We look forward to seeing you.  Best regards, [Your Name] [Your Position] [Contact Information]</content>
+        <account-id type="integer">4509657</account-id>
+        <created-at type="dateTime">2025-12-19T19:46:18+08:00</created-at>
+        <updated-at type="dateTime">2025-12-19T19:46:18+08:00</updated-at>
+        <content-html>&lt;div dir="ltr"&gt;
+Dear {ticket.requester.firstname},&lt;br&gt;&lt;br&gt;Thank you for scheduling an appointment with {{helpdesk_name}} on [Appointment Date] at [Appointment Time]. Your appointment has been successfully confirmed.&lt;br&gt;&lt;br&gt;If you need to reschedule or cancel, please contact us at least 24 hours in advance. We look forward to seeing you.&lt;br&gt;&lt;br&gt;Best regards,&lt;br&gt;[Your Name]&lt;br&gt;[Your Position]&lt;br&gt;[Contact Information]
+&lt;/div&gt;</content-html>
+        <folder-id type="integer">159000287281</folder-id>
+        <deleted type="boolean">false</deleted>
+        <additional-settings type="json" nil="true"/>
+      </all-canned-response>
+      <all-canned-response type="Admin::CannedResponses::Response">
+        <id type="integer">159000420971</id>
+        <title>Medical Records Access Issue</title>
+        <content>Dear {ticket.requester.firstname},  We understand you're experiencing issues accessing your medical records. Please try the following steps:  Ensure your internet connection is stable. Verify your login credentials. Use the "Forgot Password" option if needed. Clear your browser’s cache and cookies.  If the problem persists, please reply to this email or call us at [Contact Information] for further assistance.  Best regards, [Your Name] [Your Position]</content>
+        <account-id type="integer">4509657</account-id>
+        <created-at type="dateTime">2025-12-19T19:46:18+08:00</created-at>
+        <updated-at type="dateTime">2025-12-19T19:46:18+08:00</updated-at>
+        <content-html>&lt;div dir="ltr"&gt;
+Dear {ticket.requester.firstname},&lt;br&gt;&lt;br&gt;We understand you're experiencing issues accessing your medical records. Please try the following steps:&lt;br&gt;&lt;br&gt;Ensure your internet connection is stable.&lt;br&gt;Verify your login credentials.&lt;br&gt;Use the "Forgot Password" option if needed.&lt;br&gt;Clear your browser’s cache and cookies.&lt;br&gt;&lt;br&gt;If the problem persists, please reply to this email or call us at [Contact Information] for further assistance.&lt;br&gt;&lt;br&gt;Best regards,&lt;br&gt;[Your Name]&lt;br&gt;[Your Position]
+&lt;/div&gt;</content-html>
+        <folder-id type="integer">159000287281</folder-id>
+        <deleted type="boolean">false</deleted>
+        <additional-settings type="json" nil="true"/>
+      </all-canned-response>
+      <all-canned-response type="Admin::CannedResponses::Response">
+        <id type="integer">159000420970</id>
+        <title>Rescheduling Request Acknowledgment</title>
+        <content>Dear {ticket.requester.firstname},  We have received your request to reschedule your appointment with {{helpdesk_name}}. Our team will review your request and get back to you with a new date and time shortly.  Thank you for your patience. If you have any urgent concerns, please contact us directly at [Contact Information].  Best regards, [Your Name] [Your Position]</content>
+        <account-id type="integer">4509657</account-id>
+        <created-at type="dateTime">2025-12-19T19:46:18+08:00</created-at>
+        <updated-at type="dateTime">2025-12-19T19:46:18+08:00</updated-at>
+        <content-html>&lt;div dir="ltr"&gt;
+Dear {ticket.requester.firstname},&lt;br&gt;&lt;br&gt;We have received your request to reschedule your appointment with {{helpdesk_name}}. Our team will review your request and get back to you with a new date and time shortly.&lt;br&gt;&lt;br&gt;Thank you for your patience. If you have any urgent concerns, please contact us directly at [Contact Information].&lt;br&gt;&lt;br&gt;Best regards,&lt;br&gt;[Your Name]&lt;br&gt;[Your Position]
+&lt;/div&gt;</content-html>
+        <folder-id type="integer">159000287281</folder-id>
+        <deleted type="boolean">false</deleted>
+        <additional-settings type="json" nil="true"/>
+      </all-canned-response>
+      <all-canned-response type="Admin::CannedResponses::Response">
+        <id type="integer">159000420972</id>
+        <title>Telehealth Appointment Instructions</title>
+        <content>Dear {ticket.requester.firstname},  Your telehealth appointment with {{helpdesk_name}} is scheduled for [Appointment Date] at [Appointment Time]. Here’s how to prepare:  Choose a quiet, private location. Ensure your device's camera and microphone are working. Have your medical records and questions ready. Log in a few minutes early to test your connection.  We look forward to providing you with the best possible care.  Best regards, [Your Name] [Your Position]</content>
+        <account-id type="integer">4509657</account-id>
+        <created-at type="dateTime">2025-12-19T19:46:18+08:00</created-at>
+        <updated-at type="dateTime">2025-12-19T19:46:18+08:00</updated-at>
+        <content-html>&lt;div dir="ltr"&gt;
+Dear {ticket.requester.firstname},&lt;br&gt;&lt;br&gt;Your telehealth appointment with {{helpdesk_name}} is scheduled for [Appointment Date] at [Appointment Time]. Here’s how to prepare:&lt;br&gt;&lt;br&gt;Choose a quiet, private location.&lt;br&gt;Ensure your device's camera and microphone are working.&lt;br&gt;Have your medical records and questions ready.&lt;br&gt;Log in a few minutes early to test your connection.&lt;br&gt;&lt;br&gt;We look forward to providing you with the best possible care.&lt;br&gt;&lt;br&gt;Best regards,&lt;br&gt;[Your Name]&lt;br&gt;[Your Position]
+&lt;/div&gt;</content-html>
+        <folder-id type="integer">159000287281</folder-id>
+        <deleted type="boolean">false</deleted>
+        <additional-settings type="json" nil="true"/>
+      </all-canned-response>
+    </all-canned-responses>
+  </admin-canned-responses-folder>
+  <admin-canned-responses-folder>
+    <id type="integer">159000287282</id>
+    <name>Personal_4509657</name>
+    <is-default type="boolean">true</is-default>
+    <account-id type="integer">4509657</account-id>
+    <created-at type="dateTime">2025-09-06T06:24:49+08:00</created-at>
+    <updated-at type="dateTime">2025-09-06T06:24:49+08:00</updated-at>
+    <folder-type type="integer">100</folder-type>
+    <deleted type="boolean">false</deleted>
+    <all-canned-responses type="array">
+      <all-canned-response type="Admin::CannedResponses::Response">
+        <id type="integer">159000422942</id>
+        <title>Findings, Cause, and Workaround/Solution</title>
+        <content>Hello {{ticket.requester.name}}     Please find the findings, cause, and workaround/solution to this ticket.     Findings     Cause     Workaround/Solution</content>
+        <account-id type="integer">4509657</account-id>
+        <created-at type="dateTime">2026-02-02T16:54:12+08:00</created-at>
+        <updated-at type="dateTime">2026-02-02T16:54:12+08:00</updated-at>
+        <content-html>&lt;div dir="ltr"&gt;
+&lt;div&gt;Hello {{ticket.requester.name}}&lt;/div&gt;
+&lt;div&gt;&lt;br&gt;&lt;/div&gt;
+&lt;div&gt;Please find the findings, cause, and workaround/solution to this ticket.&lt;/div&gt;
+&lt;div&gt;&lt;br&gt;&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;Findings&lt;/b&gt;&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;Cause&lt;/b&gt;&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;Workaround/Solution&lt;/b&gt;&lt;/div&gt;
+&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;
+&lt;/div&gt;</content-html>
+        <folder-id type="integer">159000287282</folder-id>
+        <deleted type="boolean">false</deleted>
+        <additional-settings type="json" nil="true"/>
+      </all-canned-response>
+    </all-canned-responses>
+  </admin-canned-responses-folder>
+</admin-canned-responses-folders>

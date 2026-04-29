@@ -1,0 +1,2836 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users type="array">
+  <user>
+    <id type="integer">159009908893</id>
+    <name>Amjad Kasim Zingun</name>
+    <email>amjadz-temp@taibahospital.com</email>
+    <created-at type="dateTime">2025-12-19T19:02:06+08:00</created-at>
+    <updated-at type="dateTime">2025-12-19T19:02:06+08:00</updated-at>
+    <account-id type="integer">4509657</account-id>
+    <active type="boolean">false</active>
+    <customer-id type="integer">159002486166</customer-id>
+    <job-title nil="true"/>
+    <phone>96899112202</phone>
+    <mobile nil="true"/>
+    <twitter-id nil="true"/>
+    <description nil="true"/>
+    <time-zone>Kuwait</time-zone>
+    <deleted type="boolean">false</deleted>
+    <fb-profile-id nil="true"/>
+    <language>en</language>
+    <address nil="true"/>
+    <external-id nil="true"/>
+    <helpdesk-agent type="boolean">false</helpdesk-agent>
+    <unique-external-id nil="true"/>
+    <company-id type="integer">159002486166</company-id>
+    <other-phone-numbers nil="true"/>
+    <custom_field>
+      <cf_region>MEA</cf_region>
+    </custom_field>
+  </user>
+  <user>
+    <id type="integer">159009908894</id>
+    <name>Shahir Mohammed</name>
+    <email>shahir-temp@taibahospital.com</email>
+    <created-at type="dateTime">2025-12-19T19:02:06+08:00</created-at>
+    <updated-at type="dateTime">2025-12-19T19:02:06+08:00</updated-at>
+    <account-id type="integer">4509657</account-id>
+    <active type="boolean">false</active>
+    <customer-id type="integer">159002486166</customer-id>
+    <job-title nil="true"/>
+    <phone>96899112202</phone>
+    <mobile nil="true"/>
+    <twitter-id nil="true"/>
+    <description nil="true"/>
+    <time-zone>Kuwait</time-zone>
+    <deleted type="boolean">false</deleted>
+    <fb-profile-id nil="true"/>
+    <language>en</language>
+    <address nil="true"/>
+    <external-id nil="true"/>
+    <helpdesk-agent type="boolean">false</helpdesk-agent>
+    <unique-external-id nil="true"/>
+    <company-id type="integer">159002486166</company-id>
+    <other-phone-numbers nil="true"/>
+    <custom_field>
+      <cf_region>MEA</cf_region>
+    </custom_field>
+  </user>
+  <user>
+    <id type="integer">159009938706</id>
+    <name>Migrated_user</name>
+    <email>migrated_user@example.com</email>
+    <created-at type="dateTime">2025-12-22T16:01:54+08:00</created-at>
+    <updated-at type="dateTime">2025-12-22T16:01:54+08:00</updated-at>
+    <account-id type="integer">4509657</account-id>
+    <active type="boolean">false</active>
+    <customer-id type="integer" nil="true"/>
+    <job-title nil="true"/>
+    <phone nil="true"/>
+    <mobile nil="true"/>
+    <twitter-id nil="true"/>
+    <description nil="true"/>
+    <time-zone>Singapore</time-zone>
+    <deleted type="boolean">false</deleted>
+    <fb-profile-id nil="true"/>
+    <language>en</language>
+    <address nil="true"/>
+    <external-id nil="true"/>
+    <helpdesk-agent type="boolean">false</helpdesk-agent>
+    <unique-external-id nil="true"/>
+    <company-id nil="true"/>
+    <other-phone-numbers nil="true"/>
+    <custom_field>
+    </custom_field>
+  </user>
+  <user>
+    <id type="integer">159009938708</id>
+    <name>Jleekaewkhru</name>
+    <email>jleekaewkhru@dedalus.eu</email>
+    <created-at type="dateTime">2025-12-22T16:01:58+08:00</created-at>
+    <updated-at type="dateTime">2025-12-22T16:01:58+08:00</updated-at>
+    <account-id type="integer">4509657</account-id>
+    <active type="boolean">false</active>
+    <customer-id type="integer" nil="true"/>
+    <job-title nil="true"/>
+    <phone nil="true"/>
+    <mobile nil="true"/>
+    <twitter-id nil="true"/>
+    <description nil="true"/>
+    <time-zone>Singapore</time-zone>
+    <deleted type="boolean">false</deleted>
+    <fb-profile-id nil="true"/>
+    <language>en</language>
+    <address nil="true"/>
+    <external-id nil="true"/>
+    <helpdesk-agent type="boolean">false</helpdesk-agent>
+    <unique-external-id nil="true"/>
+    <company-id nil="true"/>
+    <other-phone-numbers nil="true"/>
+    <custom_field>
+    </custom_field>
+  </user>
+  <user>
+    <id type="integer">159009938709</id>
+    <name>Nagarjuna. sajja</name>
+    <email>nagarjuna.sajja@dedalus.eu</email>
+    <created-at type="dateTime">2025-12-22T16:02:02+08:00</created-at>
+    <updated-at type="dateTime">2025-12-22T16:02:02+08:00</updated-at>
+    <account-id type="integer">4509657</account-id>
+    <active type="boolean">false</active>
+    <customer-id type="integer" nil="true"/>
+    <job-title nil="true"/>
+    <phone nil="true"/>
+    <mobile nil="true"/>
+    <twitter-id nil="true"/>
+    <description nil="true"/>
+    <time-zone>Singapore</time-zone>
+    <deleted type="boolean">false</deleted>
+    <fb-profile-id nil="true"/>
+    <language>en</language>
+    <address nil="true"/>
+    <external-id nil="true"/>
+    <helpdesk-agent type="boolean">false</helpdesk-agent>
+    <unique-external-id nil="true"/>
+    <company-id nil="true"/>
+    <other-phone-numbers nil="true"/>
+    <custom_field>
+    </custom_field>
+  </user>
+  <user>
+    <id type="integer">159010059867</id>
+    <name>Migration_bot</name>
+    <email>migration_bot@example.com</email>
+    <created-at type="dateTime">2026-01-08T15:13:27+08:00</created-at>
+    <updated-at type="dateTime">2026-01-08T15:13:28+08:00</updated-at>
+    <account-id type="integer">4509657</account-id>
+    <active type="boolean">false</active>
+    <customer-id type="integer" nil="true"/>
+    <job-title nil="true"/>
+    <phone nil="true"/>
+    <mobile nil="true"/>
+    <twitter-id nil="true"/>
+    <description nil="true"/>
+    <time-zone>Singapore</time-zone>
+    <deleted type="boolean">false</deleted>
+    <fb-profile-id nil="true"/>
+    <language>en</language>
+    <address nil="true"/>
+    <external-id nil="true"/>
+    <helpdesk-agent type="boolean">false</helpdesk-agent>
+    <unique-external-id nil="true"/>
+    <company-id nil="true"/>
+    <other-phone-numbers nil="true"/>
+    <custom_field>
+    </custom_field>
+  </user>
+  <user>
+    <id type="integer">159010071874</id>
+    <name>Belen. martino</name>
+    <email>belen.martino@dedalus.eu</email>
+    <created-at type="dateTime">2026-01-09T23:22:31+08:00</created-at>
+    <updated-at type="dateTime">2026-01-09T23:22:32+08:00</updated-at>
+    <account-id type="integer">4509657</account-id>
+    <active type="boolean">false</active>
+    <customer-id type="integer" nil="true"/>
+    <job-title nil="true"/>
+    <phone nil="true"/>
+    <mobile nil="true"/>
+    <twitter-id nil="true"/>
+    <description nil="true"/>
+    <time-zone>Singapore</time-zone>
+    <deleted type="boolean">false</deleted>
+    <fb-profile-id nil="true"/>
+    <language>en</language>
+    <address nil="true"/>
+    <external-id nil="true"/>
+    <helpdesk-agent type="boolean">false</helpdesk-agent>
+    <unique-external-id nil="true"/>
+    <company-id nil="true"/>
+    <other-phone-numbers nil="true"/>
+    <custom_field>
+    </custom_field>
+  </user>
+  <user>
+    <id type="integer">159010071877</id>
+    <name>Akosnoon</name>
+    <email>akosnoon@dedalus.eu</email>
+    <created-at type="dateTime">2026-01-09T23:22:36+08:00</created-at>
+    <updated-at type="dateTime">2026-01-09T23:22:36+08:00</updated-at>
+    <account-id type="integer">4509657</account-id>
+    <active type="boolean">false</active>
+    <customer-id type="integer" nil="true"/>
+    <job-title nil="true"/>
+    <phone nil="true"/>
+    <mobile nil="true"/>
+    <twitter-id nil="true"/>
+    <description nil="true"/>
+    <time-zone>Singapore</time-zone>
+    <deleted type="boolean">false</deleted>
+    <fb-profile-id nil="true"/>
+    <language>en</language>
+    <address nil="true"/>
+    <external-id nil="true"/>
+    <helpdesk-agent type="boolean">false</helpdesk-agent>
+    <unique-external-id nil="true"/>
+    <company-id nil="true"/>
+    <other-phone-numbers nil="true"/>
+    <custom_field>
+    </custom_field>
+  </user>
+  <user>
+    <id type="integer">159010071880</id>
+    <name>Jlau32</name>
+    <email>jlau32@dedalus.eu</email>
+    <created-at type="dateTime">2026-01-09T23:22:46+08:00</created-at>
+    <updated-at type="dateTime">2026-01-09T23:22:46+08:00</updated-at>
+    <account-id type="integer">4509657</account-id>
+    <active type="boolean">false</active>
+    <customer-id type="integer" nil="true"/>
+    <job-title nil="true"/>
+    <phone nil="true"/>
+    <mobile nil="true"/>
+    <twitter-id nil="true"/>
+    <description nil="true"/>
+    <time-zone>Singapore</time-zone>
+    <deleted type="boolean">false</deleted>
+    <fb-profile-id nil="true"/>
+    <language>en</language>
+    <address nil="true"/>
+    <external-id nil="true"/>
+    <helpdesk-agent type="boolean">false</helpdesk-agent>
+    <unique-external-id nil="true"/>
+    <company-id nil="true"/>
+    <other-phone-numbers nil="true"/>
+    <custom_field>
+    </custom_field>
+  </user>
+  <user>
+    <id type="integer">159010095818</id>
+    <name>Mohd Sidek Bin Ahmad</name>
+    <email>sahmad30@adeahub.co</email>
+    <created-at type="dateTime">2026-01-13T15:50:37+08:00</created-at>
+    <updated-at type="dateTime">2026-02-21T08:54:31+08:00</updated-at>
+    <account-id type="integer">4509657</account-id>
+    <active type="boolean">true</active>
+    <customer-id type="integer" nil="true"/>
+    <job-title nil="true"/>
+    <phone nil="true"/>
+    <mobile nil="true"/>
+    <twitter-id nil="true"/>
+    <description nil="true"/>
+    <time-zone>Kuala Lumpur</time-zone>
+    <deleted type="boolean">false</deleted>
+    <fb-profile-id nil="true"/>
+    <language>en</language>
+    <address nil="true"/>
+    <external-id nil="true"/>
+    <helpdesk-agent type="boolean">false</helpdesk-agent>
+    <unique-external-id nil="true"/>
+    <company-id nil="true"/>
+    <other-phone-numbers nil="true"/>
+    <custom_field>
+    </custom_field>
+  </user>
+  <user>
+    <id type="integer">159010294367</id>
+    <name>Anis</name>
+    <email>anis@iburuj.com</email>
+    <created-at type="dateTime">2026-01-29T13:11:45+08:00</created-at>
+    <updated-at type="dateTime">2026-01-29T15:58:16+08:00</updated-at>
+    <account-id type="integer">4509657</account-id>
+    <active type="boolean">true</active>
+    <customer-id type="integer">159002486146</customer-id>
+    <job-title nil="true"/>
+    <phone nil="true"/>
+    <mobile>+60105894395</mobile>
+    <twitter-id nil="true"/>
+    <description nil="true"/>
+    <time-zone>Singapore</time-zone>
+    <deleted type="boolean">false</deleted>
+    <fb-profile-id nil="true"/>
+    <language>en</language>
+    <address nil="true"/>
+    <external-id nil="true"/>
+    <helpdesk-agent type="boolean">false</helpdesk-agent>
+    <unique-external-id nil="true"/>
+    <company-id type="integer">159002486146</company-id>
+    <other-phone-numbers nil="true"/>
+    <custom_field>
+      <cf_region>APAC</cf_region>
+    </custom_field>
+  </user>
+  <user>
+    <id type="integer">159010294390</id>
+    <name>Muizzuddin</name>
+    <email>muizzuddin.hsb@cet.my</email>
+    <created-at type="dateTime">2026-01-29T13:19:09+08:00</created-at>
+    <updated-at type="dateTime">2026-01-29T13:54:15+08:00</updated-at>
+    <account-id type="integer">4509657</account-id>
+    <active type="boolean">true</active>
+    <customer-id type="integer">159002486142</customer-id>
+    <job-title nil="true"/>
+    <phone nil="true"/>
+    <mobile>+60146877670</mobile>
+    <twitter-id nil="true"/>
+    <description nil="true"/>
+    <time-zone>Singapore</time-zone>
+    <deleted type="boolean">false</deleted>
+    <fb-profile-id nil="true"/>
+    <language>en</language>
+    <address nil="true"/>
+    <external-id nil="true"/>
+    <helpdesk-agent type="boolean">false</helpdesk-agent>
+    <unique-external-id nil="true"/>
+    <company-id type="integer">159002486142</company-id>
+    <other-phone-numbers type="array"/>
+    <custom_field>
+      <cf_region>APAC</cf_region>
+    </custom_field>
+  </user>
+  <user>
+    <id type="integer">159010294536</id>
+    <name>Sahar Odeh</name>
+    <email>sahar@mouwasat.com</email>
+    <created-at type="dateTime">2026-01-29T14:05:43+08:00</created-at>
+    <updated-at type="dateTime">2026-02-12T18:14:51+08:00</updated-at>
+    <account-id type="integer">4509657</account-id>
+    <active type="boolean">false</active>
+    <customer-id type="integer">159002486163</customer-id>
+    <job-title nil="true"/>
+    <phone nil="true"/>
+    <mobile nil="true"/>
+    <twitter-id nil="true"/>
+    <description nil="true"/>
+    <time-zone>Riyadh</time-zone>
+    <deleted type="boolean">false</deleted>
+    <fb-profile-id nil="true"/>
+    <language>en</language>
+    <address nil="true"/>
+    <external-id nil="true"/>
+    <helpdesk-agent type="boolean">false</helpdesk-agent>
+    <unique-external-id nil="true"/>
+    <company-id type="integer">159002486163</company-id>
+    <other-phone-numbers type="array"/>
+    <custom_field>
+      <cf_region>MEA</cf_region>
+    </custom_field>
+  </user>
+  <user>
+    <id type="integer">159010294694</id>
+    <name>Nurulhuda Binti A.Aziz</name>
+    <email>nurulhuda.aziz@isianpadu.com</email>
+    <created-at type="dateTime">2026-01-29T14:49:51+08:00</created-at>
+    <updated-at type="dateTime">2026-02-13T10:26:30+08:00</updated-at>
+    <account-id type="integer">4509657</account-id>
+    <active type="boolean">true</active>
+    <customer-id type="integer">159002486147</customer-id>
+    <job-title nil="true"/>
+    <phone>+6045623336</phone>
+    <mobile nil="true"/>
+    <twitter-id nil="true"/>
+    <description nil="true"/>
+    <time-zone>Singapore</time-zone>
+    <deleted type="boolean">false</deleted>
+    <fb-profile-id nil="true"/>
+    <language>en</language>
+    <address nil="true"/>
+    <external-id nil="true"/>
+    <helpdesk-agent type="boolean">false</helpdesk-agent>
+    <unique-external-id nil="true"/>
+    <company-id type="integer">159002486147</company-id>
+    <other-phone-numbers type="array"/>
+    <custom_field>
+      <cf_region>APAC</cf_region>
+    </custom_field>
+  </user>
+  <user>
+    <id type="integer">159010295241</id>
+    <name>Test_3d67cb5854214900b6b0</name>
+    <email>test_3d67cb5854214900b6b0@test.com</email>
+    <created-at type="dateTime">2026-01-29T17:30:01+08:00</created-at>
+    <updated-at type="dateTime">2026-01-29T17:30:03+08:00</updated-at>
+    <account-id type="integer">4509657</account-id>
+    <active type="boolean">false</active>
+    <customer-id type="integer" nil="true"/>
+    <job-title nil="true"/>
+    <phone nil="true"/>
+    <mobile nil="true"/>
+    <twitter-id nil="true"/>
+    <description nil="true"/>
+    <time-zone>Singapore</time-zone>
+    <deleted type="boolean">false</deleted>
+    <fb-profile-id nil="true"/>
+    <language>en</language>
+    <address nil="true"/>
+    <external-id nil="true"/>
+    <helpdesk-agent type="boolean">false</helpdesk-agent>
+    <unique-external-id nil="true"/>
+    <company-id nil="true"/>
+    <other-phone-numbers nil="true"/>
+    <custom_field>
+    </custom_field>
+  </user>
+  <user>
+    <id type="integer">159010295243</id>
+    <name>Srinivasa Rao Veedhi</name>
+    <email>srao49@dedalus.eu</email>
+    <created-at type="dateTime">2026-01-29T17:30:11+08:00</created-at>
+    <updated-at type="dateTime">2026-01-29T17:56:58+08:00</updated-at>
+    <account-id type="integer">4509657</account-id>
+    <active type="boolean">true</active>
+    <customer-id type="integer" nil="true"/>
+    <job-title nil="true"/>
+    <phone nil="true"/>
+    <mobile nil="true"/>
+    <twitter-id nil="true"/>
+    <description nil="true"/>
+    <time-zone>Singapore</time-zone>
+    <deleted type="boolean">false</deleted>
+    <fb-profile-id nil="true"/>
+    <language>en</language>
+    <address nil="true"/>
+    <external-id nil="true"/>
+    <helpdesk-agent type="boolean">false</helpdesk-agent>
+    <unique-external-id nil="true"/>
+    <company-id nil="true"/>
+    <other-phone-numbers nil="true"/>
+    <custom_field>
+    </custom_field>
+  </user>
+  <user>
+    <id type="integer">159010311097</id>
+    <name>Jay. kahar</name>
+    <email>jay.kahar@medanta.org</email>
+    <created-at type="dateTime">2026-01-30T18:06:12+08:00</created-at>
+    <updated-at type="dateTime">2026-01-30T18:06:12+08:00</updated-at>
+    <account-id type="integer">4509657</account-id>
+    <active type="boolean">false</active>
+    <customer-id type="integer">159002488677</customer-id>
+    <job-title nil="true"/>
+    <phone>7771000857</phone>
+    <mobile nil="true"/>
+    <twitter-id nil="true"/>
+    <description nil="true"/>
+    <time-zone>Singapore</time-zone>
+    <deleted type="boolean">false</deleted>
+    <fb-profile-id nil="true"/>
+    <language>en</language>
+    <address nil="true"/>
+    <external-id nil="true"/>
+    <helpdesk-agent type="boolean">false</helpdesk-agent>
+    <unique-external-id nil="true"/>
+    <company-id type="integer">159002488677</company-id>
+    <other-phone-numbers type="array"/>
+    <custom_field>
+      <cf_region>APAC</cf_region>
+    </custom_field>
+  </user>
+  <user>
+    <id type="integer">159010311111</id>
+    <name>Sujoy. dhar</name>
+    <email>sujoy.dhar@medanta.org</email>
+    <created-at type="dateTime">2026-01-30T18:08:30+08:00</created-at>
+    <updated-at type="dateTime">2026-03-09T13:06:54+08:00</updated-at>
+    <account-id type="integer">4509657</account-id>
+    <active type="boolean">true</active>
+    <customer-id type="integer">159002488677</customer-id>
+    <job-title nil="true"/>
+    <phone>9163377761</phone>
+    <mobile nil="true"/>
+    <twitter-id nil="true"/>
+    <description nil="true"/>
+    <time-zone>Singapore</time-zone>
+    <deleted type="boolean">false</deleted>
+    <fb-profile-id nil="true"/>
+    <language>en</language>
+    <address nil="true"/>
+    <external-id nil="true"/>
+    <helpdesk-agent type="boolean">false</helpdesk-agent>
+    <unique-external-id nil="true"/>
+    <company-id type="integer">159002488677</company-id>
+    <other-phone-numbers nil="true"/>
+    <custom_field>
+      <cf_region>APAC</cf_region>
+    </custom_field>
+  </user>
+  <user>
+    <id type="integer">159010317684</id>
+    <name>Salma. banu</name>
+    <email>salma.banu@dedalus.eu</email>
+    <created-at type="dateTime">2026-01-31T04:12:04+08:00</created-at>
+    <updated-at type="dateTime">2026-01-31T04:12:04+08:00</updated-at>
+    <account-id type="integer">4509657</account-id>
+    <active type="boolean">false</active>
+    <customer-id type="integer" nil="true"/>
+    <job-title nil="true"/>
+    <phone nil="true"/>
+    <mobile nil="true"/>
+    <twitter-id nil="true"/>
+    <description nil="true"/>
+    <time-zone>Singapore</time-zone>
+    <deleted type="boolean">false</deleted>
+    <fb-profile-id nil="true"/>
+    <language>en</language>
+    <address nil="true"/>
+    <external-id nil="true"/>
+    <helpdesk-agent type="boolean">false</helpdesk-agent>
+    <unique-external-id nil="true"/>
+    <company-id nil="true"/>
+    <other-phone-numbers nil="true"/>
+    <custom_field>
+    </custom_field>
+  </user>
+  <user>
+    <id type="integer">159010317685</id>
+    <name>Yong Koon Win</name>
+    <email>koonwin.yong@dedalus.eu</email>
+    <created-at type="dateTime">2026-01-31T04:12:15+08:00</created-at>
+    <updated-at type="dateTime">2026-02-02T11:01:31+08:00</updated-at>
+    <account-id type="integer">4509657</account-id>
+    <active type="boolean">true</active>
+    <customer-id type="integer" nil="true"/>
+    <job-title nil="true"/>
+    <phone nil="true"/>
+    <mobile nil="true"/>
+    <twitter-id nil="true"/>
+    <description nil="true"/>
+    <time-zone>Singapore</time-zone>
+    <deleted type="boolean">false</deleted>
+    <fb-profile-id nil="true"/>
+    <language>en</language>
+    <address nil="true"/>
+    <external-id nil="true"/>
+    <helpdesk-agent type="boolean">false</helpdesk-agent>
+    <unique-external-id nil="true"/>
+    <company-id nil="true"/>
+    <other-phone-numbers nil="true"/>
+    <custom_field>
+    </custom_field>
+  </user>
+  <user>
+    <id type="integer">159010322739</id>
+    <name>Muhammad. baset</name>
+    <email>muhammad.baset@dedalus.eu</email>
+    <created-at type="dateTime">2026-02-01T03:34:13+08:00</created-at>
+    <updated-at type="dateTime">2026-02-01T03:34:14+08:00</updated-at>
+    <account-id type="integer">4509657</account-id>
+    <active type="boolean">false</active>
+    <customer-id type="integer" nil="true"/>
+    <job-title nil="true"/>
+    <phone nil="true"/>
+    <mobile nil="true"/>
+    <twitter-id nil="true"/>
+    <description nil="true"/>
+    <time-zone>Singapore</time-zone>
+    <deleted type="boolean">false</deleted>
+    <fb-profile-id nil="true"/>
+    <language>en</language>
+    <address nil="true"/>
+    <external-id nil="true"/>
+    <helpdesk-agent type="boolean">false</helpdesk-agent>
+    <unique-external-id nil="true"/>
+    <company-id nil="true"/>
+    <other-phone-numbers nil="true"/>
+    <custom_field>
+    </custom_field>
+  </user>
+  <user>
+    <id type="integer">159010322928</id>
+    <name>Elbin. eldhose</name>
+    <email>elbin.eldhose@dedalus.eu</email>
+    <created-at type="dateTime">2026-02-01T04:32:08+08:00</created-at>
+    <updated-at type="dateTime">2026-02-01T04:32:09+08:00</updated-at>
+    <account-id type="integer">4509657</account-id>
+    <active type="boolean">false</active>
+    <customer-id type="integer" nil="true"/>
+    <job-title nil="true"/>
+    <phone nil="true"/>
+    <mobile nil="true"/>
+    <twitter-id nil="true"/>
+    <description nil="true"/>
+    <time-zone>Singapore</time-zone>
+    <deleted type="boolean">false</deleted>
+    <fb-profile-id nil="true"/>
+    <language>en</language>
+    <address nil="true"/>
+    <external-id nil="true"/>
+    <helpdesk-agent type="boolean">false</helpdesk-agent>
+    <unique-external-id nil="true"/>
+    <company-id nil="true"/>
+    <other-phone-numbers nil="true"/>
+    <custom_field>
+    </custom_field>
+  </user>
+  <user>
+    <id type="integer">159010322929</id>
+    <name>Gaurav. sharma</name>
+    <email>gaurav.sharma@dedalus.eu</email>
+    <created-at type="dateTime">2026-02-01T04:32:33+08:00</created-at>
+    <updated-at type="dateTime">2026-02-01T04:32:34+08:00</updated-at>
+    <account-id type="integer">4509657</account-id>
+    <active type="boolean">false</active>
+    <customer-id type="integer" nil="true"/>
+    <job-title nil="true"/>
+    <phone nil="true"/>
+    <mobile nil="true"/>
+    <twitter-id nil="true"/>
+    <description nil="true"/>
+    <time-zone>Singapore</time-zone>
+    <deleted type="boolean">false</deleted>
+    <fb-profile-id nil="true"/>
+    <language>en</language>
+    <address nil="true"/>
+    <external-id nil="true"/>
+    <helpdesk-agent type="boolean">false</helpdesk-agent>
+    <unique-external-id nil="true"/>
+    <company-id nil="true"/>
+    <other-phone-numbers nil="true"/>
+    <custom_field>
+    </custom_field>
+  </user>
+  <user>
+    <id type="integer">159010322931</id>
+    <name>Safeeuddin. mohammed</name>
+    <email>safeeuddin.mohammed@dedalus.eu</email>
+    <created-at type="dateTime">2026-02-01T04:33:06+08:00</created-at>
+    <updated-at type="dateTime">2026-02-01T04:33:07+08:00</updated-at>
+    <account-id type="integer">4509657</account-id>
+    <active type="boolean">false</active>
+    <customer-id type="integer" nil="true"/>
+    <job-title nil="true"/>
+    <phone nil="true"/>
+    <mobile nil="true"/>
+    <twitter-id nil="true"/>
+    <description nil="true"/>
+    <time-zone>Singapore</time-zone>
+    <deleted type="boolean">false</deleted>
+    <fb-profile-id nil="true"/>
+    <language>en</language>
+    <address nil="true"/>
+    <external-id nil="true"/>
+    <helpdesk-agent type="boolean">false</helpdesk-agent>
+    <unique-external-id nil="true"/>
+    <company-id nil="true"/>
+    <other-phone-numbers nil="true"/>
+    <custom_field>
+    </custom_field>
+  </user>
+  <user>
+    <id type="integer">159010322937</id>
+    <name>Ankit. singh</name>
+    <email>ankit.singh@dedalus.eu</email>
+    <created-at type="dateTime">2026-02-01T04:34:09+08:00</created-at>
+    <updated-at type="dateTime">2026-02-01T04:34:10+08:00</updated-at>
+    <account-id type="integer">4509657</account-id>
+    <active type="boolean">false</active>
+    <customer-id type="integer" nil="true"/>
+    <job-title nil="true"/>
+    <phone nil="true"/>
+    <mobile nil="true"/>
+    <twitter-id nil="true"/>
+    <description nil="true"/>
+    <time-zone>Singapore</time-zone>
+    <deleted type="boolean">false</deleted>
+    <fb-profile-id nil="true"/>
+    <language>en</language>
+    <address nil="true"/>
+    <external-id nil="true"/>
+    <helpdesk-agent type="boolean">false</helpdesk-agent>
+    <unique-external-id nil="true"/>
+    <company-id nil="true"/>
+    <other-phone-numbers nil="true"/>
+    <custom_field>
+    </custom_field>
+  </user>
+  <user>
+    <id type="integer">159010322945</id>
+    <name>Cp29</name>
+    <email>cp29@dedalus.eu</email>
+    <created-at type="dateTime">2026-02-01T04:36:36+08:00</created-at>
+    <updated-at type="dateTime">2026-02-01T04:36:36+08:00</updated-at>
+    <account-id type="integer">4509657</account-id>
+    <active type="boolean">false</active>
+    <customer-id type="integer" nil="true"/>
+    <job-title nil="true"/>
+    <phone nil="true"/>
+    <mobile nil="true"/>
+    <twitter-id nil="true"/>
+    <description nil="true"/>
+    <time-zone>Singapore</time-zone>
+    <deleted type="boolean">false</deleted>
+    <fb-profile-id nil="true"/>
+    <language>en</language>
+    <address nil="true"/>
+    <external-id nil="true"/>
+    <helpdesk-agent type="boolean">false</helpdesk-agent>
+    <unique-external-id nil="true"/>
+    <company-id nil="true"/>
+    <other-phone-numbers nil="true"/>
+    <custom_field>
+    </custom_field>
+  </user>
+  <user>
+    <id type="integer">159010322979</id>
+    <name>Arissa</name>
+    <email>arissa@datacryptic.my</email>
+    <created-at type="dateTime">2026-02-01T04:45:58+08:00</created-at>
+    <updated-at type="dateTime">2026-02-01T04:45:59+08:00</updated-at>
+    <account-id type="integer">4509657</account-id>
+    <active type="boolean">false</active>
+    <customer-id type="integer" nil="true"/>
+    <job-title nil="true"/>
+    <phone nil="true"/>
+    <mobile nil="true"/>
+    <twitter-id nil="true"/>
+    <description nil="true"/>
+    <time-zone>Singapore</time-zone>
+    <deleted type="boolean">false</deleted>
+    <fb-profile-id nil="true"/>
+    <language>en</language>
+    <address nil="true"/>
+    <external-id nil="true"/>
+    <helpdesk-agent type="boolean">false</helpdesk-agent>
+    <unique-external-id nil="true"/>
+    <company-id nil="true"/>
+    <other-phone-numbers nil="true"/>
+    <custom_field>
+    </custom_field>
+  </user>
+  <user>
+    <id type="integer">159010322981</id>
+    <name>Scheabdullah</name>
+    <email>scheabdullah@dedalus.eu</email>
+    <created-at type="dateTime">2026-02-01T04:47:34+08:00</created-at>
+    <updated-at type="dateTime">2026-02-01T04:47:37+08:00</updated-at>
+    <account-id type="integer">4509657</account-id>
+    <active type="boolean">false</active>
+    <customer-id type="integer" nil="true"/>
+    <job-title nil="true"/>
+    <phone nil="true"/>
+    <mobile nil="true"/>
+    <twitter-id nil="true"/>
+    <description nil="true"/>
+    <time-zone>Singapore</time-zone>
+    <deleted type="boolean">false</deleted>
+    <fb-profile-id nil="true"/>
+    <language>en</language>
+    <address nil="true"/>
+    <external-id nil="true"/>
+    <helpdesk-agent type="boolean">false</helpdesk-agent>
+    <unique-external-id nil="true"/>
+    <company-id nil="true"/>
+    <other-phone-numbers nil="true"/>
+    <custom_field>
+    </custom_field>
+  </user>
+  <user>
+    <id type="integer">159010322985</id>
+    <name>Mohammed Mustafa</name>
+    <email>mohammed.mustafa@dedalus.eu</email>
+    <created-at type="dateTime">2026-02-01T04:48:30+08:00</created-at>
+    <updated-at type="dateTime">2026-02-01T13:51:15+08:00</updated-at>
+    <account-id type="integer">4509657</account-id>
+    <active type="boolean">true</active>
+    <customer-id type="integer" nil="true"/>
+    <job-title nil="true"/>
+    <phone nil="true"/>
+    <mobile nil="true"/>
+    <twitter-id nil="true"/>
+    <description nil="true"/>
+    <time-zone>Singapore</time-zone>
+    <deleted type="boolean">false</deleted>
+    <fb-profile-id nil="true"/>
+    <language>en</language>
+    <address nil="true"/>
+    <external-id nil="true"/>
+    <helpdesk-agent type="boolean">false</helpdesk-agent>
+    <unique-external-id nil="true"/>
+    <company-id nil="true"/>
+    <other-phone-numbers nil="true"/>
+    <custom_field>
+    </custom_field>
+  </user>
+  <user>
+    <id type="integer">159010322997</id>
+    <name>Asraf</name>
+    <email>asraf@iburuj.com</email>
+    <created-at type="dateTime">2026-02-01T04:51:32+08:00</created-at>
+    <updated-at type="dateTime">2026-02-01T04:51:32+08:00</updated-at>
+    <account-id type="integer">4509657</account-id>
+    <active type="boolean">false</active>
+    <customer-id type="integer" nil="true"/>
+    <job-title nil="true"/>
+    <phone nil="true"/>
+    <mobile nil="true"/>
+    <twitter-id nil="true"/>
+    <description nil="true"/>
+    <time-zone>Singapore</time-zone>
+    <deleted type="boolean">false</deleted>
+    <fb-profile-id nil="true"/>
+    <language>en</language>
+    <address nil="true"/>
+    <external-id nil="true"/>
+    <helpdesk-agent type="boolean">false</helpdesk-agent>
+    <unique-external-id nil="true"/>
+    <company-id nil="true"/>
+    <other-phone-numbers nil="true"/>
+    <custom_field>
+    </custom_field>
+  </user>
+  <user>
+    <id type="integer">159010323006</id>
+    <name>Nothman</name>
+    <email>nothman@dedalus.eu</email>
+    <created-at type="dateTime">2026-02-01T04:54:48+08:00</created-at>
+    <updated-at type="dateTime">2026-02-01T04:54:49+08:00</updated-at>
+    <account-id type="integer">4509657</account-id>
+    <active type="boolean">false</active>
+    <customer-id type="integer" nil="true"/>
+    <job-title nil="true"/>
+    <phone nil="true"/>
+    <mobile nil="true"/>
+    <twitter-id nil="true"/>
+    <description nil="true"/>
+    <time-zone>Singapore</time-zone>
+    <deleted type="boolean">false</deleted>
+    <fb-profile-id nil="true"/>
+    <language>en</language>
+    <address nil="true"/>
+    <external-id nil="true"/>
+    <helpdesk-agent type="boolean">false</helpdesk-agent>
+    <unique-external-id nil="true"/>
+    <company-id nil="true"/>
+    <other-phone-numbers nil="true"/>
+    <custom_field>
+    </custom_field>
+  </user>
+  <user>
+    <id type="integer">159010323011</id>
+    <name>Amr. mohamed</name>
+    <email>amr.mohamed@dedalus.eu</email>
+    <created-at type="dateTime">2026-02-01T04:55:38+08:00</created-at>
+    <updated-at type="dateTime">2026-02-01T04:55:42+08:00</updated-at>
+    <account-id type="integer">4509657</account-id>
+    <active type="boolean">false</active>
+    <customer-id type="integer" nil="true"/>
+    <job-title nil="true"/>
+    <phone nil="true"/>
+    <mobile nil="true"/>
+    <twitter-id nil="true"/>
+    <description nil="true"/>
+    <time-zone>Singapore</time-zone>
+    <deleted type="boolean">false</deleted>
+    <fb-profile-id nil="true"/>
+    <language>en</language>
+    <address nil="true"/>
+    <external-id nil="true"/>
+    <helpdesk-agent type="boolean">false</helpdesk-agent>
+    <unique-external-id nil="true"/>
+    <company-id nil="true"/>
+    <other-phone-numbers nil="true"/>
+    <custom_field>
+    </custom_field>
+  </user>
+  <user>
+    <id type="integer">159010323122</id>
+    <name>M. abdelfadeel</name>
+    <email>m.abdelfadeel@dedalus.eu</email>
+    <created-at type="dateTime">2026-02-01T05:30:59+08:00</created-at>
+    <updated-at type="dateTime">2026-02-01T19:20:24+08:00</updated-at>
+    <account-id type="integer">4509657</account-id>
+    <active type="boolean">true</active>
+    <customer-id type="integer" nil="true"/>
+    <job-title nil="true"/>
+    <phone nil="true"/>
+    <mobile nil="true"/>
+    <twitter-id nil="true"/>
+    <description nil="true"/>
+    <time-zone>Singapore</time-zone>
+    <deleted type="boolean">false</deleted>
+    <fb-profile-id nil="true"/>
+    <language>en</language>
+    <address nil="true"/>
+    <external-id nil="true"/>
+    <helpdesk-agent type="boolean">false</helpdesk-agent>
+    <unique-external-id nil="true"/>
+    <company-id nil="true"/>
+    <other-phone-numbers nil="true"/>
+    <custom_field>
+    </custom_field>
+  </user>
+  <user>
+    <id type="integer">159010323123</id>
+    <name>Mramzy</name>
+    <email>mramzy@dedalus.eu</email>
+    <created-at type="dateTime">2026-02-01T05:31:02+08:00</created-at>
+    <updated-at type="dateTime">2026-02-01T17:42:52+08:00</updated-at>
+    <account-id type="integer">4509657</account-id>
+    <active type="boolean">true</active>
+    <customer-id type="integer" nil="true"/>
+    <job-title nil="true"/>
+    <phone nil="true"/>
+    <mobile nil="true"/>
+    <twitter-id nil="true"/>
+    <description nil="true"/>
+    <time-zone>Singapore</time-zone>
+    <deleted type="boolean">false</deleted>
+    <fb-profile-id nil="true"/>
+    <language>en</language>
+    <address nil="true"/>
+    <external-id nil="true"/>
+    <helpdesk-agent type="boolean">false</helpdesk-agent>
+    <unique-external-id nil="true"/>
+    <company-id nil="true"/>
+    <other-phone-numbers nil="true"/>
+    <custom_field>
+    </custom_field>
+  </user>
+  <user>
+    <id type="integer">159010323124</id>
+    <name>Khalil. abdelrahim</name>
+    <email>khalil.abdelrahim@dedalus.eu</email>
+    <created-at type="dateTime">2026-02-01T05:31:08+08:00</created-at>
+    <updated-at type="dateTime">2026-02-01T05:31:08+08:00</updated-at>
+    <account-id type="integer">4509657</account-id>
+    <active type="boolean">false</active>
+    <customer-id type="integer" nil="true"/>
+    <job-title nil="true"/>
+    <phone nil="true"/>
+    <mobile nil="true"/>
+    <twitter-id nil="true"/>
+    <description nil="true"/>
+    <time-zone>Singapore</time-zone>
+    <deleted type="boolean">false</deleted>
+    <fb-profile-id nil="true"/>
+    <language>en</language>
+    <address nil="true"/>
+    <external-id nil="true"/>
+    <helpdesk-agent type="boolean">false</helpdesk-agent>
+    <unique-external-id nil="true"/>
+    <company-id nil="true"/>
+    <other-phone-numbers nil="true"/>
+    <custom_field>
+    </custom_field>
+  </user>
+  <user>
+    <id type="integer">159010325247</id>
+    <name>Ahmad M. Almaharmah</name>
+    <email>ahmad.mousa@mouwasat.com</email>
+    <created-at type="dateTime">2026-02-01T17:19:32+08:00</created-at>
+    <updated-at type="dateTime">2026-02-12T21:18:22+08:00</updated-at>
+    <account-id type="integer">4509657</account-id>
+    <active type="boolean">true</active>
+    <customer-id type="integer">159002486163</customer-id>
+    <job-title nil="true"/>
+    <phone>506995280</phone>
+    <mobile nil="true"/>
+    <twitter-id nil="true"/>
+    <description nil="true"/>
+    <time-zone>Riyadh</time-zone>
+    <deleted type="boolean">false</deleted>
+    <fb-profile-id nil="true"/>
+    <language>en</language>
+    <address nil="true"/>
+    <external-id nil="true"/>
+    <helpdesk-agent type="boolean">false</helpdesk-agent>
+    <unique-external-id nil="true"/>
+    <company-id type="integer">159002486163</company-id>
+    <other-phone-numbers type="array"/>
+    <custom_field>
+      <cf_region>MEA</cf_region>
+    </custom_field>
+  </user>
+  <user>
+    <id type="integer">159010325741</id>
+    <name>Aabdelgelil</name>
+    <email>aabdelgelil@dedalus.eu</email>
+    <created-at type="dateTime">2026-02-01T21:07:42+08:00</created-at>
+    <updated-at type="dateTime">2026-02-01T21:11:25+08:00</updated-at>
+    <account-id type="integer">4509657</account-id>
+    <active type="boolean">true</active>
+    <customer-id type="integer" nil="true"/>
+    <job-title nil="true"/>
+    <phone nil="true"/>
+    <mobile nil="true"/>
+    <twitter-id nil="true"/>
+    <description nil="true"/>
+    <time-zone>Singapore</time-zone>
+    <deleted type="boolean">false</deleted>
+    <fb-profile-id nil="true"/>
+    <language>en</language>
+    <address nil="true"/>
+    <external-id nil="true"/>
+    <helpdesk-agent type="boolean">false</helpdesk-agent>
+    <unique-external-id nil="true"/>
+    <company-id nil="true"/>
+    <other-phone-numbers nil="true"/>
+    <custom_field>
+    </custom_field>
+  </user>
+  <user>
+    <id type="integer">159010326140</id>
+    <name>Asharifi</name>
+    <email>asharifi@dedalus.eu</email>
+    <created-at type="dateTime">2026-02-01T22:51:46+08:00</created-at>
+    <updated-at type="dateTime">2026-02-01T22:51:46+08:00</updated-at>
+    <account-id type="integer">4509657</account-id>
+    <active type="boolean">false</active>
+    <customer-id type="integer" nil="true"/>
+    <job-title nil="true"/>
+    <phone nil="true"/>
+    <mobile nil="true"/>
+    <twitter-id nil="true"/>
+    <description nil="true"/>
+    <time-zone>Singapore</time-zone>
+    <deleted type="boolean">false</deleted>
+    <fb-profile-id nil="true"/>
+    <language>en</language>
+    <address nil="true"/>
+    <external-id nil="true"/>
+    <helpdesk-agent type="boolean">false</helpdesk-agent>
+    <unique-external-id nil="true"/>
+    <company-id nil="true"/>
+    <other-phone-numbers nil="true"/>
+    <custom_field>
+    </custom_field>
+  </user>
+  <user>
+    <id type="integer">159010326146</id>
+    <name>Smuthurajan</name>
+    <email>smuthurajan@dedalus.eu</email>
+    <created-at type="dateTime">2026-02-01T22:55:37+08:00</created-at>
+    <updated-at type="dateTime">2026-02-05T11:49:40+08:00</updated-at>
+    <account-id type="integer">4509657</account-id>
+    <active type="boolean">true</active>
+    <customer-id type="integer" nil="true"/>
+    <job-title nil="true"/>
+    <phone nil="true"/>
+    <mobile nil="true"/>
+    <twitter-id nil="true"/>
+    <description nil="true"/>
+    <time-zone>Singapore</time-zone>
+    <deleted type="boolean">false</deleted>
+    <fb-profile-id nil="true"/>
+    <language>en</language>
+    <address nil="true"/>
+    <external-id nil="true"/>
+    <helpdesk-agent type="boolean">false</helpdesk-agent>
+    <unique-external-id nil="true"/>
+    <company-id nil="true"/>
+    <other-phone-numbers nil="true"/>
+    <custom_field>
+    </custom_field>
+  </user>
+  <user>
+    <id type="integer">159010327070</id>
+    <name>Sandra. elzeni</name>
+    <email>sandra.elzeni@dedalus.eu</email>
+    <created-at type="dateTime">2026-02-02T03:22:04+08:00</created-at>
+    <updated-at type="dateTime">2026-02-02T03:22:05+08:00</updated-at>
+    <account-id type="integer">4509657</account-id>
+    <active type="boolean">false</active>
+    <customer-id type="integer" nil="true"/>
+    <job-title nil="true"/>
+    <phone nil="true"/>
+    <mobile nil="true"/>
+    <twitter-id nil="true"/>
+    <description nil="true"/>
+    <time-zone>Singapore</time-zone>
+    <deleted type="boolean">false</deleted>
+    <fb-profile-id nil="true"/>
+    <language>en</language>
+    <address nil="true"/>
+    <external-id nil="true"/>
+    <helpdesk-agent type="boolean">false</helpdesk-agent>
+    <unique-external-id nil="true"/>
+    <company-id nil="true"/>
+    <other-phone-numbers nil="true"/>
+    <custom_field>
+    </custom_field>
+  </user>
+  <user>
+    <id type="integer">159010327073</id>
+    <name>Abdelhaleem. zidan</name>
+    <email>abdelhaleem.zidan@dedalus.eu</email>
+    <created-at type="dateTime">2026-02-02T03:23:18+08:00</created-at>
+    <updated-at type="dateTime">2026-02-02T03:23:18+08:00</updated-at>
+    <account-id type="integer">4509657</account-id>
+    <active type="boolean">false</active>
+    <customer-id type="integer" nil="true"/>
+    <job-title nil="true"/>
+    <phone nil="true"/>
+    <mobile nil="true"/>
+    <twitter-id nil="true"/>
+    <description nil="true"/>
+    <time-zone>Singapore</time-zone>
+    <deleted type="boolean">false</deleted>
+    <fb-profile-id nil="true"/>
+    <language>en</language>
+    <address nil="true"/>
+    <external-id nil="true"/>
+    <helpdesk-agent type="boolean">false</helpdesk-agent>
+    <unique-external-id nil="true"/>
+    <company-id nil="true"/>
+    <other-phone-numbers nil="true"/>
+    <custom_field>
+    </custom_field>
+  </user>
+  <user>
+    <id type="integer">159010327075</id>
+    <name>A. shokry</name>
+    <email>a.shokry@gahc.gov.eg</email>
+    <created-at type="dateTime">2026-02-02T03:23:34+08:00</created-at>
+    <updated-at type="dateTime">2026-02-02T03:23:35+08:00</updated-at>
+    <account-id type="integer">4509657</account-id>
+    <active type="boolean">false</active>
+    <customer-id type="integer" nil="true"/>
+    <job-title nil="true"/>
+    <phone nil="true"/>
+    <mobile nil="true"/>
+    <twitter-id nil="true"/>
+    <description nil="true"/>
+    <time-zone>Singapore</time-zone>
+    <deleted type="boolean">false</deleted>
+    <fb-profile-id nil="true"/>
+    <language>en</language>
+    <address nil="true"/>
+    <external-id nil="true"/>
+    <helpdesk-agent type="boolean">false</helpdesk-agent>
+    <unique-external-id nil="true"/>
+    <company-id nil="true"/>
+    <other-phone-numbers nil="true"/>
+    <custom_field>
+    </custom_field>
+  </user>
+  <user>
+    <id type="integer">159010327077</id>
+    <name>Anand. maniyar</name>
+    <email>anand.maniyar@dedalus.eu</email>
+    <created-at type="dateTime">2026-02-02T03:23:55+08:00</created-at>
+    <updated-at type="dateTime">2026-02-02T03:23:55+08:00</updated-at>
+    <account-id type="integer">4509657</account-id>
+    <active type="boolean">false</active>
+    <customer-id type="integer" nil="true"/>
+    <job-title nil="true"/>
+    <phone nil="true"/>
+    <mobile nil="true"/>
+    <twitter-id nil="true"/>
+    <description nil="true"/>
+    <time-zone>Singapore</time-zone>
+    <deleted type="boolean">false</deleted>
+    <fb-profile-id nil="true"/>
+    <language>en</language>
+    <address nil="true"/>
+    <external-id nil="true"/>
+    <helpdesk-agent type="boolean">false</helpdesk-agent>
+    <unique-external-id nil="true"/>
+    <company-id nil="true"/>
+    <other-phone-numbers nil="true"/>
+    <custom_field>
+    </custom_field>
+  </user>
+  <user>
+    <id type="integer">159010327078</id>
+    <name>Mzakzouk</name>
+    <email>mzakzouk@dedalus.eu</email>
+    <created-at type="dateTime">2026-02-02T03:24:28+08:00</created-at>
+    <updated-at type="dateTime">2026-02-02T03:24:29+08:00</updated-at>
+    <account-id type="integer">4509657</account-id>
+    <active type="boolean">false</active>
+    <customer-id type="integer" nil="true"/>
+    <job-title nil="true"/>
+    <phone nil="true"/>
+    <mobile nil="true"/>
+    <twitter-id nil="true"/>
+    <description nil="true"/>
+    <time-zone>Singapore</time-zone>
+    <deleted type="boolean">false</deleted>
+    <fb-profile-id nil="true"/>
+    <language>en</language>
+    <address nil="true"/>
+    <external-id nil="true"/>
+    <helpdesk-agent type="boolean">false</helpdesk-agent>
+    <unique-external-id nil="true"/>
+    <company-id nil="true"/>
+    <other-phone-numbers nil="true"/>
+    <custom_field>
+    </custom_field>
+  </user>
+  <user>
+    <id type="integer">159010327080</id>
+    <name>Mibrahim53</name>
+    <email>mibrahim53@dedalus.eu</email>
+    <created-at type="dateTime">2026-02-02T03:24:34+08:00</created-at>
+    <updated-at type="dateTime">2026-02-02T03:24:35+08:00</updated-at>
+    <account-id type="integer">4509657</account-id>
+    <active type="boolean">false</active>
+    <customer-id type="integer" nil="true"/>
+    <job-title nil="true"/>
+    <phone nil="true"/>
+    <mobile nil="true"/>
+    <twitter-id nil="true"/>
+    <description nil="true"/>
+    <time-zone>Singapore</time-zone>
+    <deleted type="boolean">false</deleted>
+    <fb-profile-id nil="true"/>
+    <language>en</language>
+    <address nil="true"/>
+    <external-id nil="true"/>
+    <helpdesk-agent type="boolean">false</helpdesk-agent>
+    <unique-external-id nil="true"/>
+    <company-id nil="true"/>
+    <other-phone-numbers nil="true"/>
+    <custom_field>
+    </custom_field>
+  </user>
+  <user>
+    <id type="integer">159010327084</id>
+    <name>Mahmoud. shouman</name>
+    <email>mahmoud.shouman@dedalus.eu</email>
+    <created-at type="dateTime">2026-02-02T03:24:47+08:00</created-at>
+    <updated-at type="dateTime">2026-02-02T03:24:47+08:00</updated-at>
+    <account-id type="integer">4509657</account-id>
+    <active type="boolean">false</active>
+    <customer-id type="integer" nil="true"/>
+    <job-title nil="true"/>
+    <phone nil="true"/>
+    <mobile nil="true"/>
+    <twitter-id nil="true"/>
+    <description nil="true"/>
+    <time-zone>Singapore</time-zone>
+    <deleted type="boolean">false</deleted>
+    <fb-profile-id nil="true"/>
+    <language>en</language>
+    <address nil="true"/>
+    <external-id nil="true"/>
+    <helpdesk-agent type="boolean">false</helpdesk-agent>
+    <unique-external-id nil="true"/>
+    <company-id nil="true"/>
+    <other-phone-numbers nil="true"/>
+    <custom_field>
+    </custom_field>
+  </user>
+  <user>
+    <id type="integer">159010327100</id>
+    <name>Aselamat</name>
+    <email>aselamat@dedalus.eu</email>
+    <created-at type="dateTime">2026-02-02T03:30:48+08:00</created-at>
+    <updated-at type="dateTime">2026-02-02T03:30:49+08:00</updated-at>
+    <account-id type="integer">4509657</account-id>
+    <active type="boolean">false</active>
+    <customer-id type="integer" nil="true"/>
+    <job-title nil="true"/>
+    <phone nil="true"/>
+    <mobile nil="true"/>
+    <twitter-id nil="true"/>
+    <description nil="true"/>
+    <time-zone>Singapore</time-zone>
+    <deleted type="boolean">false</deleted>
+    <fb-profile-id nil="true"/>
+    <language>en</language>
+    <address nil="true"/>
+    <external-id nil="true"/>
+    <helpdesk-agent type="boolean">false</helpdesk-agent>
+    <unique-external-id nil="true"/>
+    <company-id nil="true"/>
+    <other-phone-numbers nil="true"/>
+    <custom_field>
+    </custom_field>
+  </user>
+  <user>
+    <id type="integer">159010327108</id>
+    <name>Smohdmukhtar</name>
+    <email>smohdmukhtar@dedalus.eu</email>
+    <created-at type="dateTime">2026-02-02T03:30:59+08:00</created-at>
+    <updated-at type="dateTime">2026-02-02T15:28:19+08:00</updated-at>
+    <account-id type="integer">4509657</account-id>
+    <active type="boolean">true</active>
+    <customer-id type="integer" nil="true"/>
+    <job-title nil="true"/>
+    <phone nil="true"/>
+    <mobile nil="true"/>
+    <twitter-id nil="true"/>
+    <description nil="true"/>
+    <time-zone>Singapore</time-zone>
+    <deleted type="boolean">false</deleted>
+    <fb-profile-id nil="true"/>
+    <language>en</language>
+    <address nil="true"/>
+    <external-id nil="true"/>
+    <helpdesk-agent type="boolean">false</helpdesk-agent>
+    <unique-external-id nil="true"/>
+    <company-id nil="true"/>
+    <other-phone-numbers nil="true"/>
+    <custom_field>
+    </custom_field>
+  </user>
+  <user>
+    <id type="integer">159010327169</id>
+    <name>Ajamat</name>
+    <email>ajamat@dedalus.eu</email>
+    <created-at type="dateTime">2026-02-02T03:48:28+08:00</created-at>
+    <updated-at type="dateTime">2026-03-16T09:15:33+08:00</updated-at>
+    <account-id type="integer">4509657</account-id>
+    <active type="boolean">true</active>
+    <customer-id type="integer" nil="true"/>
+    <job-title nil="true"/>
+    <phone nil="true"/>
+    <mobile nil="true"/>
+    <twitter-id nil="true"/>
+    <description nil="true"/>
+    <time-zone>Singapore</time-zone>
+    <deleted type="boolean">false</deleted>
+    <fb-profile-id nil="true"/>
+    <language>en</language>
+    <address nil="true"/>
+    <external-id nil="true"/>
+    <helpdesk-agent type="boolean">false</helpdesk-agent>
+    <unique-external-id nil="true"/>
+    <company-id nil="true"/>
+    <other-phone-numbers nil="true"/>
+    <custom_field>
+    </custom_field>
+  </user>
+  <user>
+    <id type="integer">159010327192</id>
+    <name>Phani. s</name>
+    <email>phani.s@sssihms.org.in</email>
+    <created-at type="dateTime">2026-02-02T03:58:14+08:00</created-at>
+    <updated-at type="dateTime">2026-02-02T13:43:05+08:00</updated-at>
+    <account-id type="integer">4509657</account-id>
+    <active type="boolean">true</active>
+    <customer-id type="integer" nil="true"/>
+    <job-title nil="true"/>
+    <phone nil="true"/>
+    <mobile nil="true"/>
+    <twitter-id nil="true"/>
+    <description nil="true"/>
+    <time-zone>Singapore</time-zone>
+    <deleted type="boolean">false</deleted>
+    <fb-profile-id nil="true"/>
+    <language>en</language>
+    <address nil="true"/>
+    <external-id nil="true"/>
+    <helpdesk-agent type="boolean">false</helpdesk-agent>
+    <unique-external-id nil="true"/>
+    <company-id nil="true"/>
+    <other-phone-numbers nil="true"/>
+    <custom_field>
+    </custom_field>
+  </user>
+  <user>
+    <id type="integer">159010327194</id>
+    <name>Manarmansour</name>
+    <email>manarmansour@gahc.gov.eg</email>
+    <created-at type="dateTime">2026-02-02T03:59:09+08:00</created-at>
+    <updated-at type="dateTime">2026-02-02T03:59:10+08:00</updated-at>
+    <account-id type="integer">4509657</account-id>
+    <active type="boolean">false</active>
+    <customer-id type="integer" nil="true"/>
+    <job-title nil="true"/>
+    <phone nil="true"/>
+    <mobile nil="true"/>
+    <twitter-id nil="true"/>
+    <description nil="true"/>
+    <time-zone>Singapore</time-zone>
+    <deleted type="boolean">false</deleted>
+    <fb-profile-id nil="true"/>
+    <language>en</language>
+    <address nil="true"/>
+    <external-id nil="true"/>
+    <helpdesk-agent type="boolean">false</helpdesk-agent>
+    <unique-external-id nil="true"/>
+    <company-id nil="true"/>
+    <other-phone-numbers nil="true"/>
+    <custom_field>
+    </custom_field>
+  </user>
+  <user>
+    <id type="integer">159010329940</id>
+    <name>Alex Yong</name>
+    <email>koonwin.yong@dedalus.com</email>
+    <created-at type="dateTime">2026-02-02T16:27:39+08:00</created-at>
+    <updated-at type="dateTime">2026-02-02T16:27:40+08:00</updated-at>
+    <account-id type="integer">4509657</account-id>
+    <active type="boolean">false</active>
+    <customer-id type="integer" nil="true"/>
+    <job-title nil="true"/>
+    <phone nil="true"/>
+    <mobile nil="true"/>
+    <twitter-id nil="true"/>
+    <description nil="true"/>
+    <time-zone>Singapore</time-zone>
+    <deleted type="boolean">false</deleted>
+    <fb-profile-id nil="true"/>
+    <language>en</language>
+    <address nil="true"/>
+    <external-id nil="true"/>
+    <helpdesk-agent type="boolean">false</helpdesk-agent>
+    <unique-external-id nil="true"/>
+    <company-id nil="true"/>
+    <other-phone-numbers nil="true"/>
+    <custom_field>
+    </custom_field>
+  </user>
+  <user>
+    <id type="integer">159010345880</id>
+    <name>Himanshu Bhardwaj</name>
+    <email>himanshu.bhardwaj@medanta.org</email>
+    <created-at type="dateTime">2026-02-03T14:09:57+08:00</created-at>
+    <updated-at type="dateTime">2026-02-03T14:14:58+08:00</updated-at>
+    <account-id type="integer">4509657</account-id>
+    <active type="boolean">false</active>
+    <customer-id type="integer" nil="true"/>
+    <job-title nil="true"/>
+    <phone nil="true"/>
+    <mobile nil="true"/>
+    <twitter-id nil="true"/>
+    <description nil="true"/>
+    <time-zone>Singapore</time-zone>
+    <deleted type="boolean">false</deleted>
+    <fb-profile-id nil="true"/>
+    <language>en</language>
+    <address nil="true"/>
+    <external-id nil="true"/>
+    <helpdesk-agent type="boolean">false</helpdesk-agent>
+    <unique-external-id nil="true"/>
+    <company-id nil="true"/>
+    <other-phone-numbers nil="true"/>
+    <custom_field>
+    </custom_field>
+  </user>
+  <user>
+    <id type="integer">159010348050</id>
+    <name>Roslina</name>
+    <email>roslina@iburuj.com</email>
+    <created-at type="dateTime">2026-02-03T15:34:25+08:00</created-at>
+    <updated-at type="dateTime">2026-03-10T10:25:10+08:00</updated-at>
+    <account-id type="integer">4509657</account-id>
+    <active type="boolean">true</active>
+    <customer-id type="integer">159002486146</customer-id>
+    <job-title nil="true"/>
+    <phone>+60389471818</phone>
+    <mobile nil="true"/>
+    <twitter-id nil="true"/>
+    <description nil="true"/>
+    <time-zone>Singapore</time-zone>
+    <deleted type="boolean">false</deleted>
+    <fb-profile-id nil="true"/>
+    <language>en</language>
+    <address nil="true"/>
+    <external-id nil="true"/>
+    <helpdesk-agent type="boolean">false</helpdesk-agent>
+    <unique-external-id nil="true"/>
+    <company-id type="integer">159002486146</company-id>
+    <other-phone-numbers nil="true"/>
+    <custom_field>
+      <cf_region>APAC</cf_region>
+    </custom_field>
+  </user>
+  <user>
+    <id type="integer">159010351872</id>
+    <name>Kingkanda Sodchuan</name>
+    <email>kingkanda.s@scpsystems.co.th</email>
+    <created-at type="dateTime">2026-02-03T18:08:27+08:00</created-at>
+    <updated-at type="dateTime">2026-02-10T15:56:44+08:00</updated-at>
+    <account-id type="integer">4509657</account-id>
+    <active type="boolean">true</active>
+    <customer-id type="integer">159002486153</customer-id>
+    <job-title nil="true"/>
+    <phone nil="true"/>
+    <mobile nil="true"/>
+    <twitter-id nil="true"/>
+    <description nil="true"/>
+    <time-zone>Singapore</time-zone>
+    <deleted type="boolean">false</deleted>
+    <fb-profile-id nil="true"/>
+    <language>en</language>
+    <address nil="true"/>
+    <external-id nil="true"/>
+    <helpdesk-agent type="boolean">false</helpdesk-agent>
+    <unique-external-id nil="true"/>
+    <company-id type="integer">159002486153</company-id>
+    <other-phone-numbers type="array"/>
+    <custom_field>
+      <cf_region>APAC</cf_region>
+    </custom_field>
+  </user>
+  <user>
+    <id type="integer">159010524437</id>
+    <name>Izzat. emmarul</name>
+    <email>izzat.emmarul@dynamiktechnologies.com.bn</email>
+    <created-at type="dateTime">2026-02-06T17:27:19+08:00</created-at>
+    <updated-at type="dateTime">2026-02-12T09:18:42+08:00</updated-at>
+    <account-id type="integer">4509657</account-id>
+    <active type="boolean">true</active>
+    <customer-id type="integer">159002486144</customer-id>
+    <job-title nil="true"/>
+    <phone nil="true"/>
+    <mobile nil="true"/>
+    <twitter-id nil="true"/>
+    <description nil="true"/>
+    <time-zone>Singapore</time-zone>
+    <deleted type="boolean">false</deleted>
+    <fb-profile-id nil="true"/>
+    <language>en</language>
+    <address nil="true"/>
+    <external-id nil="true"/>
+    <helpdesk-agent type="boolean">false</helpdesk-agent>
+    <unique-external-id nil="true"/>
+    <company-id type="integer">159002486144</company-id>
+    <other-phone-numbers nil="true"/>
+    <custom_field>
+      <cf_region>APAC</cf_region>
+    </custom_field>
+  </user>
+  <user>
+    <id type="integer">159010553941</id>
+    <name>Syed Asifuddin Quadri</name>
+    <email>syedasifuddin.quadri@mouwasat.com</email>
+    <created-at type="dateTime">2026-02-10T17:21:55+08:00</created-at>
+    <updated-at type="dateTime">2026-02-17T17:25:26+08:00</updated-at>
+    <account-id type="integer">4509657</account-id>
+    <active type="boolean">true</active>
+    <customer-id type="integer">159002486163</customer-id>
+    <job-title nil="true"/>
+    <phone>0503823550</phone>
+    <mobile nil="true"/>
+    <twitter-id nil="true"/>
+    <description nil="true"/>
+    <time-zone>Riyadh</time-zone>
+    <deleted type="boolean">false</deleted>
+    <fb-profile-id nil="true"/>
+    <language>en</language>
+    <address nil="true"/>
+    <external-id nil="true"/>
+    <helpdesk-agent type="boolean">false</helpdesk-agent>
+    <unique-external-id nil="true"/>
+    <company-id type="integer">159002486163</company-id>
+    <other-phone-numbers type="array"/>
+    <custom_field>
+      <cf_region>MEA</cf_region>
+    </custom_field>
+  </user>
+  <user>
+    <id type="integer">159010561060</id>
+    <name>Chen Liping (NHCS)</name>
+    <email>chen.liping@nhcs.com.sg</email>
+    <created-at type="dateTime">2026-02-11T12:34:25+08:00</created-at>
+    <updated-at type="dateTime">2026-02-11T12:39:26+08:00</updated-at>
+    <account-id type="integer">4509657</account-id>
+    <active type="boolean">false</active>
+    <customer-id type="integer" nil="true"/>
+    <job-title nil="true"/>
+    <phone nil="true"/>
+    <mobile nil="true"/>
+    <twitter-id nil="true"/>
+    <description nil="true"/>
+    <time-zone>Singapore</time-zone>
+    <deleted type="boolean">false</deleted>
+    <fb-profile-id nil="true"/>
+    <language>en</language>
+    <address nil="true"/>
+    <external-id nil="true"/>
+    <helpdesk-agent type="boolean">false</helpdesk-agent>
+    <unique-external-id nil="true"/>
+    <company-id nil="true"/>
+    <other-phone-numbers nil="true"/>
+    <custom_field>
+    </custom_field>
+  </user>
+  <user>
+    <id type="integer">159010561680</id>
+    <name>Devayani P</name>
+    <email>devayani.p@adeahub.co</email>
+    <created-at type="dateTime">2026-02-11T15:54:23+08:00</created-at>
+    <updated-at type="dateTime">2026-02-11T15:54:23+08:00</updated-at>
+    <account-id type="integer">4509657</account-id>
+    <active type="boolean">false</active>
+    <customer-id type="integer" nil="true"/>
+    <job-title nil="true"/>
+    <phone nil="true"/>
+    <mobile nil="true"/>
+    <twitter-id nil="true"/>
+    <description nil="true"/>
+    <time-zone>Singapore</time-zone>
+    <deleted type="boolean">false</deleted>
+    <fb-profile-id nil="true"/>
+    <language>en</language>
+    <address nil="true"/>
+    <external-id nil="true"/>
+    <helpdesk-agent type="boolean">false</helpdesk-agent>
+    <unique-external-id nil="true"/>
+    <company-id nil="true"/>
+    <other-phone-numbers nil="true"/>
+    <custom_field>
+    </custom_field>
+  </user>
+  <user>
+    <id type="integer">159010562505</id>
+    <name>Tang Jia Yng (SNEC)</name>
+    <email>tang.jia.yng@snec.com.sg</email>
+    <created-at type="dateTime">2026-02-11T19:09:22+08:00</created-at>
+    <updated-at type="dateTime">2026-02-11T19:14:25+08:00</updated-at>
+    <account-id type="integer">4509657</account-id>
+    <active type="boolean">false</active>
+    <customer-id type="integer" nil="true"/>
+    <job-title nil="true"/>
+    <phone nil="true"/>
+    <mobile nil="true"/>
+    <twitter-id nil="true"/>
+    <description nil="true"/>
+    <time-zone>Singapore</time-zone>
+    <deleted type="boolean">false</deleted>
+    <fb-profile-id nil="true"/>
+    <language>en</language>
+    <address nil="true"/>
+    <external-id nil="true"/>
+    <helpdesk-agent type="boolean">false</helpdesk-agent>
+    <unique-external-id nil="true"/>
+    <company-id nil="true"/>
+    <other-phone-numbers nil="true"/>
+    <custom_field>
+    </custom_field>
+  </user>
+  <user>
+    <id type="integer">159010618381</id>
+    <name>Ambikapathi Krishnamoorthy</name>
+    <email>ambikapathi.k@mouwasat.com</email>
+    <created-at type="dateTime">2026-02-12T18:17:24+08:00</created-at>
+    <updated-at type="dateTime">2026-03-04T16:16:31+08:00</updated-at>
+    <account-id type="integer">4509657</account-id>
+    <active type="boolean">true</active>
+    <customer-id type="integer">159002486163</customer-id>
+    <job-title>Mr</job-title>
+    <phone nil="true"/>
+    <mobile nil="true"/>
+    <twitter-id nil="true"/>
+    <description nil="true"/>
+    <time-zone>Riyadh</time-zone>
+    <deleted type="boolean">false</deleted>
+    <fb-profile-id nil="true"/>
+    <language>en</language>
+    <address nil="true"/>
+    <external-id nil="true"/>
+    <helpdesk-agent type="boolean">false</helpdesk-agent>
+    <unique-external-id nil="true"/>
+    <company-id type="integer">159002486163</company-id>
+    <other-phone-numbers type="array"/>
+    <custom_field>
+      <cf_region>MEA</cf_region>
+    </custom_field>
+  </user>
+  <user>
+    <id type="integer">159010618418</id>
+    <name>Mostafa Hassan</name>
+    <email>mostafa.hassan@mouwasat.com</email>
+    <created-at type="dateTime">2026-02-12T18:27:11+08:00</created-at>
+    <updated-at type="dateTime">2026-03-03T17:41:06+08:00</updated-at>
+    <account-id type="integer">4509657</account-id>
+    <active type="boolean">true</active>
+    <customer-id type="integer">159002486163</customer-id>
+    <job-title nil="true"/>
+    <phone>567782556</phone>
+    <mobile nil="true"/>
+    <twitter-id nil="true"/>
+    <description nil="true"/>
+    <time-zone>Riyadh</time-zone>
+    <deleted type="boolean">false</deleted>
+    <fb-profile-id nil="true"/>
+    <language>en</language>
+    <address nil="true"/>
+    <external-id nil="true"/>
+    <helpdesk-agent type="boolean">false</helpdesk-agent>
+    <unique-external-id nil="true"/>
+    <company-id type="integer">159002486163</company-id>
+    <other-phone-numbers type="array"/>
+    <custom_field>
+      <cf_region>MEA</cf_region>
+    </custom_field>
+  </user>
+  <user>
+    <id type="integer">159010618440</id>
+    <name>Ali Hilal</name>
+    <email>alihilal@mouwasat.com</email>
+    <created-at type="dateTime">2026-02-12T18:32:15+08:00</created-at>
+    <updated-at type="dateTime">2026-03-29T13:35:35+08:00</updated-at>
+    <account-id type="integer">4509657</account-id>
+    <active type="boolean">true</active>
+    <customer-id type="integer">159002486163</customer-id>
+    <job-title nil="true"/>
+    <phone>501577142</phone>
+    <mobile nil="true"/>
+    <twitter-id nil="true"/>
+    <description nil="true"/>
+    <time-zone>Riyadh</time-zone>
+    <deleted type="boolean">false</deleted>
+    <fb-profile-id nil="true"/>
+    <language>en</language>
+    <address nil="true"/>
+    <external-id nil="true"/>
+    <helpdesk-agent type="boolean">false</helpdesk-agent>
+    <unique-external-id nil="true"/>
+    <company-id type="integer">159002486163</company-id>
+    <other-phone-numbers type="array"/>
+    <custom_field>
+      <cf_region>MEA</cf_region>
+    </custom_field>
+  </user>
+  <user>
+    <id type="integer">159010619143</id>
+    <name>Subin P Gopal</name>
+    <email>subinp.gopal@mouwasat.com</email>
+    <created-at type="dateTime">2026-02-12T21:16:18+08:00</created-at>
+    <updated-at type="dateTime">2026-02-21T17:29:27+08:00</updated-at>
+    <account-id type="integer">4509657</account-id>
+    <active type="boolean">true</active>
+    <customer-id type="integer">159002486163</customer-id>
+    <job-title nil="true"/>
+    <phone>0535648708</phone>
+    <mobile nil="true"/>
+    <twitter-id nil="true"/>
+    <description nil="true"/>
+    <time-zone>Riyadh</time-zone>
+    <deleted type="boolean">false</deleted>
+    <fb-profile-id nil="true"/>
+    <language>en</language>
+    <address nil="true"/>
+    <external-id nil="true"/>
+    <helpdesk-agent type="boolean">false</helpdesk-agent>
+    <unique-external-id nil="true"/>
+    <company-id type="integer">159002486163</company-id>
+    <other-phone-numbers type="array"/>
+    <custom_field>
+      <cf_region>MEA</cf_region>
+    </custom_field>
+  </user>
+  <user>
+    <id type="integer">159010619172</id>
+    <name>Niyas Nazar</name>
+    <email>niyas.nazar@mouwasat.com</email>
+    <created-at type="dateTime">2026-02-12T21:20:42+08:00</created-at>
+    <updated-at type="dateTime">2026-03-07T18:41:33+08:00</updated-at>
+    <account-id type="integer">4509657</account-id>
+    <active type="boolean">true</active>
+    <customer-id type="integer">159002486163</customer-id>
+    <job-title nil="true"/>
+    <phone>530097137</phone>
+    <mobile nil="true"/>
+    <twitter-id nil="true"/>
+    <description nil="true"/>
+    <time-zone>Riyadh</time-zone>
+    <deleted type="boolean">false</deleted>
+    <fb-profile-id nil="true"/>
+    <language>en</language>
+    <address nil="true"/>
+    <external-id nil="true"/>
+    <helpdesk-agent type="boolean">false</helpdesk-agent>
+    <unique-external-id nil="true"/>
+    <company-id type="integer">159002486163</company-id>
+    <other-phone-numbers type="array"/>
+    <custom_field>
+      <cf_region>MEA</cf_region>
+    </custom_field>
+  </user>
+  <user>
+    <id type="integer">159010619187</id>
+    <name>Ashraf Melhem</name>
+    <email>ashraf.melhem@mouwasat.com</email>
+    <created-at type="dateTime">2026-02-12T21:23:17+08:00</created-at>
+    <updated-at type="dateTime">2026-02-16T15:18:27+08:00</updated-at>
+    <account-id type="integer">4509657</account-id>
+    <active type="boolean">true</active>
+    <customer-id type="integer">159002486163</customer-id>
+    <job-title nil="true"/>
+    <phone>548518240</phone>
+    <mobile nil="true"/>
+    <twitter-id nil="true"/>
+    <description nil="true"/>
+    <time-zone>Riyadh</time-zone>
+    <deleted type="boolean">false</deleted>
+    <fb-profile-id nil="true"/>
+    <language>en</language>
+    <address nil="true"/>
+    <external-id nil="true"/>
+    <helpdesk-agent type="boolean">false</helpdesk-agent>
+    <unique-external-id nil="true"/>
+    <company-id type="integer">159002486163</company-id>
+    <other-phone-numbers type="array"/>
+    <custom_field>
+      <cf_region>MEA</cf_region>
+    </custom_field>
+  </user>
+  <user>
+    <id type="integer">159010619194</id>
+    <name>Mohamed El-Nabarawy</name>
+    <email>mohamed.elnabarawy@mouwasat.com</email>
+    <created-at type="dateTime">2026-02-12T21:25:00+08:00</created-at>
+    <updated-at type="dateTime">2026-02-12T21:28:44+08:00</updated-at>
+    <account-id type="integer">4509657</account-id>
+    <active type="boolean">true</active>
+    <customer-id type="integer">159002486163</customer-id>
+    <job-title nil="true"/>
+    <phone>534628504</phone>
+    <mobile nil="true"/>
+    <twitter-id nil="true"/>
+    <description nil="true"/>
+    <time-zone>Riyadh</time-zone>
+    <deleted type="boolean">false</deleted>
+    <fb-profile-id nil="true"/>
+    <language>en</language>
+    <address nil="true"/>
+    <external-id nil="true"/>
+    <helpdesk-agent type="boolean">false</helpdesk-agent>
+    <unique-external-id nil="true"/>
+    <company-id type="integer">159002486163</company-id>
+    <other-phone-numbers type="array"/>
+    <custom_field>
+      <cf_region>MEA</cf_region>
+    </custom_field>
+  </user>
+  <user>
+    <id type="integer">159010619215</id>
+    <name>Eihab Smadi</name>
+    <email>eihab.smadi@mouwasat.com</email>
+    <created-at type="dateTime">2026-02-12T21:26:55+08:00</created-at>
+    <updated-at type="dateTime">2026-02-14T15:48:54+08:00</updated-at>
+    <account-id type="integer">4509657</account-id>
+    <active type="boolean">true</active>
+    <customer-id type="integer">159002486163</customer-id>
+    <job-title nil="true"/>
+    <phone>592076347</phone>
+    <mobile nil="true"/>
+    <twitter-id nil="true"/>
+    <description nil="true"/>
+    <time-zone>Riyadh</time-zone>
+    <deleted type="boolean">false</deleted>
+    <fb-profile-id nil="true"/>
+    <language>en</language>
+    <address nil="true"/>
+    <external-id nil="true"/>
+    <helpdesk-agent type="boolean">false</helpdesk-agent>
+    <unique-external-id nil="true"/>
+    <company-id type="integer">159002486163</company-id>
+    <other-phone-numbers type="array"/>
+    <custom_field>
+      <cf_region>MEA</cf_region>
+    </custom_field>
+  </user>
+  <user>
+    <id type="integer">159010619225</id>
+    <name>Ahmed Mumtaz</name>
+    <email>ahmed.mumtaz@mouwasat.com</email>
+    <created-at type="dateTime">2026-02-12T21:28:10+08:00</created-at>
+    <updated-at type="dateTime">2026-03-10T16:54:31+08:00</updated-at>
+    <account-id type="integer">4509657</account-id>
+    <active type="boolean">true</active>
+    <customer-id type="integer">159002486163</customer-id>
+    <job-title nil="true"/>
+    <phone>530647120</phone>
+    <mobile nil="true"/>
+    <twitter-id nil="true"/>
+    <description nil="true"/>
+    <time-zone>Riyadh</time-zone>
+    <deleted type="boolean">false</deleted>
+    <fb-profile-id nil="true"/>
+    <language>en</language>
+    <address nil="true"/>
+    <external-id nil="true"/>
+    <helpdesk-agent type="boolean">false</helpdesk-agent>
+    <unique-external-id nil="true"/>
+    <company-id type="integer">159002486163</company-id>
+    <other-phone-numbers type="array"/>
+    <custom_field>
+      <cf_region>MEA</cf_region>
+    </custom_field>
+  </user>
+  <user>
+    <id type="integer">159010714372</id>
+    <name>Hariharan K</name>
+    <email>hariharan.k@adeahub.co</email>
+    <created-at type="dateTime">2026-02-16T11:34:45+08:00</created-at>
+    <updated-at type="dateTime">2026-02-16T11:40:39+08:00</updated-at>
+    <account-id type="integer">4509657</account-id>
+    <active type="boolean">true</active>
+    <customer-id type="integer" nil="true"/>
+    <job-title nil="true"/>
+    <phone nil="true"/>
+    <mobile nil="true"/>
+    <twitter-id nil="true"/>
+    <description nil="true"/>
+    <time-zone>Singapore</time-zone>
+    <deleted type="boolean">false</deleted>
+    <fb-profile-id nil="true"/>
+    <language>en</language>
+    <address nil="true"/>
+    <external-id nil="true"/>
+    <helpdesk-agent type="boolean">false</helpdesk-agent>
+    <unique-external-id nil="true"/>
+    <company-id nil="true"/>
+    <other-phone-numbers nil="true"/>
+    <custom_field>
+    </custom_field>
+  </user>
+  <user>
+    <id type="integer">159010769962</id>
+    <name>Ashish Dua</name>
+    <email>ashish.dua@medanta.org</email>
+    <created-at type="dateTime">2026-02-17T15:20:25+08:00</created-at>
+    <updated-at type="dateTime">2026-02-17T17:30:22+08:00</updated-at>
+    <account-id type="integer">4509657</account-id>
+    <active type="boolean">true</active>
+    <customer-id type="integer">159002488677</customer-id>
+    <job-title nil="true"/>
+    <phone>9810918555</phone>
+    <mobile nil="true"/>
+    <twitter-id nil="true"/>
+    <description nil="true"/>
+    <time-zone>Singapore</time-zone>
+    <deleted type="boolean">false</deleted>
+    <fb-profile-id nil="true"/>
+    <language>en</language>
+    <address nil="true"/>
+    <external-id nil="true"/>
+    <helpdesk-agent type="boolean">false</helpdesk-agent>
+    <unique-external-id nil="true"/>
+    <company-id type="integer">159002488677</company-id>
+    <other-phone-numbers nil="true"/>
+    <custom_field>
+      <cf_region>APAC</cf_region>
+    </custom_field>
+  </user>
+  <user>
+    <id type="integer">159010769972</id>
+    <name>Avinash Purohit</name>
+    <email>avinash.purohit@medanta.org</email>
+    <created-at type="dateTime">2026-02-17T15:26:46+08:00</created-at>
+    <updated-at type="dateTime">2026-02-17T15:32:11+08:00</updated-at>
+    <account-id type="integer">4509657</account-id>
+    <active type="boolean">true</active>
+    <customer-id type="integer">159002488677</customer-id>
+    <job-title nil="true"/>
+    <phone nil="true"/>
+    <mobile nil="true"/>
+    <twitter-id nil="true"/>
+    <description nil="true"/>
+    <time-zone>Singapore</time-zone>
+    <deleted type="boolean">false</deleted>
+    <fb-profile-id nil="true"/>
+    <language>en</language>
+    <address nil="true"/>
+    <external-id nil="true"/>
+    <helpdesk-agent type="boolean">false</helpdesk-agent>
+    <unique-external-id nil="true"/>
+    <company-id type="integer">159002488677</company-id>
+    <other-phone-numbers nil="true"/>
+    <custom_field>
+      <cf_region>APAC</cf_region>
+    </custom_field>
+  </user>
+  <user>
+    <id type="integer">159010769974</id>
+    <name>Deepti Suri</name>
+    <email>deepti.suri@medanta.org</email>
+    <created-at type="dateTime">2026-02-17T15:27:51+08:00</created-at>
+    <updated-at type="dateTime">2026-02-28T12:35:15+08:00</updated-at>
+    <account-id type="integer">4509657</account-id>
+    <active type="boolean">true</active>
+    <customer-id type="integer">159002488677</customer-id>
+    <job-title nil="true"/>
+    <phone nil="true"/>
+    <mobile nil="true"/>
+    <twitter-id nil="true"/>
+    <description nil="true"/>
+    <time-zone>Singapore</time-zone>
+    <deleted type="boolean">false</deleted>
+    <fb-profile-id nil="true"/>
+    <language>en</language>
+    <address nil="true"/>
+    <external-id nil="true"/>
+    <helpdesk-agent type="boolean">false</helpdesk-agent>
+    <unique-external-id nil="true"/>
+    <company-id type="integer">159002488677</company-id>
+    <other-phone-numbers nil="true"/>
+    <custom_field>
+      <cf_region>APAC</cf_region>
+    </custom_field>
+  </user>
+  <user>
+    <id type="integer">159010769979</id>
+    <name>Joginder Katyal</name>
+    <email>joginder.katyal@medanta.org</email>
+    <created-at type="dateTime">2026-02-17T15:29:09+08:00</created-at>
+    <updated-at type="dateTime">2026-04-02T15:09:06+08:00</updated-at>
+    <account-id type="integer">4509657</account-id>
+    <active type="boolean">false</active>
+    <customer-id type="integer">159002488677</customer-id>
+    <job-title nil="true"/>
+    <phone nil="true"/>
+    <mobile nil="true"/>
+    <twitter-id nil="true"/>
+    <description nil="true"/>
+    <time-zone>Singapore</time-zone>
+    <deleted type="boolean">false</deleted>
+    <fb-profile-id nil="true"/>
+    <language>en</language>
+    <address nil="true"/>
+    <external-id nil="true"/>
+    <helpdesk-agent type="boolean">false</helpdesk-agent>
+    <unique-external-id nil="true"/>
+    <company-id type="integer">159002488677</company-id>
+    <other-phone-numbers nil="true"/>
+    <custom_field>
+      <cf_region>APAC</cf_region>
+    </custom_field>
+  </user>
+  <user>
+    <id type="integer">159010769980</id>
+    <name>Jyoti Dutta</name>
+    <email>jyoti.dutta@medanta.org</email>
+    <created-at type="dateTime">2026-02-17T15:29:36+08:00</created-at>
+    <updated-at type="dateTime">2026-03-18T19:51:44+08:00</updated-at>
+    <account-id type="integer">4509657</account-id>
+    <active type="boolean">true</active>
+    <customer-id type="integer">159002488677</customer-id>
+    <job-title nil="true"/>
+    <phone nil="true"/>
+    <mobile nil="true"/>
+    <twitter-id nil="true"/>
+    <description nil="true"/>
+    <time-zone>Singapore</time-zone>
+    <deleted type="boolean">false</deleted>
+    <fb-profile-id nil="true"/>
+    <language>en</language>
+    <address nil="true"/>
+    <external-id nil="true"/>
+    <helpdesk-agent type="boolean">false</helpdesk-agent>
+    <unique-external-id nil="true"/>
+    <company-id type="integer">159002488677</company-id>
+    <other-phone-numbers nil="true"/>
+    <custom_field>
+      <cf_region>APAC</cf_region>
+    </custom_field>
+  </user>
+  <user>
+    <id type="integer">159010769984</id>
+    <name>Naresh Khurana</name>
+    <email>naresh.khurana@medanta.org</email>
+    <created-at type="dateTime">2026-02-17T15:30:13+08:00</created-at>
+    <updated-at type="dateTime">2026-03-27T19:44:13+08:00</updated-at>
+    <account-id type="integer">4509657</account-id>
+    <active type="boolean">true</active>
+    <customer-id type="integer">159002488677</customer-id>
+    <job-title nil="true"/>
+    <phone nil="true"/>
+    <mobile nil="true"/>
+    <twitter-id nil="true"/>
+    <description nil="true"/>
+    <time-zone>Singapore</time-zone>
+    <deleted type="boolean">false</deleted>
+    <fb-profile-id nil="true"/>
+    <language>en</language>
+    <address nil="true"/>
+    <external-id nil="true"/>
+    <helpdesk-agent type="boolean">false</helpdesk-agent>
+    <unique-external-id nil="true"/>
+    <company-id type="integer">159002488677</company-id>
+    <other-phone-numbers nil="true"/>
+    <custom_field>
+      <cf_region>APAC</cf_region>
+    </custom_field>
+  </user>
+  <user>
+    <id type="integer">159010769986</id>
+    <name>Paban Dutta</name>
+    <email>paban.dutta@medanta.org</email>
+    <created-at type="dateTime">2026-02-17T15:30:40+08:00</created-at>
+    <updated-at type="dateTime">2026-02-20T12:06:05+08:00</updated-at>
+    <account-id type="integer">4509657</account-id>
+    <active type="boolean">false</active>
+    <customer-id type="integer">159002488677</customer-id>
+    <job-title nil="true"/>
+    <phone nil="true"/>
+    <mobile nil="true"/>
+    <twitter-id nil="true"/>
+    <description nil="true"/>
+    <time-zone>Singapore</time-zone>
+    <deleted type="boolean">false</deleted>
+    <fb-profile-id nil="true"/>
+    <language>en</language>
+    <address nil="true"/>
+    <external-id nil="true"/>
+    <helpdesk-agent type="boolean">false</helpdesk-agent>
+    <unique-external-id nil="true"/>
+    <company-id type="integer">159002488677</company-id>
+    <other-phone-numbers nil="true"/>
+    <custom_field>
+      <cf_region>APAC</cf_region>
+    </custom_field>
+  </user>
+  <user>
+    <id type="integer">159010769988</id>
+    <name>Prakash Lenka</name>
+    <email>prakash.lenka@medanta.org</email>
+    <created-at type="dateTime">2026-02-17T15:31:07+08:00</created-at>
+    <updated-at type="dateTime">2026-03-24T18:45:20+08:00</updated-at>
+    <account-id type="integer">4509657</account-id>
+    <active type="boolean">true</active>
+    <customer-id type="integer">159002488677</customer-id>
+    <job-title nil="true"/>
+    <phone nil="true"/>
+    <mobile nil="true"/>
+    <twitter-id nil="true"/>
+    <description nil="true"/>
+    <time-zone>Singapore</time-zone>
+    <deleted type="boolean">false</deleted>
+    <fb-profile-id nil="true"/>
+    <language>en</language>
+    <address nil="true"/>
+    <external-id nil="true"/>
+    <helpdesk-agent type="boolean">false</helpdesk-agent>
+    <unique-external-id nil="true"/>
+    <company-id type="integer">159002488677</company-id>
+    <other-phone-numbers nil="true"/>
+    <custom_field>
+      <cf_region>APAC</cf_region>
+    </custom_field>
+  </user>
+  <user>
+    <id type="integer">159010769990</id>
+    <name>Pramod Kumar</name>
+    <email>pramod.kumar2@medanta.org</email>
+    <created-at type="dateTime">2026-02-17T15:31:38+08:00</created-at>
+    <updated-at type="dateTime">2026-03-18T18:47:01+08:00</updated-at>
+    <account-id type="integer">4509657</account-id>
+    <active type="boolean">true</active>
+    <customer-id type="integer">159002488677</customer-id>
+    <job-title nil="true"/>
+    <phone nil="true"/>
+    <mobile nil="true"/>
+    <twitter-id nil="true"/>
+    <description nil="true"/>
+    <time-zone>Singapore</time-zone>
+    <deleted type="boolean">false</deleted>
+    <fb-profile-id nil="true"/>
+    <language>en</language>
+    <address nil="true"/>
+    <external-id nil="true"/>
+    <helpdesk-agent type="boolean">false</helpdesk-agent>
+    <unique-external-id nil="true"/>
+    <company-id type="integer">159002488677</company-id>
+    <other-phone-numbers nil="true"/>
+    <custom_field>
+      <cf_region>APAC</cf_region>
+    </custom_field>
+  </user>
+  <user>
+    <id type="integer">159010769992</id>
+    <name>Rakesh Dash</name>
+    <email>rakesh.dash@medanta.org</email>
+    <created-at type="dateTime">2026-02-17T15:32:04+08:00</created-at>
+    <updated-at type="dateTime">2026-04-01T12:36:54+08:00</updated-at>
+    <account-id type="integer">4509657</account-id>
+    <active type="boolean">true</active>
+    <customer-id type="integer">159002488677</customer-id>
+    <job-title nil="true"/>
+    <phone nil="true"/>
+    <mobile nil="true"/>
+    <twitter-id nil="true"/>
+    <description nil="true"/>
+    <time-zone>Singapore</time-zone>
+    <deleted type="boolean">false</deleted>
+    <fb-profile-id nil="true"/>
+    <language>en</language>
+    <address nil="true"/>
+    <external-id nil="true"/>
+    <helpdesk-agent type="boolean">false</helpdesk-agent>
+    <unique-external-id nil="true"/>
+    <company-id type="integer">159002488677</company-id>
+    <other-phone-numbers nil="true"/>
+    <custom_field>
+      <cf_region>APAC</cf_region>
+    </custom_field>
+  </user>
+  <user>
+    <id type="integer">159010769994</id>
+    <name>Ramakant Singh</name>
+    <email>ramakant.singh@medanta.org</email>
+    <created-at type="dateTime">2026-02-17T15:32:32+08:00</created-at>
+    <updated-at type="dateTime">2026-03-09T18:50:46+08:00</updated-at>
+    <account-id type="integer">4509657</account-id>
+    <active type="boolean">true</active>
+    <customer-id type="integer">159002488677</customer-id>
+    <job-title nil="true"/>
+    <phone nil="true"/>
+    <mobile nil="true"/>
+    <twitter-id nil="true"/>
+    <description nil="true"/>
+    <time-zone>Singapore</time-zone>
+    <deleted type="boolean">false</deleted>
+    <fb-profile-id nil="true"/>
+    <language>en</language>
+    <address nil="true"/>
+    <external-id nil="true"/>
+    <helpdesk-agent type="boolean">false</helpdesk-agent>
+    <unique-external-id nil="true"/>
+    <company-id type="integer">159002488677</company-id>
+    <other-phone-numbers nil="true"/>
+    <custom_field>
+      <cf_region>APAC</cf_region>
+    </custom_field>
+  </user>
+  <user>
+    <id type="integer">159010769995</id>
+    <name>Sourin Dutta</name>
+    <email>sourin.dutta@medanta.org</email>
+    <created-at type="dateTime">2026-02-17T15:32:56+08:00</created-at>
+    <updated-at type="dateTime">2026-02-17T15:32:56+08:00</updated-at>
+    <account-id type="integer">4509657</account-id>
+    <active type="boolean">false</active>
+    <customer-id type="integer">159002488677</customer-id>
+    <job-title nil="true"/>
+    <phone nil="true"/>
+    <mobile nil="true"/>
+    <twitter-id nil="true"/>
+    <description nil="true"/>
+    <time-zone>Singapore</time-zone>
+    <deleted type="boolean">false</deleted>
+    <fb-profile-id nil="true"/>
+    <language>en</language>
+    <address nil="true"/>
+    <external-id nil="true"/>
+    <helpdesk-agent type="boolean">false</helpdesk-agent>
+    <unique-external-id nil="true"/>
+    <company-id type="integer">159002488677</company-id>
+    <other-phone-numbers nil="true"/>
+    <custom_field>
+      <cf_region>APAC</cf_region>
+    </custom_field>
+  </user>
+  <user>
+    <id type="integer">159010769998</id>
+    <name>Surjendra Sarkar</name>
+    <email>surjendra.sarkar@medanta.org</email>
+    <created-at type="dateTime">2026-02-17T15:33:20+08:00</created-at>
+    <updated-at type="dateTime">2026-02-17T15:33:20+08:00</updated-at>
+    <account-id type="integer">4509657</account-id>
+    <active type="boolean">false</active>
+    <customer-id type="integer">159002488677</customer-id>
+    <job-title nil="true"/>
+    <phone nil="true"/>
+    <mobile nil="true"/>
+    <twitter-id nil="true"/>
+    <description nil="true"/>
+    <time-zone>Singapore</time-zone>
+    <deleted type="boolean">false</deleted>
+    <fb-profile-id nil="true"/>
+    <language>en</language>
+    <address nil="true"/>
+    <external-id nil="true"/>
+    <helpdesk-agent type="boolean">false</helpdesk-agent>
+    <unique-external-id nil="true"/>
+    <company-id type="integer">159002488677</company-id>
+    <other-phone-numbers nil="true"/>
+    <custom_field>
+      <cf_region>APAC</cf_region>
+    </custom_field>
+  </user>
+  <user>
+    <id type="integer">159010769999</id>
+    <name>Vijai Mishra</name>
+    <email>vijai.mishra@medanta.org</email>
+    <created-at type="dateTime">2026-02-17T15:33:44+08:00</created-at>
+    <updated-at type="dateTime">2026-02-17T15:33:44+08:00</updated-at>
+    <account-id type="integer">4509657</account-id>
+    <active type="boolean">false</active>
+    <customer-id type="integer">159002488677</customer-id>
+    <job-title nil="true"/>
+    <phone nil="true"/>
+    <mobile nil="true"/>
+    <twitter-id nil="true"/>
+    <description nil="true"/>
+    <time-zone>Singapore</time-zone>
+    <deleted type="boolean">false</deleted>
+    <fb-profile-id nil="true"/>
+    <language>en</language>
+    <address nil="true"/>
+    <external-id nil="true"/>
+    <helpdesk-agent type="boolean">false</helpdesk-agent>
+    <unique-external-id nil="true"/>
+    <company-id type="integer">159002488677</company-id>
+    <other-phone-numbers nil="true"/>
+    <custom_field>
+      <cf_region>APAC</cf_region>
+    </custom_field>
+  </user>
+  <user>
+    <id type="integer">159010770001</id>
+    <name>Yashpal Virmani</name>
+    <email>yashpal.virmani@medanta.org</email>
+    <created-at type="dateTime">2026-02-17T15:34:08+08:00</created-at>
+    <updated-at type="dateTime">2026-02-17T15:34:08+08:00</updated-at>
+    <account-id type="integer">4509657</account-id>
+    <active type="boolean">false</active>
+    <customer-id type="integer">159002488677</customer-id>
+    <job-title nil="true"/>
+    <phone nil="true"/>
+    <mobile nil="true"/>
+    <twitter-id nil="true"/>
+    <description nil="true"/>
+    <time-zone>Singapore</time-zone>
+    <deleted type="boolean">false</deleted>
+    <fb-profile-id nil="true"/>
+    <language>en</language>
+    <address nil="true"/>
+    <external-id nil="true"/>
+    <helpdesk-agent type="boolean">false</helpdesk-agent>
+    <unique-external-id nil="true"/>
+    <company-id type="integer">159002488677</company-id>
+    <other-phone-numbers nil="true"/>
+    <custom_field>
+      <cf_region>APAC</cf_region>
+    </custom_field>
+  </user>
+  <user>
+    <id type="integer">159010922160</id>
+    <name>Mohammad Syafiee Matali</name>
+    <email>syafiee.matali@dynamiktechnologies.com.bn</email>
+    <created-at type="dateTime">2026-02-20T11:55:25+08:00</created-at>
+    <updated-at type="dateTime">2026-02-20T12:14:10+08:00</updated-at>
+    <account-id type="integer">4509657</account-id>
+    <active type="boolean">true</active>
+    <customer-id type="integer" nil="true"/>
+    <job-title nil="true"/>
+    <phone nil="true"/>
+    <mobile nil="true"/>
+    <twitter-id nil="true"/>
+    <description nil="true"/>
+    <time-zone>Singapore</time-zone>
+    <deleted type="boolean">false</deleted>
+    <fb-profile-id nil="true"/>
+    <language>en</language>
+    <address nil="true"/>
+    <external-id nil="true"/>
+    <helpdesk-agent type="boolean">false</helpdesk-agent>
+    <unique-external-id nil="true"/>
+    <company-id nil="true"/>
+    <other-phone-numbers nil="true"/>
+    <custom_field>
+    </custom_field>
+  </user>
+  <user>
+    <id type="integer">159010992192</id>
+    <name>Elbin Eldhose</name>
+    <email>elbin.eldhose@dedalus.com</email>
+    <created-at type="dateTime">2026-02-25T13:35:06+08:00</created-at>
+    <updated-at type="dateTime">2026-02-25T13:35:06+08:00</updated-at>
+    <account-id type="integer">4509657</account-id>
+    <active type="boolean">false</active>
+    <customer-id type="integer" nil="true"/>
+    <job-title nil="true"/>
+    <phone nil="true"/>
+    <mobile nil="true"/>
+    <twitter-id nil="true"/>
+    <description nil="true"/>
+    <time-zone>Singapore</time-zone>
+    <deleted type="boolean">false</deleted>
+    <fb-profile-id nil="true"/>
+    <language>en</language>
+    <address nil="true"/>
+    <external-id nil="true"/>
+    <helpdesk-agent type="boolean">false</helpdesk-agent>
+    <unique-external-id nil="true"/>
+    <company-id nil="true"/>
+    <other-phone-numbers nil="true"/>
+    <custom_field>
+    </custom_field>
+  </user>
+  <user>
+    <id type="integer">159011029628</id>
+    <name>Victor Tan Chong Lip (SNEC)</name>
+    <email>victor.tan.c.l@snec.com.sg</email>
+    <created-at type="dateTime">2026-02-27T11:30:21+08:00</created-at>
+    <updated-at type="dateTime">2026-02-27T11:35:26+08:00</updated-at>
+    <account-id type="integer">4509657</account-id>
+    <active type="boolean">false</active>
+    <customer-id type="integer" nil="true"/>
+    <job-title nil="true"/>
+    <phone nil="true"/>
+    <mobile nil="true"/>
+    <twitter-id nil="true"/>
+    <description nil="true"/>
+    <time-zone>Singapore</time-zone>
+    <deleted type="boolean">false</deleted>
+    <fb-profile-id nil="true"/>
+    <language>en</language>
+    <address nil="true"/>
+    <external-id nil="true"/>
+    <helpdesk-agent type="boolean">false</helpdesk-agent>
+    <unique-external-id nil="true"/>
+    <company-id nil="true"/>
+    <other-phone-numbers nil="true"/>
+    <custom_field>
+    </custom_field>
+  </user>
+  <user>
+    <id type="integer">159011045939</id>
+    <name>Mostafa Mohamed</name>
+    <email>moabdelfattah@alfaisaliah.com</email>
+    <created-at type="dateTime">2026-03-01T20:25:21+08:00</created-at>
+    <updated-at type="dateTime">2026-03-01T20:25:21+08:00</updated-at>
+    <account-id type="integer">4509657</account-id>
+    <active type="boolean">false</active>
+    <customer-id type="integer">159002486164</customer-id>
+    <job-title>Project Manager</job-title>
+    <phone>+201289992067</phone>
+    <mobile nil="true"/>
+    <twitter-id nil="true"/>
+    <description nil="true"/>
+    <time-zone>Singapore</time-zone>
+    <deleted type="boolean">false</deleted>
+    <fb-profile-id nil="true"/>
+    <language>en</language>
+    <address nil="true"/>
+    <external-id nil="true"/>
+    <helpdesk-agent type="boolean">false</helpdesk-agent>
+    <unique-external-id nil="true"/>
+    <company-id type="integer">159002486164</company-id>
+    <other-phone-numbers type="array"/>
+    <custom_field>
+      <cf_region>MEA</cf_region>
+    </custom_field>
+  </user>
+  <user>
+    <id type="integer">159011045943</id>
+    <name>Raad Mohamed</name>
+    <email>raad@alhammadmedical.com</email>
+    <created-at type="dateTime">2026-03-01T20:28:15+08:00</created-at>
+    <updated-at type="dateTime">2026-03-31T17:13:05+08:00</updated-at>
+    <account-id type="integer">4509657</account-id>
+    <active type="boolean">true</active>
+    <customer-id type="integer">159002486164</customer-id>
+    <job-title>Project Manager</job-title>
+    <phone>+966542009593</phone>
+    <mobile nil="true"/>
+    <twitter-id nil="true"/>
+    <description nil="true"/>
+    <time-zone>Riyadh</time-zone>
+    <deleted type="boolean">false</deleted>
+    <fb-profile-id nil="true"/>
+    <language>en</language>
+    <address nil="true"/>
+    <external-id nil="true"/>
+    <helpdesk-agent type="boolean">false</helpdesk-agent>
+    <unique-external-id nil="true"/>
+    <company-id type="integer">159002486164</company-id>
+    <other-phone-numbers type="array"/>
+    <custom_field>
+      <cf_region>MEA</cf_region>
+    </custom_field>
+  </user>
+  <user>
+    <id type="integer">159011045960</id>
+    <name>Bianca Pinna Pascual</name>
+    <email>bpascual@oncoclinicgroup.com</email>
+    <created-at type="dateTime">2026-03-01T20:35:04+08:00</created-at>
+    <updated-at type="dateTime">2026-03-01T23:35:54+08:00</updated-at>
+    <account-id type="integer">4509657</account-id>
+    <active type="boolean">true</active>
+    <customer-id type="integer">159002486164</customer-id>
+    <job-title>HIS Informatics</job-title>
+    <phone>+5511998030809</phone>
+    <mobile nil="true"/>
+    <twitter-id nil="true"/>
+    <description nil="true"/>
+    <time-zone>Riyadh</time-zone>
+    <deleted type="boolean">false</deleted>
+    <fb-profile-id nil="true"/>
+    <language>en</language>
+    <address nil="true"/>
+    <external-id nil="true"/>
+    <helpdesk-agent type="boolean">false</helpdesk-agent>
+    <unique-external-id nil="true"/>
+    <company-id type="integer">159002486164</company-id>
+    <other-phone-numbers type="array"/>
+    <custom_field>
+      <cf_region>MEA</cf_region>
+    </custom_field>
+  </user>
+  <user>
+    <id type="integer">159011045982</id>
+    <name>Samah Nadem</name>
+    <email>snadem@oncoclinicgroup.com</email>
+    <created-at type="dateTime">2026-03-01T20:40:55+08:00</created-at>
+    <updated-at type="dateTime">2026-03-31T21:50:02+08:00</updated-at>
+    <account-id type="integer">4509657</account-id>
+    <active type="boolean">true</active>
+    <customer-id type="integer">159002486164</customer-id>
+    <job-title>HIS Informatics</job-title>
+    <phone>+966557182562</phone>
+    <mobile nil="true"/>
+    <twitter-id nil="true"/>
+    <description nil="true"/>
+    <time-zone>Riyadh</time-zone>
+    <deleted type="boolean">false</deleted>
+    <fb-profile-id nil="true"/>
+    <language>en</language>
+    <address nil="true"/>
+    <external-id nil="true"/>
+    <helpdesk-agent type="boolean">false</helpdesk-agent>
+    <unique-external-id nil="true"/>
+    <company-id type="integer">159002486164</company-id>
+    <other-phone-numbers type="array"/>
+    <custom_field>
+      <cf_region>MEA</cf_region>
+    </custom_field>
+  </user>
+  <user>
+    <id type="integer">159011045989</id>
+    <name>Nayef Alsubaie</name>
+    <email>naalsubaie@oncoclinicgroup.com</email>
+    <created-at type="dateTime">2026-03-01T20:43:11+08:00</created-at>
+    <updated-at type="dateTime">2026-04-12T21:01:33+08:00</updated-at>
+    <account-id type="integer">4509657</account-id>
+    <active type="boolean">true</active>
+    <customer-id type="integer">159002486164</customer-id>
+    <job-title>HIS Informatics</job-title>
+    <phone>+966561122006</phone>
+    <mobile>+966561122006</mobile>
+    <twitter-id nil="true"/>
+    <description nil="true"/>
+    <time-zone>Riyadh</time-zone>
+    <deleted type="boolean">false</deleted>
+    <fb-profile-id nil="true"/>
+    <language>en</language>
+    <address nil="true"/>
+    <external-id nil="true"/>
+    <helpdesk-agent type="boolean">false</helpdesk-agent>
+    <unique-external-id nil="true"/>
+    <company-id type="integer">159002486164</company-id>
+    <other-phone-numbers type="array"/>
+    <custom_field>
+      <cf_region>MEA</cf_region>
+    </custom_field>
+  </user>
+  <user>
+    <id type="integer">159011045998</id>
+    <name>Aline Avelino Santos</name>
+    <email>aline.asantos@oncoclinicgroup.com</email>
+    <created-at type="dateTime">2026-03-01T20:45:46+08:00</created-at>
+    <updated-at type="dateTime">2026-03-26T19:42:05+08:00</updated-at>
+    <account-id type="integer">4509657</account-id>
+    <active type="boolean">false</active>
+    <customer-id type="integer">159002486164</customer-id>
+    <job-title>HIS Informatics</job-title>
+    <phone>+5571992112773</phone>
+    <mobile nil="true"/>
+    <twitter-id nil="true"/>
+    <description nil="true"/>
+    <time-zone>Riyadh</time-zone>
+    <deleted type="boolean">false</deleted>
+    <fb-profile-id nil="true"/>
+    <language>en</language>
+    <address nil="true"/>
+    <external-id nil="true"/>
+    <helpdesk-agent type="boolean">false</helpdesk-agent>
+    <unique-external-id nil="true"/>
+    <company-id type="integer">159002486164</company-id>
+    <other-phone-numbers type="array"/>
+    <custom_field>
+      <cf_region>MEA</cf_region>
+    </custom_field>
+  </user>
+  <user>
+    <id type="integer">159011046005</id>
+    <name>Lorna Linehan</name>
+    <email>llinehan@tibbiyah.com</email>
+    <created-at type="dateTime">2026-03-01T20:47:47+08:00</created-at>
+    <updated-at type="dateTime">2026-03-31T17:31:28+08:00</updated-at>
+    <account-id type="integer">4509657</account-id>
+    <active type="boolean">true</active>
+    <customer-id type="integer">159002486164</customer-id>
+    <job-title>Program Manager</job-title>
+    <phone>+966538329009</phone>
+    <mobile nil="true"/>
+    <twitter-id nil="true"/>
+    <description nil="true"/>
+    <time-zone>Riyadh</time-zone>
+    <deleted type="boolean">false</deleted>
+    <fb-profile-id nil="true"/>
+    <language>en</language>
+    <address nil="true"/>
+    <external-id nil="true"/>
+    <helpdesk-agent type="boolean">false</helpdesk-agent>
+    <unique-external-id nil="true"/>
+    <company-id type="integer">159002486164</company-id>
+    <other-phone-numbers type="array"/>
+    <custom_field>
+      <cf_region>MEA</cf_region>
+    </custom_field>
+  </user>
+  <user>
+    <id type="integer">159011046011</id>
+    <name>Luanne Garcia Silva</name>
+    <email>lsilva@oncoclinicgroup.com</email>
+    <created-at type="dateTime">2026-03-01T20:49:26+08:00</created-at>
+    <updated-at type="dateTime">2026-03-04T04:55:28+08:00</updated-at>
+    <account-id type="integer">4509657</account-id>
+    <active type="boolean">true</active>
+    <customer-id type="integer">159002486164</customer-id>
+    <job-title>HIS Informatics</job-title>
+    <phone>+5521964979594</phone>
+    <mobile nil="true"/>
+    <twitter-id nil="true"/>
+    <description nil="true"/>
+    <time-zone>Riyadh</time-zone>
+    <deleted type="boolean">false</deleted>
+    <fb-profile-id nil="true"/>
+    <language>en</language>
+    <address nil="true"/>
+    <external-id nil="true"/>
+    <helpdesk-agent type="boolean">false</helpdesk-agent>
+    <unique-external-id nil="true"/>
+    <company-id type="integer">159002486164</company-id>
+    <other-phone-numbers type="array"/>
+    <custom_field>
+      <cf_region>MEA</cf_region>
+    </custom_field>
+  </user>
+  <user>
+    <id type="integer">159011046027</id>
+    <name>Hajer Alsabaa</name>
+    <email>halsabaa@oncoclinicgroup.com</email>
+    <created-at type="dateTime">2026-03-01T20:54:10+08:00</created-at>
+    <updated-at type="dateTime">2026-03-01T20:54:10+08:00</updated-at>
+    <account-id type="integer">4509657</account-id>
+    <active type="boolean">false</active>
+    <customer-id type="integer">159002486164</customer-id>
+    <job-title>HIS Informatics</job-title>
+    <phone nil="true"/>
+    <mobile nil="true"/>
+    <twitter-id nil="true"/>
+    <description nil="true"/>
+    <time-zone>Riyadh</time-zone>
+    <deleted type="boolean">false</deleted>
+    <fb-profile-id nil="true"/>
+    <language>en</language>
+    <address nil="true"/>
+    <external-id nil="true"/>
+    <helpdesk-agent type="boolean">false</helpdesk-agent>
+    <unique-external-id nil="true"/>
+    <company-id type="integer">159002486164</company-id>
+    <other-phone-numbers type="array"/>
+    <custom_field>
+      <cf_region>MEA</cf_region>
+    </custom_field>
+  </user>
+  <user>
+    <id type="integer">159011046040</id>
+    <name>Ibrahim Khan</name>
+    <email>ikhan@medtown.med.sa</email>
+    <created-at type="dateTime">2026-03-01T20:58:14+08:00</created-at>
+    <updated-at type="dateTime">2026-03-01T20:58:14+08:00</updated-at>
+    <account-id type="integer">4509657</account-id>
+    <active type="boolean">false</active>
+    <customer-id type="integer">159002505337</customer-id>
+    <job-title>IT Director</job-title>
+    <phone>966554664361</phone>
+    <mobile nil="true"/>
+    <twitter-id nil="true"/>
+    <description nil="true"/>
+    <time-zone>Singapore</time-zone>
+    <deleted type="boolean">false</deleted>
+    <fb-profile-id nil="true"/>
+    <language>en</language>
+    <address nil="true"/>
+    <external-id nil="true"/>
+    <helpdesk-agent type="boolean">false</helpdesk-agent>
+    <unique-external-id nil="true"/>
+    <company-id type="integer">159002505337</company-id>
+    <other-phone-numbers type="array"/>
+    <custom_field>
+      <cf_region>MEA</cf_region>
+    </custom_field>
+  </user>
+  <user>
+    <id type="integer">159011046047</id>
+    <name>Rafif Kattach</name>
+    <email>rkattach@medtown.med.sa</email>
+    <created-at type="dateTime">2026-03-01T21:00:01+08:00</created-at>
+    <updated-at type="dateTime">2026-03-02T14:50:55+08:00</updated-at>
+    <account-id type="integer">4509657</account-id>
+    <active type="boolean">true</active>
+    <customer-id type="integer">159002505337</customer-id>
+    <job-title>IT Solutions Specialist</job-title>
+    <phone>966530721737</phone>
+    <mobile nil="true"/>
+    <twitter-id nil="true"/>
+    <description nil="true"/>
+    <time-zone>Singapore</time-zone>
+    <deleted type="boolean">false</deleted>
+    <fb-profile-id nil="true"/>
+    <language>en</language>
+    <address nil="true"/>
+    <external-id nil="true"/>
+    <helpdesk-agent type="boolean">false</helpdesk-agent>
+    <unique-external-id nil="true"/>
+    <company-id type="integer">159002505337</company-id>
+    <other-phone-numbers type="array"/>
+    <custom_field>
+      <cf_region>MEA</cf_region>
+    </custom_field>
+  </user>
+  <user>
+    <id type="integer">159011046055</id>
+    <name>Mohammed Imran</name>
+    <email>mimran@medtown.med</email>
+    <created-at type="dateTime">2026-03-01T21:02:07+08:00</created-at>
+    <updated-at type="dateTime">2026-03-01T21:02:07+08:00</updated-at>
+    <account-id type="integer">4509657</account-id>
+    <active type="boolean">false</active>
+    <customer-id type="integer">159002505337</customer-id>
+    <job-title>Network Administrator</job-title>
+    <phone>966552358348</phone>
+    <mobile nil="true"/>
+    <twitter-id nil="true"/>
+    <description nil="true"/>
+    <time-zone>Singapore</time-zone>
+    <deleted type="boolean">false</deleted>
+    <fb-profile-id nil="true"/>
+    <language>en</language>
+    <address nil="true"/>
+    <external-id nil="true"/>
+    <helpdesk-agent type="boolean">false</helpdesk-agent>
+    <unique-external-id nil="true"/>
+    <company-id type="integer">159002505337</company-id>
+    <other-phone-numbers type="array"/>
+    <custom_field>
+      <cf_region>MEA</cf_region>
+    </custom_field>
+  </user>
+  <user>
+    <id type="integer">159011046063</id>
+    <name>Assadullah Khan</name>
+    <email>akhan@medtown.med.sa</email>
+    <created-at type="dateTime">2026-03-01T21:04:06+08:00</created-at>
+    <updated-at type="dateTime">2026-03-02T14:52:21+08:00</updated-at>
+    <account-id type="integer">4509657</account-id>
+    <active type="boolean">true</active>
+    <customer-id type="integer">159002505337</customer-id>
+    <job-title>Systems Administrator</job-title>
+    <phone>966532649970</phone>
+    <mobile nil="true"/>
+    <twitter-id nil="true"/>
+    <description nil="true"/>
+    <time-zone>Singapore</time-zone>
+    <deleted type="boolean">false</deleted>
+    <fb-profile-id nil="true"/>
+    <language>en</language>
+    <address nil="true"/>
+    <external-id nil="true"/>
+    <helpdesk-agent type="boolean">false</helpdesk-agent>
+    <unique-external-id nil="true"/>
+    <company-id type="integer">159002505337</company-id>
+    <other-phone-numbers type="array"/>
+    <custom_field>
+      <cf_region>MEA</cf_region>
+    </custom_field>
+  </user>
+  <user>
+    <id type="integer">159011046074</id>
+    <name>Nawal Alqahtani</name>
+    <email>nawala@medtown.med.sa</email>
+    <created-at type="dateTime">2026-03-01T21:06:41+08:00</created-at>
+    <updated-at type="dateTime">2026-03-02T16:08:31+08:00</updated-at>
+    <account-id type="integer">4509657</account-id>
+    <active type="boolean">true</active>
+    <customer-id type="integer">159002505337</customer-id>
+    <job-title>IT Helpdesk</job-title>
+    <phone>966531123318</phone>
+    <mobile nil="true"/>
+    <twitter-id nil="true"/>
+    <description nil="true"/>
+    <time-zone>Singapore</time-zone>
+    <deleted type="boolean">false</deleted>
+    <fb-profile-id nil="true"/>
+    <language>en</language>
+    <address nil="true"/>
+    <external-id nil="true"/>
+    <helpdesk-agent type="boolean">false</helpdesk-agent>
+    <unique-external-id nil="true"/>
+    <company-id type="integer">159002505337</company-id>
+    <other-phone-numbers type="array"/>
+    <custom_field>
+      <cf_region>MEA</cf_region>
+    </custom_field>
+  </user>
+  <user>
+    <id type="integer">159011498803</id>
+    <name>Ana Clara Andrade</name>
+    <email>aandrade@oncoclinicgroup.com</email>
+    <created-at type="dateTime">2026-03-26T19:47:47+08:00</created-at>
+    <updated-at type="dateTime">2026-03-31T05:09:24+08:00</updated-at>
+    <account-id type="integer">4509657</account-id>
+    <active type="boolean">true</active>
+    <customer-id type="integer">159002486164</customer-id>
+    <job-title nil="true"/>
+    <phone nil="true"/>
+    <mobile nil="true"/>
+    <twitter-id nil="true"/>
+    <description nil="true"/>
+    <time-zone>Singapore</time-zone>
+    <deleted type="boolean">false</deleted>
+    <fb-profile-id nil="true"/>
+    <language>en</language>
+    <address nil="true"/>
+    <external-id nil="true"/>
+    <helpdesk-agent type="boolean">false</helpdesk-agent>
+    <unique-external-id nil="true"/>
+    <company-id type="integer">159002486164</company-id>
+    <other-phone-numbers type="array"/>
+    <custom_field>
+      <cf_region>MEA</cf_region>
+    </custom_field>
+  </user>
+</users>

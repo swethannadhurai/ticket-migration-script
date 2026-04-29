@@ -1,0 +1,3847 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<groups type="array">
+  <group>
+    <id type="integer">159000817819</id>
+    <name>AHMY ANALYTIC</name>
+    <description>AHMY ANALYTIC</description>
+    <account-id type="integer">4509657</account-id>
+    <escalate-to type="integer" nil="true"/>
+    <assign-time type="integer" nil="true"/>
+    <created-at type="dateTime">2025-12-17T18:20:30+08:00</created-at>
+    <updated-at type="dateTime">2026-01-29T11:41:14+08:00</updated-at>
+    <ticket-assign-type type="integer">0</ticket-assign-type>
+    <business-calendar-id type="integer">159000223949</business-calendar-id>
+    <toggle-availability type="boolean">false</toggle-availability>
+    <capping-limit type="integer">0</capping-limit>
+    <group-type type="integer">1</group-type>
+    <uid nil="true"/>
+    <additional-settings>
+      <wildcat-queue-id>22351</wildcat-queue-id>
+    </additional-settings>
+    <agent-status-toggle type="boolean">false</agent-status-toggle>
+    <department-id type="integer">1</department-id>
+    <agents type="array">
+      <agent type="User">
+        <id type="integer">159009916128</id>
+        <name>Jauharatud Yani Binti Ahmad</name>
+        <email>jbintiahmad@adeahub.co</email>
+        <created-at type="dateTime">2025-12-20T18:46:34+08:00</created-at>
+        <updated-at type="dateTime">2026-02-11T12:08:42+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">true</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Kuala Lumpur</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+      <agent type="User">
+        <id type="integer">159009916134</id>
+        <name>Maniprakash Muthukrishnan</name>
+        <email>m.muuthukrishnan@adeahub.co</email>
+        <created-at type="dateTime">2025-12-20T18:46:39+08:00</created-at>
+        <updated-at type="dateTime">2026-02-11T12:13:34+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">true</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Chennai</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+      <agent type="User">
+        <id type="integer">159010235849</id>
+        <name>Norhaiza Binti Onn</name>
+        <email>nonn2@adeahub.co</email>
+        <created-at type="dateTime">2026-01-22T18:07:20+08:00</created-at>
+        <updated-at type="dateTime">2026-01-30T17:14:41+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">true</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Kuala Lumpur</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+      <agent type="User">
+        <id type="integer">159010235855</id>
+        <name>Norshafina Binti Othman</name>
+        <email>nothman@adeahub.co</email>
+        <created-at type="dateTime">2026-01-22T18:08:32+08:00</created-at>
+        <updated-at type="dateTime">2026-01-30T12:39:30+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">true</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Kuala Lumpur</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+    </agents>
+  </group>
+  <group>
+    <id type="integer">159000817824</id>
+    <name>AHMY BIL</name>
+    <description>AHMY BIL</description>
+    <account-id type="integer">4509657</account-id>
+    <escalate-to type="integer" nil="true"/>
+    <assign-time type="integer" nil="true"/>
+    <created-at type="dateTime">2025-12-17T18:22:19+08:00</created-at>
+    <updated-at type="dateTime">2026-01-30T13:44:48+08:00</updated-at>
+    <ticket-assign-type type="integer">0</ticket-assign-type>
+    <business-calendar-id type="integer">159000223949</business-calendar-id>
+    <toggle-availability type="boolean">false</toggle-availability>
+    <capping-limit type="integer">0</capping-limit>
+    <group-type type="integer">1</group-type>
+    <uid nil="true"/>
+    <additional-settings>
+      <wildcat-queue-id>22352</wildcat-queue-id>
+    </additional-settings>
+    <agent-status-toggle type="boolean">false</agent-status-toggle>
+    <department-id type="integer">1</department-id>
+    <agents type="array">
+      <agent type="User">
+        <id type="integer">159009916128</id>
+        <name>Jauharatud Yani Binti Ahmad</name>
+        <email>jbintiahmad@adeahub.co</email>
+        <created-at type="dateTime">2025-12-20T18:46:34+08:00</created-at>
+        <updated-at type="dateTime">2026-02-11T12:08:42+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">true</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Kuala Lumpur</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+    </agents>
+  </group>
+  <group>
+    <id type="integer">159000817821</id>
+    <name>AHMY CIS</name>
+    <description>AHMY CIS</description>
+    <account-id type="integer">4509657</account-id>
+    <escalate-to type="integer" nil="true"/>
+    <assign-time type="integer" nil="true"/>
+    <created-at type="dateTime">2025-12-17T18:21:26+08:00</created-at>
+    <updated-at type="dateTime">2026-01-30T13:45:09+08:00</updated-at>
+    <ticket-assign-type type="integer">0</ticket-assign-type>
+    <business-calendar-id type="integer">159000223949</business-calendar-id>
+    <toggle-availability type="boolean">false</toggle-availability>
+    <capping-limit type="integer">0</capping-limit>
+    <group-type type="integer">1</group-type>
+    <uid nil="true"/>
+    <additional-settings>
+      <wildcat-queue-id>22353</wildcat-queue-id>
+    </additional-settings>
+    <agent-status-toggle type="boolean">false</agent-status-toggle>
+    <department-id type="integer">1</department-id>
+    <agents type="array">
+      <agent type="User">
+        <id type="integer">159009916106</id>
+        <name>Aini Shaella Binti Selamat</name>
+        <email>aselamat@adeahub.co</email>
+        <created-at type="dateTime">2025-12-20T18:46:21+08:00</created-at>
+        <updated-at type="dateTime">2026-02-03T09:51:10+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">true</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Kuala Lumpur</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+      <agent type="User">
+        <id type="integer">159010095825</id>
+        <name>Muhammad Al-Fateh Jalal</name>
+        <email>muhammad.jalal@adeahub.co</email>
+        <created-at type="dateTime">2026-01-13T15:52:30+08:00</created-at>
+        <updated-at type="dateTime">2026-02-11T12:16:20+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">true</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Kuala Lumpur</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+    </agents>
+  </group>
+  <group>
+    <id type="integer">159000818178</id>
+    <name>AHMY Consultant</name>
+    <description>AHMY Consultant</description>
+    <account-id type="integer">4509657</account-id>
+    <escalate-to type="integer" nil="true"/>
+    <assign-time type="integer" nil="true"/>
+    <created-at type="dateTime">2026-01-30T14:46:51+08:00</created-at>
+    <updated-at type="dateTime">2026-01-30T14:46:51+08:00</updated-at>
+    <ticket-assign-type type="integer">0</ticket-assign-type>
+    <business-calendar-id type="integer">159000223949</business-calendar-id>
+    <toggle-availability type="boolean">false</toggle-availability>
+    <capping-limit type="integer">0</capping-limit>
+    <group-type type="integer">1</group-type>
+    <uid nil="true"/>
+    <additional-settings>
+      <wildcat-queue-id>22354</wildcat-queue-id>
+    </additional-settings>
+    <agent-status-toggle type="boolean">false</agent-status-toggle>
+    <department-id type="integer">1</department-id>
+    <agents type="array">
+      <agent type="User">
+        <id type="integer">159009916105</id>
+        <name>Aida Binti Jamat</name>
+        <email>ajamat@adeahub.co</email>
+        <created-at type="dateTime">2025-12-20T18:46:20+08:00</created-at>
+        <updated-at type="dateTime">2026-02-27T11:15:43+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">true</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Kuala Lumpur</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+      <agent type="User">
+        <id type="integer">159009916106</id>
+        <name>Aini Shaella Binti Selamat</name>
+        <email>aselamat@adeahub.co</email>
+        <created-at type="dateTime">2025-12-20T18:46:21+08:00</created-at>
+        <updated-at type="dateTime">2026-02-03T09:51:10+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">true</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Kuala Lumpur</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+      <agent type="User">
+        <id type="integer">159009916111</id>
+        <name>Binzu Mathew Varghese</name>
+        <email>bvarghese7@adeahub.co</email>
+        <created-at type="dateTime">2025-12-20T18:46:25+08:00</created-at>
+        <updated-at type="dateTime">2026-02-11T12:05:54+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">true</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Kuala Lumpur</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+      <agent type="User">
+        <id type="integer">159009916124</id>
+        <name>Ida Sazliana Binti Mohd Mukhtar</name>
+        <email>smohdmukhtar@adeahub.co</email>
+        <created-at type="dateTime">2025-12-20T18:46:33+08:00</created-at>
+        <updated-at type="dateTime">2026-03-10T11:16:22+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">true</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Kuala Lumpur</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+      <agent type="User">
+        <id type="integer">159009916128</id>
+        <name>Jauharatud Yani Binti Ahmad</name>
+        <email>jbintiahmad@adeahub.co</email>
+        <created-at type="dateTime">2025-12-20T18:46:34+08:00</created-at>
+        <updated-at type="dateTime">2026-02-11T12:08:42+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">true</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Kuala Lumpur</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+      <agent type="User">
+        <id type="integer">159009916042</id>
+        <name>Khairuddin Bin Mayazis</name>
+        <email>kmayazis@adeahub.co</email>
+        <created-at type="dateTime">2025-12-20T18:21:32+08:00</created-at>
+        <updated-at type="dateTime">2026-02-11T12:11:51+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">true</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Kuala Lumpur</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+      <agent type="User">
+        <id type="integer">159009916134</id>
+        <name>Maniprakash Muthukrishnan</name>
+        <email>m.muuthukrishnan@adeahub.co</email>
+        <created-at type="dateTime">2025-12-20T18:46:39+08:00</created-at>
+        <updated-at type="dateTime">2026-02-11T12:13:34+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">true</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Chennai</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+      <agent type="User">
+        <id type="integer">159009916047</id>
+        <name>Mastura Binti Mohd Roslan</name>
+        <email>mmohdroslan@adeahub.co</email>
+        <created-at type="dateTime">2025-12-20T18:21:36+08:00</created-at>
+        <updated-at type="dateTime">2026-02-11T12:14:07+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">true</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Kuala Lumpur</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+      <agent type="User">
+        <id type="integer">159010095825</id>
+        <name>Muhammad Al-Fateh Jalal</name>
+        <email>muhammad.jalal@adeahub.co</email>
+        <created-at type="dateTime">2026-01-13T15:52:30+08:00</created-at>
+        <updated-at type="dateTime">2026-02-11T12:16:20+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">true</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Kuala Lumpur</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+      <agent type="User">
+        <id type="integer">159010235849</id>
+        <name>Norhaiza Binti Onn</name>
+        <email>nonn2@adeahub.co</email>
+        <created-at type="dateTime">2026-01-22T18:07:20+08:00</created-at>
+        <updated-at type="dateTime">2026-01-30T17:14:41+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">true</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Kuala Lumpur</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+      <agent type="User">
+        <id type="integer">159010235855</id>
+        <name>Norshafina Binti Othman</name>
+        <email>nothman@adeahub.co</email>
+        <created-at type="dateTime">2026-01-22T18:08:32+08:00</created-at>
+        <updated-at type="dateTime">2026-01-30T12:39:30+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">true</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Kuala Lumpur</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+      <agent type="User">
+        <id type="integer">159010235865</id>
+        <name>Siti Mariani Binti Che Abdullah</name>
+        <email>scheabdullah@adeahub.co</email>
+        <created-at type="dateTime">2026-01-22T18:10:55+08:00</created-at>
+        <updated-at type="dateTime">2026-02-09T14:28:22+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">true</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Kuala Lumpur</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+      <agent type="User">
+        <id type="integer">159010235877</id>
+        <name>Srinivasah A/L Muniandy</name>
+        <email>smuniandy@adeahub.co</email>
+        <created-at type="dateTime">2026-01-22T18:14:16+08:00</created-at>
+        <updated-at type="dateTime">2026-02-02T20:58:45+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">true</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Kuala Lumpur</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+    </agents>
+  </group>
+  <group>
+    <id type="integer">159000817827</id>
+    <name>AHMY eLearning</name>
+    <description>AHMY eLearning
+</description>
+    <account-id type="integer">4509657</account-id>
+    <escalate-to type="integer" nil="true"/>
+    <assign-time type="integer" nil="true"/>
+    <created-at type="dateTime">2025-12-17T19:15:40+08:00</created-at>
+    <updated-at type="dateTime">2025-12-17T19:15:40+08:00</updated-at>
+    <ticket-assign-type type="integer">0</ticket-assign-type>
+    <business-calendar-id type="integer">159000223949</business-calendar-id>
+    <toggle-availability type="boolean">false</toggle-availability>
+    <capping-limit type="integer">0</capping-limit>
+    <group-type type="integer">1</group-type>
+    <uid nil="true"/>
+    <additional-settings>
+      <wildcat-queue-id>22355</wildcat-queue-id>
+    </additional-settings>
+    <agent-status-toggle type="boolean">false</agent-status-toggle>
+    <department-id type="integer">1</department-id>
+    <agents type="array">
+      <agent type="User">
+        <id type="integer">159009916126</id>
+        <name>Intanku Dalyana Binti Mohamad</name>
+        <email>imohamad@adeahub.co</email>
+        <created-at type="dateTime">2025-12-20T18:46:33+08:00</created-at>
+        <updated-at type="dateTime">2026-02-11T13:44:49+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">false</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Kuala Lumpur</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+      <agent type="User">
+        <id type="integer">159010095848</id>
+        <name>Nor Azmeera Azman</name>
+        <email>nazman5@adeahub.co</email>
+        <created-at type="dateTime">2026-01-13T15:58:10+08:00</created-at>
+        <updated-at type="dateTime">2026-01-29T11:58:30+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">true</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Kuala Lumpur</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+    </agents>
+  </group>
+  <group>
+    <id type="integer">159000818198</id>
+    <name>AHMY HL7 INT</name>
+    <description nil="true"/>
+    <account-id type="integer">4509657</account-id>
+    <escalate-to type="integer" nil="true"/>
+    <assign-time type="integer" nil="true"/>
+    <created-at type="dateTime">2026-02-03T18:46:27+08:00</created-at>
+    <updated-at type="dateTime">2026-02-03T18:46:27+08:00</updated-at>
+    <ticket-assign-type type="integer">0</ticket-assign-type>
+    <business-calendar-id type="integer">159000223949</business-calendar-id>
+    <toggle-availability type="boolean">false</toggle-availability>
+    <capping-limit type="integer">0</capping-limit>
+    <group-type type="integer">1</group-type>
+    <uid nil="true"/>
+    <additional-settings>
+      <wildcat-queue-id>22356</wildcat-queue-id>
+    </additional-settings>
+    <agent-status-toggle type="boolean">false</agent-status-toggle>
+    <department-id type="integer">1</department-id>
+    <agents type="array">
+      <agent type="User">
+        <id type="integer">159010235877</id>
+        <name>Srinivasah A/L Muniandy</name>
+        <email>smuniandy@adeahub.co</email>
+        <created-at type="dateTime">2026-01-22T18:14:16+08:00</created-at>
+        <updated-at type="dateTime">2026-02-02T20:58:45+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">true</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Kuala Lumpur</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+    </agents>
+  </group>
+  <group>
+    <id type="integer">159000817822</id>
+    <name>AHMY L2 SUPPORT</name>
+    <description>AHMY L2Support
+</description>
+    <account-id type="integer">4509657</account-id>
+    <escalate-to type="integer" nil="true"/>
+    <assign-time type="integer" nil="true"/>
+    <created-at type="dateTime">2025-12-17T18:21:44+08:00</created-at>
+    <updated-at type="dateTime">2026-01-29T11:42:24+08:00</updated-at>
+    <ticket-assign-type type="integer">0</ticket-assign-type>
+    <business-calendar-id type="integer">159000223949</business-calendar-id>
+    <toggle-availability type="boolean">false</toggle-availability>
+    <capping-limit type="integer">0</capping-limit>
+    <group-type type="integer">1</group-type>
+    <uid nil="true"/>
+    <additional-settings>
+      <wildcat-queue-id>22357</wildcat-queue-id>
+    </additional-settings>
+    <agent-status-toggle type="boolean">false</agent-status-toggle>
+    <department-id type="integer">1</department-id>
+    <agents type="array">
+      <agent type="User">
+        <id type="integer">159009916036</id>
+        <name>Azian Herdawati Kosnoon</name>
+        <email>akosnoon@adeahub.co</email>
+        <created-at type="dateTime">2025-12-20T18:21:27+08:00</created-at>
+        <updated-at type="dateTime">2026-02-05T19:45:06+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">true</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Singapore</time-zone>
+        <deleted type="boolean">true</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+      <agent type="User">
+        <id type="integer">159009916042</id>
+        <name>Khairuddin Bin Mayazis</name>
+        <email>kmayazis@adeahub.co</email>
+        <created-at type="dateTime">2025-12-20T18:21:32+08:00</created-at>
+        <updated-at type="dateTime">2026-02-11T12:11:51+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">true</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Kuala Lumpur</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+      <agent type="User">
+        <id type="integer">159010095809</id>
+        <name>Masrina Yakop</name>
+        <email>masrina.yakop@adeahub.co</email>
+        <created-at type="dateTime">2026-01-13T15:48:50+08:00</created-at>
+        <updated-at type="dateTime">2026-02-11T12:13:50+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">true</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Kuala Lumpur</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+      <agent type="User">
+        <id type="integer">159010095838</id>
+        <name>Muhammad Noor Baset</name>
+        <email>muhammad.baset@adeahub.co</email>
+        <created-at type="dateTime">2026-01-13T15:56:07+08:00</created-at>
+        <updated-at type="dateTime">2026-02-11T12:15:38+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">true</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Kuala Lumpur</time-zone>
+        <deleted type="boolean">true</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+      <agent type="User">
+        <id type="integer">159010235863</id>
+        <name>Nur Syakierah Mohd Amirudin</name>
+        <email>nur.mohd@adeahub.co</email>
+        <created-at type="dateTime">2026-01-22T18:09:49+08:00</created-at>
+        <updated-at type="dateTime">2026-02-03T18:00:52+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">true</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Kuala Lumpur</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+    </agents>
+  </group>
+  <group>
+    <id type="integer">159000817823</id>
+    <name>AHMY LIS</name>
+    <description>AHMY LIS</description>
+    <account-id type="integer">4509657</account-id>
+    <escalate-to type="integer" nil="true"/>
+    <assign-time type="integer" nil="true"/>
+    <created-at type="dateTime">2025-12-17T18:22:00+08:00</created-at>
+    <updated-at type="dateTime">2025-12-17T18:22:00+08:00</updated-at>
+    <ticket-assign-type type="integer">0</ticket-assign-type>
+    <business-calendar-id type="integer">159000223949</business-calendar-id>
+    <toggle-availability type="boolean">false</toggle-availability>
+    <capping-limit type="integer">0</capping-limit>
+    <group-type type="integer">1</group-type>
+    <uid nil="true"/>
+    <additional-settings>
+      <wildcat-queue-id>22358</wildcat-queue-id>
+    </additional-settings>
+    <agent-status-toggle type="boolean">false</agent-status-toggle>
+    <department-id type="integer">1</department-id>
+    <agents type="array">
+      <agent type="User">
+        <id type="integer">159010235849</id>
+        <name>Norhaiza Binti Onn</name>
+        <email>nonn2@adeahub.co</email>
+        <created-at type="dateTime">2026-01-22T18:07:20+08:00</created-at>
+        <updated-at type="dateTime">2026-01-30T17:14:41+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">true</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Kuala Lumpur</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+      <agent type="User">
+        <id type="integer">159010235855</id>
+        <name>Norshafina Binti Othman</name>
+        <email>nothman@adeahub.co</email>
+        <created-at type="dateTime">2026-01-22T18:08:32+08:00</created-at>
+        <updated-at type="dateTime">2026-01-30T12:39:30+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">true</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Kuala Lumpur</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+    </agents>
+  </group>
+  <group>
+    <id type="integer">159000817820</id>
+    <name>AHMY PAS</name>
+    <description>AHMY PAS</description>
+    <account-id type="integer">4509657</account-id>
+    <escalate-to type="integer" nil="true"/>
+    <assign-time type="integer" nil="true"/>
+    <created-at type="dateTime">2025-12-17T18:21:11+08:00</created-at>
+    <updated-at type="dateTime">2025-12-17T18:21:11+08:00</updated-at>
+    <ticket-assign-type type="integer">0</ticket-assign-type>
+    <business-calendar-id type="integer">159000223949</business-calendar-id>
+    <toggle-availability type="boolean">false</toggle-availability>
+    <capping-limit type="integer">0</capping-limit>
+    <group-type type="integer">1</group-type>
+    <uid nil="true"/>
+    <additional-settings>
+      <wildcat-queue-id>22359</wildcat-queue-id>
+    </additional-settings>
+    <agent-status-toggle type="boolean">false</agent-status-toggle>
+    <department-id type="integer">1</department-id>
+    <agents type="array">
+      <agent type="User">
+        <id type="integer">159009916105</id>
+        <name>Aida Binti Jamat</name>
+        <email>ajamat@adeahub.co</email>
+        <created-at type="dateTime">2025-12-20T18:46:20+08:00</created-at>
+        <updated-at type="dateTime">2026-02-27T11:15:43+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">true</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Kuala Lumpur</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+      <agent type="User">
+        <id type="integer">159009916124</id>
+        <name>Ida Sazliana Binti Mohd Mukhtar</name>
+        <email>smohdmukhtar@adeahub.co</email>
+        <created-at type="dateTime">2025-12-20T18:46:33+08:00</created-at>
+        <updated-at type="dateTime">2026-03-10T11:16:22+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">true</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Kuala Lumpur</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+      <agent type="User">
+        <id type="integer">159010235865</id>
+        <name>Siti Mariani Binti Che Abdullah</name>
+        <email>scheabdullah@adeahub.co</email>
+        <created-at type="dateTime">2026-01-22T18:10:55+08:00</created-at>
+        <updated-at type="dateTime">2026-02-09T14:28:22+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">true</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Kuala Lumpur</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+    </agents>
+  </group>
+  <group>
+    <id type="integer">159000818175</id>
+    <name>AHMY Quotation Request</name>
+    <description nil="true"/>
+    <account-id type="integer">4509657</account-id>
+    <escalate-to type="integer" nil="true"/>
+    <assign-time type="integer" nil="true"/>
+    <created-at type="dateTime">2026-01-30T11:31:15+08:00</created-at>
+    <updated-at type="dateTime">2026-01-30T11:31:15+08:00</updated-at>
+    <ticket-assign-type type="integer">0</ticket-assign-type>
+    <business-calendar-id type="integer">159000223949</business-calendar-id>
+    <toggle-availability type="boolean">false</toggle-availability>
+    <capping-limit type="integer">0</capping-limit>
+    <group-type type="integer">1</group-type>
+    <uid nil="true"/>
+    <additional-settings>
+      <wildcat-queue-id>22360</wildcat-queue-id>
+    </additional-settings>
+    <agent-status-toggle type="boolean">false</agent-status-toggle>
+    <department-id type="integer">1</department-id>
+    <agents type="array">
+      <agent type="User">
+        <id type="integer">159009916126</id>
+        <name>Intanku Dalyana Binti Mohamad</name>
+        <email>imohamad@adeahub.co</email>
+        <created-at type="dateTime">2025-12-20T18:46:33+08:00</created-at>
+        <updated-at type="dateTime">2026-02-11T13:44:49+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">false</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Kuala Lumpur</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+      <agent type="User">
+        <id type="integer">159009916047</id>
+        <name>Mastura Binti Mohd Roslan</name>
+        <email>mmohdroslan@adeahub.co</email>
+        <created-at type="dateTime">2025-12-20T18:21:36+08:00</created-at>
+        <updated-at type="dateTime">2026-02-11T12:14:07+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">true</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Kuala Lumpur</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+      <agent type="User">
+        <id type="integer">159010235849</id>
+        <name>Norhaiza Binti Onn</name>
+        <email>nonn2@adeahub.co</email>
+        <created-at type="dateTime">2026-01-22T18:07:20+08:00</created-at>
+        <updated-at type="dateTime">2026-01-30T17:14:41+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">true</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Kuala Lumpur</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+      <agent type="User">
+        <id type="integer">159010235855</id>
+        <name>Norshafina Binti Othman</name>
+        <email>nothman@adeahub.co</email>
+        <created-at type="dateTime">2026-01-22T18:08:32+08:00</created-at>
+        <updated-at type="dateTime">2026-01-30T12:39:30+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">true</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Kuala Lumpur</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+    </agents>
+  </group>
+  <group>
+    <id type="integer">159000817829</id>
+    <name>AHMY RBU</name>
+    <description>AHMY RBU</description>
+    <account-id type="integer">4509657</account-id>
+    <escalate-to type="integer" nil="true"/>
+    <assign-time type="integer" nil="true"/>
+    <created-at type="dateTime">2025-12-17T19:16:22+08:00</created-at>
+    <updated-at type="dateTime">2025-12-17T19:16:22+08:00</updated-at>
+    <ticket-assign-type type="integer">0</ticket-assign-type>
+    <business-calendar-id type="integer">159000223949</business-calendar-id>
+    <toggle-availability type="boolean">false</toggle-availability>
+    <capping-limit type="integer">0</capping-limit>
+    <group-type type="integer">1</group-type>
+    <uid nil="true"/>
+    <additional-settings>
+      <wildcat-queue-id>22361</wildcat-queue-id>
+    </additional-settings>
+    <agent-status-toggle type="boolean">false</agent-status-toggle>
+    <department-id type="integer">1</department-id>
+    <agents type="array">
+      <agent type="User">
+        <id type="integer">159009916105</id>
+        <name>Aida Binti Jamat</name>
+        <email>ajamat@adeahub.co</email>
+        <created-at type="dateTime">2025-12-20T18:46:20+08:00</created-at>
+        <updated-at type="dateTime">2026-02-27T11:15:43+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">true</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Kuala Lumpur</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+      <agent type="User">
+        <id type="integer">159009916106</id>
+        <name>Aini Shaella Binti Selamat</name>
+        <email>aselamat@adeahub.co</email>
+        <created-at type="dateTime">2025-12-20T18:46:21+08:00</created-at>
+        <updated-at type="dateTime">2026-02-03T09:51:10+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">true</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Kuala Lumpur</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+      <agent type="User">
+        <id type="integer">159009916036</id>
+        <name>Azian Herdawati Kosnoon</name>
+        <email>akosnoon@adeahub.co</email>
+        <created-at type="dateTime">2025-12-20T18:21:27+08:00</created-at>
+        <updated-at type="dateTime">2026-02-05T19:45:06+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">true</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Singapore</time-zone>
+        <deleted type="boolean">true</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+      <agent type="User">
+        <id type="integer">159009916111</id>
+        <name>Binzu Mathew Varghese</name>
+        <email>bvarghese7@adeahub.co</email>
+        <created-at type="dateTime">2025-12-20T18:46:25+08:00</created-at>
+        <updated-at type="dateTime">2026-02-11T12:05:54+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">true</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Kuala Lumpur</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+      <agent type="User">
+        <id type="integer">159009916124</id>
+        <name>Ida Sazliana Binti Mohd Mukhtar</name>
+        <email>smohdmukhtar@adeahub.co</email>
+        <created-at type="dateTime">2025-12-20T18:46:33+08:00</created-at>
+        <updated-at type="dateTime">2026-03-10T11:16:22+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">true</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Kuala Lumpur</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+      <agent type="User">
+        <id type="integer">159009916126</id>
+        <name>Intanku Dalyana Binti Mohamad</name>
+        <email>imohamad@adeahub.co</email>
+        <created-at type="dateTime">2025-12-20T18:46:33+08:00</created-at>
+        <updated-at type="dateTime">2026-02-11T13:44:49+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">false</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Kuala Lumpur</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+      <agent type="User">
+        <id type="integer">159009916128</id>
+        <name>Jauharatud Yani Binti Ahmad</name>
+        <email>jbintiahmad@adeahub.co</email>
+        <created-at type="dateTime">2025-12-20T18:46:34+08:00</created-at>
+        <updated-at type="dateTime">2026-02-11T12:08:42+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">true</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Kuala Lumpur</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+      <agent type="User">
+        <id type="integer">159009916042</id>
+        <name>Khairuddin Bin Mayazis</name>
+        <email>kmayazis@adeahub.co</email>
+        <created-at type="dateTime">2025-12-20T18:21:32+08:00</created-at>
+        <updated-at type="dateTime">2026-02-11T12:11:51+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">true</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Kuala Lumpur</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+      <agent type="User">
+        <id type="integer">159009916134</id>
+        <name>Maniprakash Muthukrishnan</name>
+        <email>m.muuthukrishnan@adeahub.co</email>
+        <created-at type="dateTime">2025-12-20T18:46:39+08:00</created-at>
+        <updated-at type="dateTime">2026-02-11T12:13:34+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">true</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Chennai</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+      <agent type="User">
+        <id type="integer">159010095809</id>
+        <name>Masrina Yakop</name>
+        <email>masrina.yakop@adeahub.co</email>
+        <created-at type="dateTime">2026-01-13T15:48:50+08:00</created-at>
+        <updated-at type="dateTime">2026-02-11T12:13:50+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">true</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Kuala Lumpur</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+      <agent type="User">
+        <id type="integer">159009916047</id>
+        <name>Mastura Binti Mohd Roslan</name>
+        <email>mmohdroslan@adeahub.co</email>
+        <created-at type="dateTime">2025-12-20T18:21:36+08:00</created-at>
+        <updated-at type="dateTime">2026-02-11T12:14:07+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">true</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Kuala Lumpur</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+      <agent type="User">
+        <id type="integer">159010095825</id>
+        <name>Muhammad Al-Fateh Jalal</name>
+        <email>muhammad.jalal@adeahub.co</email>
+        <created-at type="dateTime">2026-01-13T15:52:30+08:00</created-at>
+        <updated-at type="dateTime">2026-02-11T12:16:20+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">true</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Kuala Lumpur</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+      <agent type="User">
+        <id type="integer">159010095838</id>
+        <name>Muhammad Noor Baset</name>
+        <email>muhammad.baset@adeahub.co</email>
+        <created-at type="dateTime">2026-01-13T15:56:07+08:00</created-at>
+        <updated-at type="dateTime">2026-02-11T12:15:38+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">true</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Kuala Lumpur</time-zone>
+        <deleted type="boolean">true</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+      <agent type="User">
+        <id type="integer">159010095848</id>
+        <name>Nor Azmeera Azman</name>
+        <email>nazman5@adeahub.co</email>
+        <created-at type="dateTime">2026-01-13T15:58:10+08:00</created-at>
+        <updated-at type="dateTime">2026-01-29T11:58:30+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">true</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Kuala Lumpur</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+      <agent type="User">
+        <id type="integer">159010235849</id>
+        <name>Norhaiza Binti Onn</name>
+        <email>nonn2@adeahub.co</email>
+        <created-at type="dateTime">2026-01-22T18:07:20+08:00</created-at>
+        <updated-at type="dateTime">2026-01-30T17:14:41+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">true</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Kuala Lumpur</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+      <agent type="User">
+        <id type="integer">159010235855</id>
+        <name>Norshafina Binti Othman</name>
+        <email>nothman@adeahub.co</email>
+        <created-at type="dateTime">2026-01-22T18:08:32+08:00</created-at>
+        <updated-at type="dateTime">2026-01-30T12:39:30+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">true</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Kuala Lumpur</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+      <agent type="User">
+        <id type="integer">159010235863</id>
+        <name>Nur Syakierah Mohd Amirudin</name>
+        <email>nur.mohd@adeahub.co</email>
+        <created-at type="dateTime">2026-01-22T18:09:49+08:00</created-at>
+        <updated-at type="dateTime">2026-02-03T18:00:52+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">true</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Kuala Lumpur</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+      <agent type="User">
+        <id type="integer">159009916053</id>
+        <name>Sitha Devi Sivalingam</name>
+        <email>ssivalingam4@adeahub.co</email>
+        <created-at type="dateTime">2025-12-20T18:21:42+08:00</created-at>
+        <updated-at type="dateTime">2026-02-11T13:47:11+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">false</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Kuala Lumpur</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+      <agent type="User">
+        <id type="integer">159010235865</id>
+        <name>Siti Mariani Binti Che Abdullah</name>
+        <email>scheabdullah@adeahub.co</email>
+        <created-at type="dateTime">2026-01-22T18:10:55+08:00</created-at>
+        <updated-at type="dateTime">2026-02-09T14:28:22+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">true</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Kuala Lumpur</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+      <agent type="User">
+        <id type="integer">159010235877</id>
+        <name>Srinivasah A/L Muniandy</name>
+        <email>smuniandy@adeahub.co</email>
+        <created-at type="dateTime">2026-01-22T18:14:16+08:00</created-at>
+        <updated-at type="dateTime">2026-02-02T20:58:45+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">true</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Kuala Lumpur</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+    </agents>
+  </group>
+  <group>
+    <id type="integer">159000817826</id>
+    <name>AHMY RISINT</name>
+    <description>AHMY RISINT</description>
+    <account-id type="integer">4509657</account-id>
+    <escalate-to type="integer" nil="true"/>
+    <assign-time type="integer" nil="true"/>
+    <created-at type="dateTime">2025-12-17T19:15:20+08:00</created-at>
+    <updated-at type="dateTime">2025-12-17T19:15:20+08:00</updated-at>
+    <ticket-assign-type type="integer">0</ticket-assign-type>
+    <business-calendar-id type="integer">159000223949</business-calendar-id>
+    <toggle-availability type="boolean">false</toggle-availability>
+    <capping-limit type="integer">0</capping-limit>
+    <group-type type="integer">1</group-type>
+    <uid nil="true"/>
+    <additional-settings>
+      <wildcat-queue-id>22362</wildcat-queue-id>
+    </additional-settings>
+    <agent-status-toggle type="boolean">false</agent-status-toggle>
+    <department-id type="integer">1</department-id>
+    <agents type="array">
+      <agent type="User">
+        <id type="integer">159010235877</id>
+        <name>Srinivasah A/L Muniandy</name>
+        <email>smuniandy@adeahub.co</email>
+        <created-at type="dateTime">2026-01-22T18:14:16+08:00</created-at>
+        <updated-at type="dateTime">2026-02-02T20:58:45+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">true</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Kuala Lumpur</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+    </agents>
+  </group>
+  <group>
+    <id type="integer">159000817825</id>
+    <name>AHMY TECH</name>
+    <description>AHMY TECH</description>
+    <account-id type="integer">4509657</account-id>
+    <escalate-to type="integer" nil="true"/>
+    <assign-time type="integer" nil="true"/>
+    <created-at type="dateTime">2025-12-17T18:22:36+08:00</created-at>
+    <updated-at type="dateTime">2025-12-17T18:22:36+08:00</updated-at>
+    <ticket-assign-type type="integer">0</ticket-assign-type>
+    <business-calendar-id type="integer">159000223949</business-calendar-id>
+    <toggle-availability type="boolean">false</toggle-availability>
+    <capping-limit type="integer">0</capping-limit>
+    <group-type type="integer">1</group-type>
+    <uid nil="true"/>
+    <additional-settings>
+      <wildcat-queue-id>22363</wildcat-queue-id>
+    </additional-settings>
+    <agent-status-toggle type="boolean">false</agent-status-toggle>
+    <department-id type="integer">1</department-id>
+    <agents type="array">
+      <agent type="User">
+        <id type="integer">159009916111</id>
+        <name>Binzu Mathew Varghese</name>
+        <email>bvarghese7@adeahub.co</email>
+        <created-at type="dateTime">2025-12-20T18:46:25+08:00</created-at>
+        <updated-at type="dateTime">2026-02-11T12:05:54+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">true</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Kuala Lumpur</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+      <agent type="User">
+        <id type="integer">159010095809</id>
+        <name>Masrina Yakop</name>
+        <email>masrina.yakop@adeahub.co</email>
+        <created-at type="dateTime">2026-01-13T15:48:50+08:00</created-at>
+        <updated-at type="dateTime">2026-02-11T12:13:50+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">true</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Kuala Lumpur</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+    </agents>
+  </group>
+  <group>
+    <id type="integer">159000817828</id>
+    <name>AHMY12X Release</name>
+    <description>AHMY12X Release</description>
+    <account-id type="integer">4509657</account-id>
+    <escalate-to type="integer" nil="true"/>
+    <assign-time type="integer" nil="true"/>
+    <created-at type="dateTime">2025-12-17T19:16:00+08:00</created-at>
+    <updated-at type="dateTime">2025-12-17T19:16:00+08:00</updated-at>
+    <ticket-assign-type type="integer">0</ticket-assign-type>
+    <business-calendar-id type="integer">159000223949</business-calendar-id>
+    <toggle-availability type="boolean">false</toggle-availability>
+    <capping-limit type="integer">0</capping-limit>
+    <group-type type="integer">1</group-type>
+    <uid nil="true"/>
+    <additional-settings>
+      <wildcat-queue-id>22364</wildcat-queue-id>
+    </additional-settings>
+    <agent-status-toggle type="boolean">false</agent-status-toggle>
+    <department-id type="integer">1</department-id>
+    <agents type="array">
+      <agent type="User">
+        <id type="integer">159009916111</id>
+        <name>Binzu Mathew Varghese</name>
+        <email>bvarghese7@adeahub.co</email>
+        <created-at type="dateTime">2025-12-20T18:46:25+08:00</created-at>
+        <updated-at type="dateTime">2026-02-11T12:05:54+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">true</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Kuala Lumpur</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+      <agent type="User">
+        <id type="integer">159009916124</id>
+        <name>Ida Sazliana Binti Mohd Mukhtar</name>
+        <email>smohdmukhtar@adeahub.co</email>
+        <created-at type="dateTime">2025-12-20T18:46:33+08:00</created-at>
+        <updated-at type="dateTime">2026-03-10T11:16:22+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">true</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Kuala Lumpur</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+      <agent type="User">
+        <id type="integer">159009916042</id>
+        <name>Khairuddin Bin Mayazis</name>
+        <email>kmayazis@adeahub.co</email>
+        <created-at type="dateTime">2025-12-20T18:21:32+08:00</created-at>
+        <updated-at type="dateTime">2026-02-11T12:11:51+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">true</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Kuala Lumpur</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+      <agent type="User">
+        <id type="integer">159010095809</id>
+        <name>Masrina Yakop</name>
+        <email>masrina.yakop@adeahub.co</email>
+        <created-at type="dateTime">2026-01-13T15:48:50+08:00</created-at>
+        <updated-at type="dateTime">2026-02-11T12:13:50+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">true</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Kuala Lumpur</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+      <agent type="User">
+        <id type="integer">159009916047</id>
+        <name>Mastura Binti Mohd Roslan</name>
+        <email>mmohdroslan@adeahub.co</email>
+        <created-at type="dateTime">2025-12-20T18:21:36+08:00</created-at>
+        <updated-at type="dateTime">2026-02-11T12:14:07+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">true</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Kuala Lumpur</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+      <agent type="User">
+        <id type="integer">159010095825</id>
+        <name>Muhammad Al-Fateh Jalal</name>
+        <email>muhammad.jalal@adeahub.co</email>
+        <created-at type="dateTime">2026-01-13T15:52:30+08:00</created-at>
+        <updated-at type="dateTime">2026-02-11T12:16:20+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">true</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Kuala Lumpur</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+      <agent type="User">
+        <id type="integer">159010235849</id>
+        <name>Norhaiza Binti Onn</name>
+        <email>nonn2@adeahub.co</email>
+        <created-at type="dateTime">2026-01-22T18:07:20+08:00</created-at>
+        <updated-at type="dateTime">2026-01-30T17:14:41+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">true</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Kuala Lumpur</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+      <agent type="User">
+        <id type="integer">159009916049</id>
+        <name>Rama Prasad Hiranya Rao</name>
+        <email>rhiranyarao@adeahub.co</email>
+        <created-at type="dateTime">2025-12-20T18:21:38+08:00</created-at>
+        <updated-at type="dateTime">2026-01-13T16:00:38+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">false</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Kolkata</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+      <agent type="User">
+        <id type="integer">159009916053</id>
+        <name>Sitha Devi Sivalingam</name>
+        <email>ssivalingam4@adeahub.co</email>
+        <created-at type="dateTime">2025-12-20T18:21:42+08:00</created-at>
+        <updated-at type="dateTime">2026-02-11T13:47:11+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">false</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Kuala Lumpur</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+    </agents>
+  </group>
+  <group>
+    <id type="integer">159000817891</id>
+    <name>ASIA IN SUP</name>
+    <description nil="true"/>
+    <account-id type="integer">4509657</account-id>
+    <escalate-to type="integer" nil="true"/>
+    <assign-time type="integer" nil="true"/>
+    <created-at type="dateTime">2025-12-23T20:07:15+08:00</created-at>
+    <updated-at type="dateTime">2026-01-12T21:20:44+08:00</updated-at>
+    <ticket-assign-type type="integer">1</ticket-assign-type>
+    <business-calendar-id type="integer">159000223950</business-calendar-id>
+    <toggle-availability type="boolean">true</toggle-availability>
+    <capping-limit type="integer">0</capping-limit>
+    <group-type type="integer">1</group-type>
+    <uid nil="true"/>
+    <additional-settings>
+      <wildcat-queue-id>22365</wildcat-queue-id>
+    </additional-settings>
+    <agent-status-toggle type="boolean">true</agent-status-toggle>
+    <department-id type="integer">1</department-id>
+    <agents type="array">
+      <agent type="User">
+        <id type="integer">159009916108</id>
+        <name>Ankit Singh</name>
+        <email>ankit.singh@adeahub.co</email>
+        <created-at type="dateTime">2025-12-20T18:46:23+08:00</created-at>
+        <updated-at type="dateTime">2026-02-11T12:05:27+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">true</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Chennai</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+      <agent type="User">
+        <id type="integer">159009916117</id>
+        <name>Chandrakanth P</name>
+        <email>cp29@adeahub.co</email>
+        <created-at type="dateTime">2025-12-20T18:46:27+08:00</created-at>
+        <updated-at type="dateTime">2026-03-17T20:59:12+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">true</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Chennai</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+      <agent type="User">
+        <id type="integer">159009916121</id>
+        <name>Gaurav Sharma</name>
+        <email>gaurav.sharma@adeahub.co</email>
+        <created-at type="dateTime">2025-12-20T18:46:30+08:00</created-at>
+        <updated-at type="dateTime">2026-03-02T13:26:22+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">true</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Chennai</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+      <agent type="User">
+        <id type="integer">159009916045</id>
+        <name>Manu Prakash Deep</name>
+        <email>mdeep2@adeahub.co</email>
+        <created-at type="dateTime">2025-12-20T18:21:34+08:00</created-at>
+        <updated-at type="dateTime">2026-01-22T17:55:15+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">false</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Mumbai</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+      <agent type="User">
+        <id type="integer">159010236353</id>
+        <name>Michael Ignatius</name>
+        <email>mignatius@adeahub.co</email>
+        <created-at type="dateTime">2026-01-22T20:35:15+08:00</created-at>
+        <updated-at type="dateTime">2026-04-01T12:55:48+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">true</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Chennai</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+      <agent type="User">
+        <id type="integer">159010236369</id>
+        <name>Mohammed Safee Uddin</name>
+        <email>safeeuddin.mohammed@adeahub.co</email>
+        <created-at type="dateTime">2026-01-22T20:38:52+08:00</created-at>
+        <updated-at type="dateTime">2026-02-02T15:15:59+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">true</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Chennai</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+      <agent type="User">
+        <id type="integer">159009916048</id>
+        <name>Palaniappan AI</name>
+        <email>p.alagappan@adeahub.co</email>
+        <created-at type="dateTime">2025-12-20T18:21:37+08:00</created-at>
+        <updated-at type="dateTime">2026-02-09T14:46:48+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">true</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>New Delhi</time-zone>
+        <deleted type="boolean">true</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+      <agent type="User">
+        <id type="integer">159009909106</id>
+        <name>Rahul Test</name>
+        <email>rahul@freshideastoday.com</email>
+        <created-at type="dateTime">2025-12-19T19:59:41+08:00</created-at>
+        <updated-at type="dateTime">2026-01-22T20:29:32+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">false</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Singapore</time-zone>
+        <deleted type="boolean">true</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+    </agents>
+  </group>
+  <group>
+    <id type="integer">159000817890</id>
+    <name>MEA ASIA DEV L3 EM Triage</name>
+    <description nil="true"/>
+    <account-id type="integer">4509657</account-id>
+    <escalate-to type="integer" nil="true"/>
+    <assign-time type="integer" nil="true"/>
+    <created-at type="dateTime">2025-12-23T20:05:48+08:00</created-at>
+    <updated-at type="dateTime">2025-12-23T20:05:48+08:00</updated-at>
+    <ticket-assign-type type="integer">0</ticket-assign-type>
+    <business-calendar-id type="integer">159000223950</business-calendar-id>
+    <toggle-availability type="boolean">false</toggle-availability>
+    <capping-limit type="integer">0</capping-limit>
+    <group-type type="integer">1</group-type>
+    <uid nil="true"/>
+    <additional-settings>
+      <wildcat-queue-id>22366</wildcat-queue-id>
+    </additional-settings>
+    <agent-status-toggle type="boolean">false</agent-status-toggle>
+    <department-id type="integer">1</department-id>
+    <agents type="array">
+      <agent type="User">
+        <id type="integer">159010167001</id>
+        <name>Amanulla Musthak</name>
+        <email>amusthak@adeahub.co</email>
+        <created-at type="dateTime">2026-01-21T16:50:36+08:00</created-at>
+        <updated-at type="dateTime">2026-02-19T15:32:26+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">true</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Kolkata</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+      <agent type="User">
+        <id type="integer">159010167009</id>
+        <name>Balaraman Srinivasan</name>
+        <email>bsrinivasa21@adeahub.co</email>
+        <created-at type="dateTime">2026-01-21T16:54:45+08:00</created-at>
+        <updated-at type="dateTime">2026-01-22T18:24:46+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">false</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Kolkata</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+      <agent type="User">
+        <id type="integer">159010167011</id>
+        <name>Ganesh Padmanabhan</name>
+        <email>gpadmanabha3@adeahub.co</email>
+        <created-at type="dateTime">2026-01-21T16:55:37+08:00</created-at>
+        <updated-at type="dateTime">2026-01-21T16:55:37+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">false</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Kolkata</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+      <agent type="User">
+        <id type="integer">159010167033</id>
+        <name>Jithesh Gopal</name>
+        <email>jgopal3@adeahub.co</email>
+        <created-at type="dateTime">2026-01-21T17:04:54+08:00</created-at>
+        <updated-at type="dateTime">2026-02-09T14:10:37+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">false</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Chennai</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+      <agent type="User">
+        <id type="integer">159010167035</id>
+        <name>Kalva Srikar</name>
+        <email>kalva.srikar@adeahub.co</email>
+        <created-at type="dateTime">2026-01-21T17:05:20+08:00</created-at>
+        <updated-at type="dateTime">2026-01-29T14:17:12+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">true</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Kolkata</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+      <agent type="User">
+        <id type="integer">159010167037</id>
+        <name>M.f.mohamed Ali .</name>
+        <email>msuhail@adeahub.co</email>
+        <created-at type="dateTime">2026-01-21T17:06:20+08:00</created-at>
+        <updated-at type="dateTime">2026-01-21T17:06:20+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">false</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Kolkata</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+      <agent type="User">
+        <id type="integer">159010167040</id>
+        <name>Ravi Shankar</name>
+        <email>rshankar9@adeahub.co</email>
+        <created-at type="dateTime">2026-01-21T17:08:13+08:00</created-at>
+        <updated-at type="dateTime">2026-01-21T17:08:13+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">false</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Kolkata</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+      <agent type="User">
+        <id type="integer">159011546470</id>
+        <name>Rmaharajan2</name>
+        <email>rmaharajan2@adeahub.co</email>
+        <created-at type="dateTime">2026-04-01T19:40:51+08:00</created-at>
+        <updated-at type="dateTime">2026-04-01T19:40:51+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">false</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Chennai</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+      <agent type="User">
+        <id type="integer">159010166999</id>
+        <name>Suresh Kumar Machawal</name>
+        <email>smachawal@adeahub.co</email>
+        <created-at type="dateTime">2026-01-21T16:50:07+08:00</created-at>
+        <updated-at type="dateTime">2026-01-21T16:50:07+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">false</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Kolkata</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+    </agents>
+  </group>
+  <group>
+    <id type="integer">159000817888</id>
+    <name>MEA EGYPT SUP</name>
+    <description nil="true"/>
+    <account-id type="integer">4509657</account-id>
+    <escalate-to type="integer">159009916046</escalate-to>
+    <assign-time type="integer">28800</assign-time>
+    <created-at type="dateTime">2025-12-23T20:00:56+08:00</created-at>
+    <updated-at type="dateTime">2026-02-03T21:36:21+08:00</updated-at>
+    <ticket-assign-type type="integer">0</ticket-assign-type>
+    <business-calendar-id type="integer">159000223952</business-calendar-id>
+    <toggle-availability type="boolean">true</toggle-availability>
+    <capping-limit type="integer">0</capping-limit>
+    <group-type type="integer">1</group-type>
+    <uid nil="true"/>
+    <additional-settings>
+      <reassignment-enabled type="boolean">false</reassignment-enabled>
+      <wildcat-queue-id>22367</wildcat-queue-id>
+    </additional-settings>
+    <agent-status-toggle type="boolean">true</agent-status-toggle>
+    <department-id type="integer">1</department-id>
+    <agents type="array">
+      <agent type="User">
+        <id type="integer">159009916102</id>
+        <name>Abdelhaleem Zidan</name>
+        <email>abdelhaleem.zidan@adeahub.co</email>
+        <created-at type="dateTime">2025-12-20T18:46:18+08:00</created-at>
+        <updated-at type="dateTime">2026-01-09T18:07:01+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">true</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Cairo</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+      <agent type="User">
+        <id type="integer">159009916103</id>
+        <name>Abdurrahman Badr</name>
+        <email>abdurrahman.badr@adeahub.co</email>
+        <created-at type="dateTime">2025-12-20T18:46:19+08:00</created-at>
+        <updated-at type="dateTime">2026-02-01T16:32:36+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">true</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Cairo</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+      <agent type="User">
+        <id type="integer">159009916104</id>
+        <name>Ahmed Samir Hassan Ali</name>
+        <email>ahmed.samirhassanali@adeahub.co</email>
+        <created-at type="dateTime">2025-12-20T18:46:19+08:00</created-at>
+        <updated-at type="dateTime">2026-04-02T17:31:49+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">true</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Cairo</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+      <agent type="User">
+        <id type="integer">159009916035</id>
+        <name>Akram Abdel Gelil</name>
+        <email>aabdelgelil@adeahub.co</email>
+        <created-at type="dateTime">2025-12-20T18:21:26+08:00</created-at>
+        <updated-at type="dateTime">2025-12-30T15:11:28+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">true</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Cairo</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+      <agent type="User">
+        <id type="integer">159009916110</id>
+        <name>Bahaa Mohammed</name>
+        <email>bahaa.mohammed@adeahub.co</email>
+        <created-at type="dateTime">2025-12-20T18:46:24+08:00</created-at>
+        <updated-at type="dateTime">2026-01-09T18:11:27+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">false</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Cairo</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+      <agent type="User">
+        <id type="integer">159010287668</id>
+        <name>Charith Valluru</name>
+        <email>krishnasaicharith.valluru@iqvia.com</email>
+        <created-at type="dateTime">2026-01-28T22:14:06+08:00</created-at>
+        <updated-at type="dateTime">2026-01-28T22:23:02+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">true</active>
+        <job-title>HP Agent Support</job-title>
+        <phone nil="true"/>
+        <mobile>+91 89399 02142</mobile>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Mumbai</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+      <agent type="User">
+        <id type="integer">159009916130</id>
+        <name>Khalil Abdelrahim</name>
+        <email>khalil.abdelrahim@adeahub.co</email>
+        <created-at type="dateTime">2025-12-20T18:46:36+08:00</created-at>
+        <updated-at type="dateTime">2026-01-09T18:52:16+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">true</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Cairo</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+      <agent type="User">
+        <id type="integer">159009916133</id>
+        <name>Mahmoud Mohamed El Qenawy</name>
+        <email>mahmoud.mohamedelqenawy@adeahub.co</email>
+        <created-at type="dateTime">2025-12-20T18:46:38+08:00</created-at>
+        <updated-at type="dateTime">2026-02-01T18:24:19+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">true</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Cairo</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+      <agent type="User">
+        <id type="integer">159010235182</id>
+        <name>Mahmoud Shouman</name>
+        <email>mahmoud.shouman@adeahub.co</email>
+        <created-at type="dateTime">2026-01-22T14:55:17+08:00</created-at>
+        <updated-at type="dateTime">2026-01-28T19:12:16+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">false</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Cairo</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+      <agent type="User">
+        <id type="integer">159009916046</id>
+        <name>Mariam Ramzy</name>
+        <email>mramzy@adeahub.co</email>
+        <created-at type="dateTime">2025-12-20T18:21:35+08:00</created-at>
+        <updated-at type="dateTime">2026-01-12T16:41:06+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">true</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Cairo</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+      <agent type="User">
+        <id type="integer">159009916050</id>
+        <name>Marwa Abd El Fadeel</name>
+        <email>m.abdelfadeel@adeahub.co</email>
+        <created-at type="dateTime">2025-12-20T18:21:39+08:00</created-at>
+        <updated-at type="dateTime">2026-04-02T17:32:58+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">true</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Cairo</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+      <agent type="User">
+        <id type="integer">159010235137</id>
+        <name>Mohamed Aboelmagd</name>
+        <email>mohamed.aboelmagd@adeahub.co</email>
+        <created-at type="dateTime">2026-01-22T14:46:05+08:00</created-at>
+        <updated-at type="dateTime">2026-01-28T19:02:18+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">false</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Cairo</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+      <agent type="User">
+        <id type="integer">159009916119</id>
+        <name>Mohamed Kamal Eldin</name>
+        <email>mohamed.kamaleldin@adeahub.co</email>
+        <created-at type="dateTime">2025-12-20T18:46:29+08:00</created-at>
+        <updated-at type="dateTime">2025-12-30T16:49:55+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">true</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Cairo</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+      <agent type="User">
+        <id type="integer">159010236344</id>
+        <name>Mohammed Mustafa</name>
+        <email>mohammed.mustafa@adeahub.co</email>
+        <created-at type="dateTime">2026-01-22T20:33:35+08:00</created-at>
+        <updated-at type="dateTime">2026-01-22T20:47:06+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">true</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Cairo</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+      <agent type="User">
+        <id type="integer">159009916109</id>
+        <name>Muhammed Zakzouk</name>
+        <email>mzakzouk@adeahub.co</email>
+        <created-at type="dateTime">2025-12-20T18:46:24+08:00</created-at>
+        <updated-at type="dateTime">2026-04-02T17:33:34+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">true</active>
+        <job-title>Senior Solution Implementation Analyst | Middle East &amp; Africa</job-title>
+        <phone nil="true"/>
+        <mobile>+201002399971</mobile>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Cairo</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+      <agent type="User">
+        <id type="integer">159010235185</id>
+        <name>Ramadan Hamd Hamd Allah</name>
+        <email>r.hassanyhamdallah@adeahub.co</email>
+        <created-at type="dateTime">2026-01-22T14:55:56+08:00</created-at>
+        <updated-at type="dateTime">2026-03-16T22:34:46+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">true</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Cairo</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+      <agent type="User">
+        <id type="integer">159009916120</id>
+        <name>Ramy Abdrabo</name>
+        <email>ramy.abdrabo@adeahub.co</email>
+        <created-at type="dateTime">2025-12-20T18:46:29+08:00</created-at>
+        <updated-at type="dateTime">2026-02-01T16:48:33+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">true</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Cairo</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+      <agent type="User">
+        <id type="integer">159010286773</id>
+        <name>Salsabila Mokhtar</name>
+        <email>salsabila.mokhtar@adeahub.co</email>
+        <created-at type="dateTime">2026-01-28T19:51:21+08:00</created-at>
+        <updated-at type="dateTime">2026-02-01T17:20:31+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">true</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Cairo</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+      <agent type="User">
+        <id type="integer">159010235189</id>
+        <name>Sandra Elzeni</name>
+        <email>sandra.elzeni@adeahub.co</email>
+        <created-at type="dateTime">2026-01-22T14:56:50+08:00</created-at>
+        <updated-at type="dateTime">2026-01-28T19:15:23+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">false</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Cairo</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+      <agent type="User">
+        <id type="integer">159010287703</id>
+        <name>Suruchi Varshney</name>
+        <email>suruchi.varshney@iqvia.com</email>
+        <created-at type="dateTime">2026-01-28T22:18:28+08:00</created-at>
+        <updated-at type="dateTime">2026-01-28T22:18:28+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">false</active>
+        <job-title>HP Agent Support</job-title>
+        <phone nil="true"/>
+        <mobile>+918130343414</mobile>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Mumbai</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+      <agent type="User">
+        <id type="integer">159010235190</id>
+        <name>Yahia Zakaria Mahmoud</name>
+        <email>yahia.zakariamahmoud@adeahub.co</email>
+        <created-at type="dateTime">2026-01-22T14:57:18+08:00</created-at>
+        <updated-at type="dateTime">2026-01-28T19:06:41+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">false</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Cairo</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+    </agents>
+  </group>
+  <group>
+    <id type="integer">159000817889</id>
+    <name>MEA UAE SUP</name>
+    <description nil="true"/>
+    <account-id type="integer">4509657</account-id>
+    <escalate-to type="integer" nil="true"/>
+    <assign-time type="integer" nil="true"/>
+    <created-at type="dateTime">2025-12-23T20:03:15+08:00</created-at>
+    <updated-at type="dateTime">2026-02-01T20:05:44+08:00</updated-at>
+    <ticket-assign-type type="integer">0</ticket-assign-type>
+    <business-calendar-id type="integer">159000223956</business-calendar-id>
+    <toggle-availability type="boolean">true</toggle-availability>
+    <capping-limit type="integer">0</capping-limit>
+    <group-type type="integer">1</group-type>
+    <uid nil="true"/>
+    <additional-settings>
+      <reassignment-enabled type="boolean">false</reassignment-enabled>
+      <wildcat-queue-id>22368</wildcat-queue-id>
+    </additional-settings>
+    <agent-status-toggle type="boolean">true</agent-status-toggle>
+    <department-id type="integer">1</department-id>
+    <agents type="array">
+      <agent type="User">
+        <id type="integer">159009916102</id>
+        <name>Abdelhaleem Zidan</name>
+        <email>abdelhaleem.zidan@adeahub.co</email>
+        <created-at type="dateTime">2025-12-20T18:46:18+08:00</created-at>
+        <updated-at type="dateTime">2026-01-09T18:07:01+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">true</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Cairo</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+      <agent type="User">
+        <id type="integer">159009916012</id>
+        <name>Akbar Sharif</name>
+        <email>asharifi@adeahub.co</email>
+        <created-at type="dateTime">2025-12-20T18:10:25+08:00</created-at>
+        <updated-at type="dateTime">2026-01-29T14:24:27+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">true</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Abu Dhabi</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+      <agent type="User">
+        <id type="integer">159009916035</id>
+        <name>Akram Abdel Gelil</name>
+        <email>aabdelgelil@adeahub.co</email>
+        <created-at type="dateTime">2025-12-20T18:21:26+08:00</created-at>
+        <updated-at type="dateTime">2025-12-30T15:11:28+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">true</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Cairo</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+      <agent type="User">
+        <id type="integer">159009916112</id>
+        <name>Chandra Shekar Raju Arram</name>
+        <email>carram@adeahub.co</email>
+        <created-at type="dateTime">2025-12-20T18:46:26+08:00</created-at>
+        <updated-at type="dateTime">2026-01-29T18:06:45+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">true</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Abu Dhabi</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+      <agent type="User">
+        <id type="integer">159009916038</id>
+        <name>Eslam Nashaat</name>
+        <email>eslam.nashaat@adeahub.co</email>
+        <created-at type="dateTime">2025-12-20T18:21:28+08:00</created-at>
+        <updated-at type="dateTime">2026-01-28T21:32:12+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">true</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Cairo</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+      <agent type="User">
+        <id type="integer">159009916122</id>
+        <name>George Manoj Jacob</name>
+        <email>gjacob2@adeahub.co</email>
+        <created-at type="dateTime">2025-12-20T18:46:31+08:00</created-at>
+        <updated-at type="dateTime">2026-02-08T18:48:15+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">true</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Abu Dhabi</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+      <agent type="User">
+        <id type="integer">159009916130</id>
+        <name>Khalil Abdelrahim</name>
+        <email>khalil.abdelrahim@adeahub.co</email>
+        <created-at type="dateTime">2025-12-20T18:46:36+08:00</created-at>
+        <updated-at type="dateTime">2026-01-09T18:52:16+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">true</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Cairo</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+      <agent type="User">
+        <id type="integer">159009916044</id>
+        <name>Mahmoud Abozaid</name>
+        <email>mabozaid@adeahub.co</email>
+        <created-at type="dateTime">2025-12-20T18:21:34+08:00</created-at>
+        <updated-at type="dateTime">2026-04-05T18:27:48+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">true</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Kuwait</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+      <agent type="User">
+        <id type="integer">159009916133</id>
+        <name>Mahmoud Mohamed El Qenawy</name>
+        <email>mahmoud.mohamedelqenawy@adeahub.co</email>
+        <created-at type="dateTime">2025-12-20T18:46:38+08:00</created-at>
+        <updated-at type="dateTime">2026-02-01T18:24:19+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">true</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Cairo</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+      <agent type="User">
+        <id type="integer">159010236344</id>
+        <name>Mohammed Mustafa</name>
+        <email>mohammed.mustafa@adeahub.co</email>
+        <created-at type="dateTime">2026-01-22T20:33:35+08:00</created-at>
+        <updated-at type="dateTime">2026-01-22T20:47:06+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">true</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Cairo</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+      <agent type="User">
+        <id type="integer">159010236378</id>
+        <name>Moheb Ibrahim</name>
+        <email>mibrahim53@adeahub.co</email>
+        <created-at type="dateTime">2026-01-22T20:41:05+08:00</created-at>
+        <updated-at type="dateTime">2026-02-12T21:30:42+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">true</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Cairo</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+      <agent type="User">
+        <id type="integer">159009916109</id>
+        <name>Muhammed Zakzouk</name>
+        <email>mzakzouk@adeahub.co</email>
+        <created-at type="dateTime">2025-12-20T18:46:24+08:00</created-at>
+        <updated-at type="dateTime">2026-04-02T17:33:34+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">true</active>
+        <job-title>Senior Solution Implementation Analyst | Middle East &amp; Africa</job-title>
+        <phone nil="true"/>
+        <mobile>+201002399971</mobile>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Cairo</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+      <agent type="User">
+        <id type="integer">159010236384</id>
+        <name>Muthukumaran Chinnusamy</name>
+        <email>mkumaranc@adeahub.co</email>
+        <created-at type="dateTime">2026-01-22T20:45:03+08:00</created-at>
+        <updated-at type="dateTime">2026-03-02T15:46:39+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">true</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Abu Dhabi</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+      <agent type="User">
+        <id type="integer">159010235185</id>
+        <name>Ramadan Hamd Hamd Allah</name>
+        <email>r.hassanyhamdallah@adeahub.co</email>
+        <created-at type="dateTime">2026-01-22T14:55:56+08:00</created-at>
+        <updated-at type="dateTime">2026-03-16T22:34:46+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">true</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Cairo</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+      <agent type="User">
+        <id type="integer">159010235189</id>
+        <name>Sandra Elzeni</name>
+        <email>sandra.elzeni@adeahub.co</email>
+        <created-at type="dateTime">2026-01-22T14:56:50+08:00</created-at>
+        <updated-at type="dateTime">2026-01-28T19:15:23+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">false</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Cairo</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+      <agent type="User">
+        <id type="integer">159009916052</id>
+        <name>Shyam Ramakrishnan Muthurajan</name>
+        <email>smuthurajan@adeahub.co</email>
+        <created-at type="dateTime">2025-12-20T18:21:40+08:00</created-at>
+        <updated-at type="dateTime">2026-01-29T18:40:20+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">true</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Chennai</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+      <agent type="User">
+        <id type="integer">159009916123</id>
+        <name>Srinivas Maddala</name>
+        <email>smaddala@adeahub.co</email>
+        <created-at type="dateTime">2025-12-20T18:46:32+08:00</created-at>
+        <updated-at type="dateTime">2026-02-21T17:37:09+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">true</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Abu Dhabi</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+      <agent type="User">
+        <id type="integer">159010286779</id>
+        <name>Srinivasarao Veedhi</name>
+        <email>srao49@adeahub.co</email>
+        <created-at type="dateTime">2026-01-28T19:52:11+08:00</created-at>
+        <updated-at type="dateTime">2026-03-24T21:53:04+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">true</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Abu Dhabi</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+      <agent type="User">
+        <id type="integer">159010235190</id>
+        <name>Yahia Zakaria Mahmoud</name>
+        <email>yahia.zakariamahmoud@adeahub.co</email>
+        <created-at type="dateTime">2026-01-22T14:57:18+08:00</created-at>
+        <updated-at type="dateTime">2026-01-28T19:06:41+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">false</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Cairo</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+    </agents>
+  </group>
+  <group>
+    <id type="integer">159000818111</id>
+    <name>SG DEV Maxcare</name>
+    <description nil="true"/>
+    <account-id type="integer">4509657</account-id>
+    <escalate-to type="integer" nil="true"/>
+    <assign-time type="integer" nil="true"/>
+    <created-at type="dateTime">2026-01-21T17:30:35+08:00</created-at>
+    <updated-at type="dateTime">2026-01-21T17:30:35+08:00</updated-at>
+    <ticket-assign-type type="integer">0</ticket-assign-type>
+    <business-calendar-id type="integer">159000223949</business-calendar-id>
+    <toggle-availability type="boolean">false</toggle-availability>
+    <capping-limit type="integer">0</capping-limit>
+    <group-type type="integer">1</group-type>
+    <uid nil="true"/>
+    <additional-settings>
+      <wildcat-queue-id>22369</wildcat-queue-id>
+    </additional-settings>
+    <agent-status-toggle type="boolean">false</agent-status-toggle>
+    <department-id type="integer">1</department-id>
+    <agents type="array">
+      <agent type="User">
+        <id type="integer">159010166917</id>
+        <name>Nagarathinam Ramesh</name>
+        <email>nagarathinam.ramesh@adeahub.co</email>
+        <created-at type="dateTime">2026-01-21T16:32:03+08:00</created-at>
+        <updated-at type="dateTime">2026-02-06T17:37:53+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">true</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Singapore</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+      <agent type="User">
+        <id type="integer">159010166883</id>
+        <name>Saravanan Ramamurthy</name>
+        <email>sramamurthy7@adeahub.co</email>
+        <created-at type="dateTime">2026-01-21T16:30:41+08:00</created-at>
+        <updated-at type="dateTime">2026-03-11T09:56:52+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">true</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Chennai</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+    </agents>
+  </group>
+  <group>
+    <id type="integer">159000817892</id>
+    <name>SG SUP Maxcare</name>
+    <description nil="true"/>
+    <account-id type="integer">4509657</account-id>
+    <escalate-to type="integer" nil="true"/>
+    <assign-time type="integer" nil="true"/>
+    <created-at type="dateTime">2025-12-23T20:08:39+08:00</created-at>
+    <updated-at type="dateTime">2025-12-23T20:09:28+08:00</updated-at>
+    <ticket-assign-type type="integer">1</ticket-assign-type>
+    <business-calendar-id type="integer">159000223949</business-calendar-id>
+    <toggle-availability type="boolean">true</toggle-availability>
+    <capping-limit type="integer">0</capping-limit>
+    <group-type type="integer">1</group-type>
+    <uid nil="true"/>
+    <additional-settings>
+      <wildcat-queue-id>22370</wildcat-queue-id>
+    </additional-settings>
+    <agent-status-toggle type="boolean">true</agent-status-toggle>
+    <department-id type="integer">1</department-id>
+    <agents type="array">
+      <agent type="User">
+        <id type="integer">159009916118</id>
+        <name>Elbin Eldhose</name>
+        <email>elbin.eldhose@adeahub.co</email>
+        <created-at type="dateTime">2025-12-20T18:46:28+08:00</created-at>
+        <updated-at type="dateTime">2026-01-29T13:46:02+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">true</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Singapore</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+      <agent type="User">
+        <id type="integer">159009916040</id>
+        <name>Esther Lau</name>
+        <email>elau8@adeahub.co</email>
+        <created-at type="dateTime">2025-12-20T18:21:30+08:00</created-at>
+        <updated-at type="dateTime">2026-02-05T15:32:48+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">true</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Singapore</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+      <agent type="User">
+        <id type="integer">159009916041</id>
+        <name>Jade Lau</name>
+        <email>jlau32@adeahub.co</email>
+        <created-at type="dateTime">2025-12-20T18:21:31+08:00</created-at>
+        <updated-at type="dateTime">2026-01-30T16:06:29+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">true</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Singapore</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+      <agent type="User">
+        <id type="integer">159010095863</id>
+        <name>Maria Oskar</name>
+        <email>moskar@adeahub.co</email>
+        <created-at type="dateTime">2026-01-13T16:02:34+08:00</created-at>
+        <updated-at type="dateTime">2026-02-04T15:08:33+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">true</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Singapore</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+      <agent type="User">
+        <id type="integer">159010237771</id>
+        <name>Salma Banu</name>
+        <email>salma.banu@adeahub.co</email>
+        <created-at type="dateTime">2026-01-22T23:55:58+08:00</created-at>
+        <updated-at type="dateTime">2026-01-29T13:36:50+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">true</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Singapore</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+      <agent type="User">
+        <id type="integer">159010235879</id>
+        <name>Wilfred Tham</name>
+        <email>w.tham@adeahub.co</email>
+        <created-at type="dateTime">2026-01-22T18:15:54+08:00</created-at>
+        <updated-at type="dateTime">2026-02-09T14:49:22+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">false</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Singapore</time-zone>
+        <deleted type="boolean">true</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+      <agent type="User">
+        <id type="integer">159009916107</id>
+        <name>Win Yong</name>
+        <email>koonwin.yong@adeahub.co</email>
+        <created-at type="dateTime">2025-12-20T18:46:22+08:00</created-at>
+        <updated-at type="dateTime">2026-01-23T09:54:29+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">true</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Singapore</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+    </agents>
+  </group>
+  <group>
+    <id type="integer">159000818153</id>
+    <name>Test</name>
+    <description nil="true"/>
+    <account-id type="integer">4509657</account-id>
+    <escalate-to type="integer" nil="true"/>
+    <assign-time type="integer" nil="true"/>
+    <created-at type="dateTime">2026-01-27T16:49:32+08:00</created-at>
+    <updated-at type="dateTime">2026-01-27T16:49:32+08:00</updated-at>
+    <ticket-assign-type type="integer">0</ticket-assign-type>
+    <business-calendar-id type="integer" nil="true"/>
+    <toggle-availability type="boolean">false</toggle-availability>
+    <capping-limit type="integer">0</capping-limit>
+    <group-type type="integer">1</group-type>
+    <uid nil="true"/>
+    <additional-settings>
+      <wildcat-queue-id>22371</wildcat-queue-id>
+    </additional-settings>
+    <agent-status-toggle type="boolean">false</agent-status-toggle>
+    <department-id type="integer">1</department-id>
+    <agents type="array"/>
+  </group>
+  <group>
+    <id type="integer">159000817893</id>
+    <name>TH SUP Enterprise Management</name>
+    <description nil="true"/>
+    <account-id type="integer">4509657</account-id>
+    <escalate-to type="integer" nil="true"/>
+    <assign-time type="integer" nil="true"/>
+    <created-at type="dateTime">2025-12-23T20:10:04+08:00</created-at>
+    <updated-at type="dateTime">2025-12-23T20:10:56+08:00</updated-at>
+    <ticket-assign-type type="integer">1</ticket-assign-type>
+    <business-calendar-id type="integer">159000223951</business-calendar-id>
+    <toggle-availability type="boolean">true</toggle-availability>
+    <capping-limit type="integer">0</capping-limit>
+    <group-type type="integer">1</group-type>
+    <uid nil="true"/>
+    <additional-settings>
+      <wildcat-queue-id>22372</wildcat-queue-id>
+    </additional-settings>
+    <agent-status-toggle type="boolean">true</agent-status-toggle>
+    <department-id type="integer">1</department-id>
+    <agents type="array">
+      <agent type="User">
+        <id type="integer">159009916037</id>
+        <name>Chayapon Preechakasedkit</name>
+        <email>cpreechakase@adeahub.co</email>
+        <created-at type="dateTime">2025-12-20T18:21:28+08:00</created-at>
+        <updated-at type="dateTime">2026-02-05T11:39:12+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">true</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Singapore</time-zone>
+        <deleted type="boolean">true</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+      <agent type="User">
+        <id type="integer">159009916129</id>
+        <name>Jenjira Leekaewkhruea</name>
+        <email>jleekaewkhru@adeahub.co</email>
+        <created-at type="dateTime">2025-12-20T18:46:35+08:00</created-at>
+        <updated-at type="dateTime">2026-02-11T12:11:22+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">true</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Bangkok</time-zone>
+        <deleted type="boolean">true</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+      <agent type="User">
+        <id type="integer">159009916131</id>
+        <name>Kreangkai Chaturongpun</name>
+        <email>kchaturongpu@adeahub.co</email>
+        <created-at type="dateTime">2025-12-20T18:46:37+08:00</created-at>
+        <updated-at type="dateTime">2026-03-11T12:32:20+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">true</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Bangkok</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+      <agent type="User">
+        <id type="integer">159010235840</id>
+        <name>Monsiri Tuntithavorn</name>
+        <email>mtuntithavor@adeahub.co</email>
+        <created-at type="dateTime">2026-01-22T18:04:44+08:00</created-at>
+        <updated-at type="dateTime">2026-03-16T11:34:00+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">true</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Bangkok</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+      <agent type="User">
+        <id type="integer">159010166881</id>
+        <name>Nantapon Mahantapalanon</name>
+        <email>n.mahantapalanon@adeahub.co</email>
+        <created-at type="dateTime">2026-01-21T16:29:56+08:00</created-at>
+        <updated-at type="dateTime">2026-02-12T13:25:01+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">true</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Bangkok</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+      <agent type="User">
+        <id type="integer">159010235843</id>
+        <name>Nawarat Waiyawatjamai</name>
+        <email>nwaiyawatjam@adeahub.co</email>
+        <created-at type="dateTime">2026-01-22T18:05:37+08:00</created-at>
+        <updated-at type="dateTime">2026-02-02T10:59:00+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">true</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Bangkok</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+      <agent type="User">
+        <id type="integer">159010236394</id>
+        <name>Pariyaphorn Noodang</name>
+        <email>pnoodang@adeahub.co</email>
+        <created-at type="dateTime">2026-01-22T20:46:54+08:00</created-at>
+        <updated-at type="dateTime">2026-03-03T14:28:38+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">true</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Bangkok</time-zone>
+        <deleted type="boolean">true</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+      <agent type="User">
+        <id type="integer">159009916051</id>
+        <name>Risa Unprasert</name>
+        <email>runprasert@adeahub.co</email>
+        <created-at type="dateTime">2025-12-20T18:21:39+08:00</created-at>
+        <updated-at type="dateTime">2026-02-12T16:38:16+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">true</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Bangkok</time-zone>
+        <deleted type="boolean">false</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+      <agent type="User">
+        <id type="integer">159010237765</id>
+        <name>Ronnarit Kamlangjai</name>
+        <email>rkamlangjai@adeahub.co</email>
+        <created-at type="dateTime">2026-01-22T23:54:10+08:00</created-at>
+        <updated-at type="dateTime">2026-02-11T12:20:35+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">true</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Bangkok</time-zone>
+        <deleted type="boolean">true</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+      <agent type="User">
+        <id type="integer">159010235872</id>
+        <name>Somsri Duangngoen</name>
+        <email>somsri.duangngoen@adeahub.co</email>
+        <created-at type="dateTime">2026-01-22T18:13:08+08:00</created-at>
+        <updated-at type="dateTime">2026-02-11T12:23:59+08:00</updated-at>
+        <account-id type="integer">4509657</account-id>
+        <active type="boolean">true</active>
+        <job-title nil="true"/>
+        <phone nil="true"/>
+        <mobile nil="true"/>
+        <twitter-id nil="true"/>
+        <description nil="true"/>
+        <time-zone>Bangkok</time-zone>
+        <deleted type="boolean">true</deleted>
+        <fb-profile-id nil="true"/>
+        <language>en</language>
+        <address nil="true"/>
+        <external-id nil="true"/>
+        <helpdesk-agent type="boolean">true</helpdesk-agent>
+        <unique-external-id nil="true"/>
+        <company-id nil="true"/>
+      </agent>
+    </agents>
+  </group>
+</groups>
