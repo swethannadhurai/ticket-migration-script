@@ -1,192 +1,192 @@
 [
   {
-    "time": "2026-04-29T10:33:03.152Z",
+    "time": "2026-05-06T06:16:40.457Z",
     "level": "info",
     "msg": "── Step 1: Loading Excel source data ──"
   },
   {
-    "time": "2026-04-29T10:33:03.153Z",
+    "time": "2026-05-06T06:16:40.458Z",
     "level": "info",
     "msg": "Loading Excel: Service Request.xlsx"
   },
   {
-    "time": "2026-04-29T10:33:05.100Z",
+    "time": "2026-05-06T06:16:42.472Z",
     "level": "info",
     "msg": "  Using sheet: \"MIG - OpenInprogress Onhold - S\""
   },
   {
-    "time": "2026-04-29T10:33:05.155Z",
+    "time": "2026-05-06T06:16:42.525Z",
     "level": "info",
     "msg": "  Rows loaded: 386"
   },
   {
-    "time": "2026-04-29T10:33:05.156Z",
+    "time": "2026-05-06T06:16:42.525Z",
     "level": "info",
     "msg": "Loading Excel: Customerservice_case.xlsx"
   },
   {
-    "time": "2026-04-29T10:33:16.199Z",
+    "time": "2026-05-06T06:16:54.937Z",
     "level": "info",
     "msg": "  Using sheet: \"MIG -NewInProgressSolutionAnnou\""
   },
   {
-    "time": "2026-04-29T10:33:16.259Z",
+    "time": "2026-05-06T06:16:54.994Z",
     "level": "info",
     "msg": "  Rows loaded: 476"
   },
   {
-    "time": "2026-04-29T10:33:16.260Z",
+    "time": "2026-05-06T06:16:54.995Z",
     "level": "info",
     "msg": "Loading Excel: Master Ticket (All Status).xlsx"
   },
   {
-    "time": "2026-04-29T10:33:18.225Z",
+    "time": "2026-05-06T06:16:57.257Z",
     "level": "info",
     "msg": "  Using sheet: \"Master Ticket \""
   },
   {
-    "time": "2026-04-29T10:33:18.777Z",
+    "time": "2026-05-06T06:16:57.825Z",
     "level": "info",
     "msg": "  Rows loaded: 3733"
   },
   {
-    "time": "2026-04-29T10:33:18.778Z",
+    "time": "2026-05-06T06:16:57.826Z",
     "level": "info",
     "msg": "Total Excel rows: 4595"
   },
   {
-    "time": "2026-04-29T10:33:18.795Z",
+    "time": "2026-05-06T06:16:57.832Z",
     "level": "info",
     "msg": "Excel lookup built: 8866 keys"
   },
   {
-    "time": "2026-04-29T10:33:18.795Z",
+    "time": "2026-05-06T06:16:57.833Z",
     "level": "info",
     "msg": "\n── Step 2: Parsing XML ticket exports ──"
   },
   {
-    "time": "2026-04-29T10:33:18.797Z",
+    "time": "2026-05-06T06:16:57.833Z",
     "level": "info",
     "msg": "XML files: Tickets0.xml, Tickets1.xml, Tickets2.xml, Tickets3.xml, Tickets4.xml, Tickets5.xml, Tickets6.xml"
   },
   {
-    "time": "2026-04-29T10:33:18.797Z",
+    "time": "2026-05-06T06:16:57.834Z",
     "level": "info",
     "msg": "Parsing XML: Tickets0.xml"
   },
   {
-    "time": "2026-04-29T10:33:19.274Z",
+    "time": "2026-05-06T06:16:58.371Z",
     "level": "info",
     "msg": "  Tickets0.xml: 300 total → 272 migrated"
   },
   {
-    "time": "2026-04-29T10:33:19.275Z",
+    "time": "2026-05-06T06:16:58.372Z",
     "level": "info",
     "msg": "Parsing XML: Tickets1.xml"
   },
   {
-    "time": "2026-04-29T10:33:19.757Z",
+    "time": "2026-05-06T06:16:58.894Z",
     "level": "info",
     "msg": "  Tickets1.xml: 300 total → 299 migrated"
   },
   {
-    "time": "2026-04-29T10:33:19.758Z",
+    "time": "2026-05-06T06:16:58.894Z",
     "level": "info",
     "msg": "Parsing XML: Tickets2.xml"
   },
   {
-    "time": "2026-04-29T10:33:20.269Z",
+    "time": "2026-05-06T06:16:59.396Z",
     "level": "info",
     "msg": "  Tickets2.xml: 300 total → 238 migrated"
   },
   {
-    "time": "2026-04-29T10:33:20.270Z",
+    "time": "2026-05-06T06:16:59.397Z",
     "level": "info",
     "msg": "Parsing XML: Tickets3.xml"
   },
   {
-    "time": "2026-04-29T10:33:20.847Z",
+    "time": "2026-05-06T06:17:00.008Z",
     "level": "info",
     "msg": "  Tickets3.xml: 300 total → 0 migrated"
   },
   {
-    "time": "2026-04-29T10:33:20.847Z",
+    "time": "2026-05-06T06:17:00.008Z",
     "level": "info",
     "msg": "Parsing XML: Tickets4.xml"
   },
   {
-    "time": "2026-04-29T10:33:21.308Z",
+    "time": "2026-05-06T06:17:00.594Z",
     "level": "info",
     "msg": "  Tickets4.xml: 300 total → 0 migrated"
   },
   {
-    "time": "2026-04-29T10:33:21.309Z",
+    "time": "2026-05-06T06:17:00.594Z",
     "level": "info",
     "msg": "Parsing XML: Tickets5.xml"
   },
   {
-    "time": "2026-04-29T10:33:21.783Z",
+    "time": "2026-05-06T06:17:01.188Z",
     "level": "info",
     "msg": "  Tickets5.xml: 300 total → 0 migrated"
   },
   {
-    "time": "2026-04-29T10:33:21.783Z",
+    "time": "2026-05-06T06:17:01.188Z",
     "level": "info",
     "msg": "Parsing XML: Tickets6.xml"
   },
   {
-    "time": "2026-04-29T10:33:21.986Z",
+    "time": "2026-05-06T06:17:01.544Z",
     "level": "info",
     "msg": "  Tickets6.xml: 140 total → 0 migrated"
   },
   {
-    "time": "2026-04-29T10:33:21.987Z",
+    "time": "2026-05-06T06:17:01.546Z",
     "level": "warn",
     "msg": "TEST_TICKET_IDS filter is ON. Found 1 matches out of 1 requested IDs."
   },
   {
-    "time": "2026-04-29T10:33:21.987Z",
+    "time": "2026-05-06T06:17:01.546Z",
     "level": "info",
     "msg": "\nTotal migrated tickets to process: 1"
   },
   {
-    "time": "2026-04-29T10:33:21.988Z",
+    "time": "2026-05-06T06:17:01.546Z",
     "level": "info",
     "msg": "\n── Step 3: Processing tickets ──"
   },
   {
-    "time": "2026-04-29T10:33:21.989Z",
+    "time": "2026-05-06T06:17:01.547Z",
     "level": "info",
-    "msg": "Processing ticket #1448",
-    "subject": "upgrading existing UNI-Directional interface of BS430 to BI-Directional",
-    "externalRef": "RITM0133337"
+    "msg": "Processing ticket #1330",
+    "subject": "Medical Tourism Changes in XML Generation",
+    "externalRef": "RITM0134876"
   },
   {
-    "time": "2026-04-29T10:33:21.989Z",
+    "time": "2026-05-06T06:17:01.547Z",
     "level": "info",
-    "msg": "  Matched Excel row: RITM0133337"
+    "msg": "  Matched Excel row: RITM0134876"
   },
   {
-    "time": "2026-04-29T10:33:24.065Z",
+    "time": "2026-05-06T06:17:03.574Z",
     "level": "info",
-    "msg": "Updated ticket #1448",
+    "msg": "Updated ticket #1330",
     "customFields": {
-      "cf_original_ticket_creation_date": "2023-08-18T14:27:00.000Z"
+      "cf_original_ticket_creation_date": "29-08-2023 10:34:00"
     }
   },
   {
-    "time": "2026-04-29T10:33:27.532Z",
+    "time": "2026-05-06T06:17:08.202Z",
     "level": "info",
-    "msg": "Deleted conversation 159020676758"
+    "msg": "Deleted conversation 159028254216"
   },
   {
-    "time": "2026-04-29T10:33:29.448Z",
+    "time": "2026-05-06T06:17:10.193Z",
     "level": "info",
-    "msg": "Created PRIVATE note on ticket #1448"
+    "msg": "Created PUBLIC note on ticket #1330"
   },
   {
-    "time": "2026-04-29T10:33:31.385Z",
+    "time": "2026-05-06T06:17:12.169Z",
     "level": "info",
-    "msg": "Created PRIVATE note on ticket #1448"
+    "msg": "Created PUBLIC note on ticket #1330"
   }
 ]

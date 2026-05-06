@@ -5,7 +5,7 @@ const fs = require('fs');
 const path = require('path');
 
 // 🔴 EDIT THIS LINE: Put the Ticket IDs from your Test Account here!
-const TEST_TICKET_IDS = [1524];
+const TEST_TICKET_IDS = [1330];
 
 // --- Config ---
 const FRESHDESK_DOMAIN = process.env.FRESHDESK_DOMAIN;
@@ -102,14 +102,26 @@ function buildExcelLookup(rows) {
 function getCreatedDate(row) {
   const val = row['Created'] || row['created'] || row['Opened'] || row['opened'] || '';
   if (!val) return null;
+
+  function formatDate(d) {
+    const year = d.getUTCFullYear();
+    const month = String(d.getUTCMonth() + 1).padStart(2, '0');
+    const day = String(d.getUTCDate()).padStart(2, '0');
+    const hours = String(d.getUTCHours()).padStart(2, '0');
+    const minutes = String(d.getUTCMinutes()).padStart(2, '0');
+    const seconds = String(d.getUTCSeconds()).padStart(2, '0');
+    return `${day}-${month}-${year} ${hours}:${minutes}:${seconds}`;
+  }
+
   if (typeof val === 'number') {
     try {
       const d = xlsx.SSF.parse_date_code(val);
-      return new Date(Date.UTC(d.y, d.m - 1, d.d, d.H || 0, d.M || 0, d.S || 0)).toISOString();
+      const dt = new Date(Date.UTC(d.y, d.m - 1, d.d, d.H || 0, d.M || 0, d.S || 0));
+      return formatDate(dt);
     } catch (_) { }
   }
   const d = new Date(String(val).trim());
-  if (!isNaN(d.valueOf())) return d.toISOString();
+  if (!isNaN(d.valueOf())) return formatDate(d);
   return null;
 }
 

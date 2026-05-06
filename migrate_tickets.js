@@ -43,7 +43,7 @@ const REQUIRED_TAGS = ['prod_migration', 'migrated'];
 
 // 🔴 EDIT THIS LINE: To test specific tickets in Prod, add their IDs here (e.g. ['622', '624']).
 // Leave it completely empty `[]` to process ALL tickets.
-const TEST_TICKET_IDS = ['1448'];
+const TEST_TICKET_IDS = ['1330'];
 
 const RATE_LIMIT_MS = 1300;   // ~45 req/min (Freshdesk limit: 50/min)
 const PROGRESS_FILE = path.join(__dirname, 'progress.json');
@@ -206,7 +206,7 @@ function getCreatedDate(row) {
   if (!val) return null;
 
   function formatDate(year, month, day, hours, minutes) {
-    return `${year}-${String(month).padStart(2, '0')}-${String(day).padStart(2, '0')}T${String(hours).padStart(2, '0')}:${String(minutes).padStart(2, '0')}:00.000Z`;
+    return `${String(day).padStart(2, '0')}-${String(month).padStart(2, '0')}-${year} ${String(hours).padStart(2, '0')}:${String(minutes).padStart(2, '0')}:00`;
   }
 
   if (val instanceof Date) {
